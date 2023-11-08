@@ -68,7 +68,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 9076_01,Earth,True,G/1461/S,TRAPPIST-1e,32.0,0,0.0,0.0,0.0,0.0,0.0,Shawne Simonsents,9076,01,G,1461,S
 4315_02,Earth,0,G/710/P,TRAPPIST-1e,20.0,0,0.0,0.0,0.0,0.0,0.0,Monard Hammonton,4315,02,G,710,P
 1433_01,Earth,1,G/219/S,TRAPPIST-1e,51.0,0,0.0,0.0,0.0,0.0,0.0,Allene Noeley,1433,01,G,219,S
-0984_02,Earth,0,F/182/S,TRAPPIST-1e,11.0,0,0.0,0.0,718.0,0.0,0.0,Kathy Brown,0984,02,F,182,S
+0984_02,Earth,0,F/182/S,TRAPPIST-1e,11.0,0,0.0,0.0,718.0,0.0,0.0,Cesar Murray,0984,02,F,182,S
 9136_01,Earth,0,G/1471/S,TRAPPIST-1e,33.0,0,6.0,0.0,0.0,800.0,3.0,Sall Hestes,9136,01,G,1471,S
 3352_01,Earth,1,G/547/P,PSO J318.5-22,47.0,0,0.0,0.0,0.0,0.0,0.0,Kelle Hickson,3352,01,G,547,P
 6077_01,Earth,1,G/985/P,TRAPPIST-1e,17.0,0,0.0,0.0,0.0,0.0,0.0,Armene Lewintos,6077,01,G,985,P
@@ -140,13 +140,13 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0456_01,Earth,0,F/83/S,TRAPPIST-1e,55.0,0,210.0,185.0,188.0,59.0,73.0,Lulah Hinetthews,0456,01,F,83,S
 2532_01,Mars,0,F/489/S,TRAPPIST-1e,24.0,0,737.0,37.0,1682.0,0.0,0.0,Gorn Traie,2532,01,F,489,S
 0582_01,Mars,1,F/118/P,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Dicks Chort,0582,01,F,118,P
-1463_01,Earth,0,F/282/S,PSO J318.5-22,23.0,0,200.0,414.0,73.0,1.0,1.0,Crystal Blair,1463,01,F,282,S
+1463_01,Earth,0,F/282/S,PSO J318.5-22,23.0,0,200.0,414.0,73.0,1.0,1.0,Christine Riley,1463,01,F,282,S
 8729_02,Europa,0,E/559/P,TRAPPIST-1e,20.0,0,226.60033250207815,7759.0,18.0,4925.0,12685.0,Charda Rewmid,8729,02,E,559,P
 3361_03,Mars,1,F/635/S,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Bakix Razo,3361,03,F,635,S
 8092_02,Europa,1,D/238/S,55 Cancri e,33.0,1,0.0,0.0,0.0,0.0,0.0,Hekabih Pulgaly,8092,02,D,238,S
 1871_01,Europa,0,C/70/S,TRAPPIST-1e,31.0,0,0.0,1983.0,0.0,172.0,52.0,Aston Spedlybood,1871,01,C,70,S
 3301_03,Earth,0,G/525/S,55 Cancri e,0.0,0,0.0,0.0,0.0,0.0,0.0,Yolace Domington,3301,03,G,525,S
-0330_02,Europa,0,C/14/S,TRAPPIST-1e,32.0,0,247.0,4651.0,0.0,46.0,202.0,Teresa Castro,0330,02,C,14,S
+0330_02,Europa,0,C/14/S,TRAPPIST-1e,32.0,0,247.0,4651.0,0.0,46.0,202.0,David Rodriguez,0330,02,C,14,S
 0475_01,Earth,0,E/29/P,TRAPPIST-1e,36.0,0,0.0,0.0,38.0,9.0,943.0,Danie Gilesonston,0475,01,E,29,P
 0816_01,Europa,0,E/60/S,55 Cancri e,24.0,0,0.0,284.0,0.0,4614.0,438.0,Giedir Asoppor,0816,01,E,60,S
 1186_02,Earth,0,G/183/S,TRAPPIST-1e,8.0,0,0.0,0.0,0.0,0.0,0.0,Elany Browlerson,1186,02,G,183,S
@@ -185,7 +185,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0992_02,Europa,0,D/35/S,TRAPPIST-1e,29.0,0,387.0,942.0,0.0,9927.0,1341.0,Tareson Kiling,0992,02,D,35,S
 5089_01,Europa,0,B/170/P,TRAPPIST-1e,39.0,0,3926.0,2030.0,0.0,1483.0,611.0,Alrakan Aivering,5089,01,B,170,P
 2648_01,Earth,0,G/421/S,TRAPPIST-1e,23.0,0,490.0,313.0,0.0,6.0,0.0,Allena Sullones,2648,01,G,421,S
-0012_01,Earth,0,,TRAPPIST-1e,31.0,0,32.0,0.0,876.0,0.0,0.0,Justie Pooles,0012,01,B,32,S
+0012_01,Earth,0,,TRAPPIST-1e,31.0,0,32.0,0.0,876.0,0.0,0.0,Justie Pooles,0012,01,E,92,B
 0164_01,Earth,0,G/28/S,TRAPPIST-1e,57.0,0,50.0,1688.0,0.0,314.1307461692205,135.0,Fany Hutchinton,0164,01,G,28,S
 7240_01,Mars,0,F/1392/S,TRAPPIST-1e,39.0,0,197.0,0.0,2401.0,0.0,0.0,Oaters Kad,7240,01,F,1392,S
 2547_01,Europa,0,A/20/P,55 Cancri e,37.0,0,0.0,100.0,0.0,1402.0,1462.0,Alatrix Sometery,2547,01,A,20,P
@@ -216,7 +216,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3652_01,Earth,1,G/591/S,TRAPPIST-1e,28.0,0,0.0,0.0,0.0,0.0,0.0,Lina Frandriquez,3652,01,G,591,S
 1960_02,Earth,0,E/122/P,PSO J318.5-22,21.0,0,0.0,0.0,677.0,4.0,0.0,Joana Lynnerett,1960,02,E,122,P
 6650_01,Earth,0,G/1077/P,TRAPPIST-1e,48.0,0,12.0,0.0,0.0,0.0,796.0,Joelan Beasleyes,6650,01,G,1077,P
-5105_01,Earth,1,,PSO J318.5-22,16.0,0,0.0,0.0,0.0,0.0,0.0,Holey Sullones,5105,01,F,18,B
+5105_01,Earth,1,,PSO J318.5-22,16.0,0,0.0,0.0,0.0,0.0,0.0,Holey Sullones,5105,01,B,71,S
 1980_03,Earth,1,G/312/S,TRAPPIST-1e,44.0,0,0.0,0.0,0.0,0.0,0.0,Penne Browlerson,1980,03,G,312,S
 5012_01,Earth,1,G/811/P,55 Cancri e,24.0,0,0.0,0.0,0.0,0.0,0.0,Benny Joynewtonks,5012,01,G,811,P
 3895_02,Mars,0,E/233/P,TRAPPIST-1e,27.0,0,847.0,466.7652925531915,4.0,0.0,1.0,Swal Anpie,3895,02,E,233,P
@@ -236,7 +236,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8320_01,Earth,1,G/1352/P,PSO J318.5-22,19.0,0,0.0,0.0,0.0,0.0,0.0,Beula Mckinsond,8320,01,G,1352,P
 0993_01,Earth,0,F/184/S,55 Cancri e,24.0,0,252.0,0.0,0.0,449.0,0.0,Juanie Miltongson,0993,01,F,184,S
 3648_01,Earth,0,F/687/S,PSO J318.5-22,39.0,0,0.0,0.0,0.0,1144.0,0.0,Tany Mcculley,3648,01,F,687,S
-0715_01,Europa,True,,55 Cancri e,54.0,0,0.0,0.0,0.0,0.0,0.0,Izarfik Unconary,0715,01,D,190,B
+0715_01,Europa,True,,55 Cancri e,54.0,0,0.0,0.0,0.0,0.0,0.0,Izarfik Unconary,0715,01,F,71,S
 4181_03,Europa,1,C/133/P,TRAPPIST-1e,17.0,0,0.0,0.0,0.0,0.0,0.0,Terope Frattyring,4181,03,C,133,P
 2022_01,Earth,0,F/390/S,PSO J318.5-22,36.0,0,0.0,809.0,0.0,86.0,0.0,Gracia Houseson,2022,01,F,390,S
 2435_01,Earth,0,F/467/S,TRAPPIST-1e,33.0,0,4.0,0.0,28.0,0.0,2757.0,Lynnee Bonder,2435,01,F,467,S
@@ -244,7 +244,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3985_01,Earth,0,G/654/P,TRAPPIST-1e,50.0,0,667.0,0.0,0.0,11.0,170.0,Leneva Hahnstoneal,3985,01,G,654,P
 4689_01,Europa,0,C/182/S,TRAPPIST-1e,28.0,1,0.0,3119.0,0.0,1404.0,366.0,Stra Persoffly,4689,01,C,182,S
 7767_01,Earth,1,G/1257/S,PSO J318.5-22,22.0,0,0.0,0.0,0.0,0.0,0.0,Curtle Oconley,7767,01,G,1257,S
-4575_01,Earth,1.0,F/941/P,TRAPPIST-1e,21.0,0,3.0,65.0,253.0,475.0,0.0,Kris Solon,4575,01,F,941,P
+4575_01,Earth,0.0,F/941/P,TRAPPIST-1e,21.0,0,3.0,65.0,253.0,475.0,0.0,Kris Solon,4575,01,F,941,P
 8318_02,Mars,0,F/1711/P,TRAPPIST-1e,65.0,0,1399.0,0.0,0.0,0.0,0.0,Kie Ropie,8318,02,F,1711,P
 0044_02,Earth,1,G/3/P,55 Cancri e,4.0,0,0.0,0.0,0.0,0.0,0.0,Kayne Coopelandez,0044,02,G,3,P
 4695_03,Mars,1,F/882/S,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Whex Snoff,4695,03,F,882,S
@@ -262,7 +262,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0642_05,Europa,1,C/25/S,55 Cancri e,30.0,0,0.0,0.0,0.0,0.0,0.0,Duhrk Kiling,0642,05,C,25,S
 5007_01,Mars,0,F/951/S,TRAPPIST-1e,35.0,0,1337.0,49.0,57.0,0.0,0.0,Gramus Watie,5007,01,F,951,S
 6308_01,Earth,0,G/1017/P,TRAPPIST-1e,28.0,0,0.0,152.0,215.0,30.0,510.0,Jord Cofferson,6308,01,G,1017,P
-0244_01,Mars,1,,TRAPPIST-1e,43.0,0,0.0,0.0,0.0,0.0,0.0,Froos Sad,0244,01,D,54,S
+0244_01,Mars,1,,TRAPPIST-1e,43.0,0,0.0,0.0,0.0,0.0,0.0,Froos Sad,0244,01,D,151,B
 4216_01,Europa,1,B/134/P,TRAPPIST-1e,65.0,0,0.0,0.0,0.0,0.0,0.0,Rotan Dratembid,4216,01,B,134,P
 8191_01,Earth,0,G/1320/S,PSO J318.5-22,18.0,0,0.0,0.0,19.0,751.0,4.0,Gracy Gaington,8191,01,G,1320,S
 6091_02,Earth,0,F/1260/P,TRAPPIST-1e,39.0,0,0.0,29.0,291.0,13.0,527.0,Pattin Lynnerett,6091,02,F,1260,P
@@ -272,7 +272,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 1923_02,Europa,1,C/65/P,55 Cancri e,24.0,0,0.0,0.0,0.0,0.0,0.0,Ranan Dister,1923,02,C,65,P
 2625_02,Earth,0,E/160/P,TRAPPIST-1e,22.0,0,0.0,1.0,271.0,0.0,1348.0,Karlie Stanleyd,2625,02,E,160,P
 6526_01,Earth,1,G/1056/P,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Raulia Larks,6526,01,G,1056,P
-7950_02,Earth,1,G/1287/P,TRAPPIST-1e,11.0,0,0.0,0.0,0.0,0.0,0.0,Susan Craig,7950,02,G,1287,P
+7950_02,Earth,1,G/1287/P,TRAPPIST-1e,11.0,0,0.0,0.0,0.0,0.0,0.0,Evan Grant,7950,02,G,1287,P
 5188_03,Earth,1,G/838/P,TRAPPIST-1e,12.0,0,0.0,0.0,0.0,0.0,0.0,Wally Bootez,5188,03,G,838,P
 6863_01,Earth,0,F/1311/S,TRAPPIST-1e,25.0,0,0.0,10.0,909.0,0.0,17.0,Franda Patrichane,6863,01,F,1311,S
 6363_04,Earth,1,G/1026/P,TRAPPIST-1e,1.0,0,0.0,0.0,0.0,0.0,0.0,Alancy Gouldensen,6363,04,G,1026,P
@@ -324,12 +324,12 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 1426_01,Europa,1,D/46/P,55 Cancri e,28.0,0,0.0,0.0,0.0,0.0,0.0,Duhrid Drelcate,1426,01,D,46,P
 4581_01,Europa,0,B/181/S,TRAPPIST-1e,33.0,0,0.0,4592.0,0.0,209.0,954.0,Skatzn Entedraved,4581,01,B,181,S
 1036_01,Earth,1,G/161/S,PSO J318.5-22,24.0,0,0.0,0.0,0.0,0.0,0.0,Laude Georgasey,1036,01,G,161,S
-0860_01,Earth,0,E/48/P,TRAPPIST-1e,24.0,0,34.0,7.0,320.0,0.0,427.0,Joseph Dominguez,0860,01,E,48,P
+0860_01,Earth,0,E/48/P,TRAPPIST-1e,24.0,0,34.0,7.0,320.0,0.0,427.0,Todd King,0860,01,E,48,P
 2314_01,Earth,1,G/370/S,TRAPPIST-1e,13.0,0,0.0,0.0,0.0,0.0,0.0,Troyce Folemonley,2314,01,G,370,S
 7601_01,Earth,0,G/1232/S,TRAPPIST-1e,17.0,0,214.0,552.0,0.0,241.0,0.0,Amela Starkers,7601,01,G,1232,S
 4608_01,Earth,0,F/864/S,55 Cancri e,31.0,0,2.0,20.0,1.0,1026.0,2.0,Colle Maystuarey,4608,01,F,864,S
 1697_01,Earth,0,G/274/P,TRAPPIST-1e,23.0,0,0.0,13.0,0.0,773.0,0.0,Hollie Blainson,1697,01,G,274,P
-4652_01,Earth,0,,TRAPPIST-1e,27.0,0,0.0,89.0,874.0,34.0,0.0,Sta Robins,4652,01,E,26,B
+4652_01,Earth,0,,TRAPPIST-1e,27.0,0,0.0,89.0,874.0,34.0,0.0,Sta Robins,4652,01,A,5,S
 3450_01,Europa,0,B/132/S,55 Cancri e,22.0,0,0.0,4209.0,26.0,2462.0,466.0,Pentard Knocke,3450,01,B,132,S
 4782_04,Europa,1,C/189/S,55 Cancri e,27.0,0,0.0,0.0,0.0,0.0,0.0,Hadirk Slable,4782,04,C,189,S
 8023_02,Europa,1,D/249/P,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Auvara Mallisly,8023,02,D,249,P
@@ -343,7 +343,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 1428_01,Earth,0,E/109/S,TRAPPIST-1e,44.0,0,0.0,200.0,128.0,460.0,0.0,Artis Hanghanson,1428,01,E,109,S
 6402_04,Earth,0,G/1032/P,PSO J318.5-22,18.0,0,0.0,0.0,1720.0,1.0,0.0,Fayen Bradamss,6402,04,G,1032,P
 8780_01,Earth,0,G/1414/S,TRAPPIST-1e,30.0,0,0.0,114.0,0.0,726.0,67.0,Dory Bryangton,8780,01,G,1414,S
-3729_01,Earth,1,G/605/P,PSO J318.5-22,40.0,0,0.0,0.0,0.0,0.0,0.0,Omar Brooks,3729,01,G,605,P
+3729_01,Earth,1,G/605/P,PSO J318.5-22,40.0,0,0.0,0.0,0.0,0.0,0.0,Janet Wall,3729,01,G,605,P
 4178_01,Earth,0,G/687/P,TRAPPIST-1e,19.0,0,0.0,0.0,4.0,6.0,773.0,Almara Sweenez,4178,01,G,687,P
 4929_01,Mars,1,F/1004/P,55 Cancri e,13.0,0,0.0,0.0,0.0,0.0,0.0,Guink Reake,4929,01,F,1004,P
 4544_01,Earth,1,G/743/P,TRAPPIST-1e,34.0,0,0.0,0.0,0.0,0.0,0.0,Regana Pottney,4544,01,G,743,P
@@ -355,9 +355,9 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8503_02,Europa,0,B/279/P,TRAPPIST-1e,31.0,0,0.0,529.0,0.0,314.1307461692205,3884.0,Keidus Coweboded,8503,02,B,279,P
 2508_02,Europa,1,D/86/S,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Phacton Switud,2508,02,D,86,S
 0025_01,Earth,0,F/6/S,TRAPPIST-1e,15.0,0,0.0,225.0,0.0,998.0,0.0,Karard Brookenson,0025,01,F,6,S
-8614_01,Earth,0,G/1400/P,TRAPPIST-1e,23.0,0,4.0,3.0,1785.0,0.0,0.0,Patricia Green,8614,01,G,1400,P
+8614_01,Earth,0,G/1400/P,TRAPPIST-1e,23.0,0,4.0,3.0,1785.0,0.0,0.0,Christopher Taylor,8614,01,G,1400,P
 4324_02,Mars,1,F/810/S,TRAPPIST-1e,24.0,0,0.0,0.0,0.0,0.0,0.0,Wheal Krake,4324,02,F,810,S
-9085_01,Europa,0,A/95/P,55 Cancri e,70.0,0,0.0,2113.0,0.0,1972.0,51.0,Angel Martinez,9085,01,A,95,P
+9085_01,Europa,0,A/95/P,55 Cancri e,70.0,0,0.0,2113.0,0.0,1972.0,51.0,Steven Gonzalez,9085,01,A,95,P
 1156_01,Europa,0,B/47/S,TRAPPIST-1e,27.0,0,0.0,2987.0,2.0,3072.0,67.0,Sterfik Motter,1156,01,B,47,S
 0133_02,Mars,0,D/5/S,TRAPPIST-1e,36.0,0,2738.0,0.0,0.0,0.0,0.0,Egrasp Blie,0133,02,D,5,S
 5174_01,Europa,1,C/159/P,55 Cancri e,44.0,0,0.0,0.0,0.0,0.0,0.0,Hekark Alenter,5174,01,C,159,P
@@ -385,7 +385,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 9205_01,Europa,1,B/300/P,55 Cancri e,37.0,0,0.0,0.0,0.0,0.0,0.0,Thaldah Brakeng,9205,01,B,300,P
 0859_01,Earth,1,G/127/S,TRAPPIST-1e,32.0,0,0.0,0.0,0.0,0.0,0.0,Eleaha Lambles,0859,01,G,127,S
 3678_01,Earth,0,E/247/S,TRAPPIST-1e,24.0,0,0.0,0.0,788.0,0.0,3.0,Anny Bellarkerd,3678,01,E,247,S
-6634_02,Earth,1,,TRAPPIST-1e,64.0,0,0.0,0.0,0.0,0.0,0.0,Alasmon Dischod,6634,02,F,45,B
+6634_02,Earth,1,,TRAPPIST-1e,64.0,0,0.0,0.0,0.0,0.0,0.0,Alasmon Dischod,6634,02,F,97,S
 1020_01,Mars,1,F/208/P,TRAPPIST-1e,25.0,0,0.0,0.0,0.0,0.0,0.0,Appers Wala,1020,01,F,208,P
 7093_01,Earth,1,G/1143/P,TRAPPIST-1e,32.0,0,0.0,0.0,0.0,0.0,0.0,Annya Patthews,7093,01,G,1143,P
 4656_02,Earth,0,G/763/S,TRAPPIST-1e,9.0,0,0.0,0.0,0.0,0.0,0.0,Vanney Miranciash,4656,02,G,763,S
@@ -399,8 +399,8 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 1304_03,Earth,0,E/82/P,TRAPPIST-1e,10.0,0,0.0,0.0,0.0,0.0,0.0,Winia Quinnedy,1304,03,E,82,P
 7342_01,Earth,0,G/1178/P,TRAPPIST-1e,50.0,0,0.0,185.0,0.0,1.0,558.0,Stevey Haynard,7342,01,G,1178,P
 8084_01,Europa,0,C/264/P,TRAPPIST-1e,31.0,0,226.60033250207815,745.0,0.0,6688.0,2161.0,Schyon Idercaling,8084,01,C,264,P
-4179_01,Europa,0,A/50/S,TRAPPIST-1e,30.0,1,0.0,1172.0,183.0,91.0,0.0,Edward King,4179,01,A,50,S
-8010_01,Europa,0,C/300/S,TRAPPIST-1e,59.0,0,0.0,2593.0,0.0,98.0,0.0,Keith Cuevas,8010,01,C,300,S
+4179_01,Europa,0,A/50/S,TRAPPIST-1e,30.0,1,0.0,1172.0,183.0,91.0,0.0,Christopher Herman,4179,01,A,50,S
+8010_01,Europa,0,C/300/S,TRAPPIST-1e,59.0,0,0.0,2593.0,0.0,98.0,0.0,Andrew Benson,8010,01,C,300,S
 7156_01,Mars,0,E/475/S,TRAPPIST-1e,3.0,0,0.0,0.0,0.0,0.0,0.0,Lig Ramad,7156,01,E,475,S
 5969_02,Earth,0,F/1137/S,55 Cancri e,37.0,0,0.0,698.0,0.0,314.1307461692205,6.0,Lardy Reenez,5969,02,F,1137,S
 4042_03,Europa,1,A/46/S,55 Cancri e,26.0,0,0.0,0.0,0.0,0.0,0.0,Canon Stewder,4042,03,A,46,S
@@ -442,7 +442,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 1389_01,Earth,1,G/212/S,55 Cancri e,38.0,0,0.0,0.0,0.0,0.0,0.0,Hatty Lowelliott,1389,01,G,212,S
 1294_02,Europa,1,A/14/S,PSO J318.5-22,30.0,0,0.0,0.0,0.0,0.0,0.0,Chamak Plegred,1294,02,A,14,S
 2454_01,Earth,0,F/510/P,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,157.0,644.0,Jeandy Monroellynn,2454,01,F,510,P
-5368_01,Earth,0,G/870/S,TRAPPIST-1e,18.0,0,0.0,0.0,55.0,2288.0,1.0,Lisa Johnson,5368,01,G,870,S
+5368_01,Earth,0,G/870/S,TRAPPIST-1e,18.0,0,0.0,0.0,55.0,2288.0,1.0,Jose Navarro,5368,01,G,870,S
 3142_01,Mars,0,F/591/S,TRAPPIST-1e,43.0,0,33.0,1117.0,59.0,0.0,16.0,Backse Cla,3142,01,F,591,S
 5611_01,Europa,1,D/171/S,TRAPPIST-1e,28.0,0,0.0,0.0,0.0,0.0,0.0,Medion Clutchor,5611,01,D,171,S
 3342_01,Earth,1,G/531/S,TRAPPIST-1e,24.0,0,0.0,0.0,0.0,0.0,0.0,Jordy Hayder,3342,01,G,531,S
@@ -454,7 +454,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0853_01,Earth,1,A/9/S,55 Cancri e,38.0,0,0.0,0.0,0.0,0.0,0.0,Hamelik Ageurante,0853,01,A,9,S
 2190_01,Earth,0,F/430/S,TRAPPIST-1e,20.0,0,1750.0,0.0,446.0,0.0,76.0,Allia Barris,2190,01,F,430,S
 3959_03,Earth,1,G/646/P,55 Cancri e,0.0,0,0.0,0.0,0.0,0.0,0.0,Maya Sullones,3959,03,G,646,P
-0502_01,Mars,0,,TRAPPIST-1e,22.0,0,10.0,0.0,817.0,471.0,0.0,Pigars Swell,0502,01,A,11,B
+0502_01,Mars,0,,TRAPPIST-1e,22.0,0,10.0,0.0,817.0,471.0,0.0,Pigars Swell,0502,01,F,133,B
 3174_01,Mars,0,D/101/P,TRAPPIST-1e,19.0,0,155.0,0.0,1632.0,3.0,0.0,Berios Homin,3174,01,D,101,P
 2092_01,Mars,0,D/70/S,TRAPPIST-1e,18.0,0,29.0,0.0,2315.0,0.0,1.0,Muffs Blan,2092,01,D,70,S
 2624_01,Earth,0,F/542/P,TRAPPIST-1e,15.0,0,0.0,0.0,875.0,3.0,306.23469727212245,Annard Armstromez,2624,01,F,542,P
@@ -464,7 +464,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2584_01,Earth,True,G/417/P,PSO J318.5-22,21.0,0,0.0,0.0,170.72672872340425,0.0,0.0,Lilace Woodwardy,2584,01,G,417,P
 8273_01,Earth,0,G/1346/P,TRAPPIST-1e,46.0,0,0.0,0.0,0.0,369.0,515.0,Lilley Woody,8273,01,G,1346,P
 1148_02,Europa,0,C/42/P,55 Cancri e,11.0,0,0.0,122.0,2138.0,7368.0,1213.0,Axinon Clugete,1148,02,C,42,P
-7703_02,Earth,1,G/1251/S,TRAPPIST-1e,13.0,0,0.0,0.0,0.0,0.0,0.0,Bryan Carpenter,7703,02,G,1251,S
+7703_02,Earth,1,G/1251/S,TRAPPIST-1e,13.0,0,0.0,0.0,0.0,0.0,0.0,Renee Lewis,7703,02,G,1251,S
 0164_02,Earth,1,G/28/S,PSO J318.5-22,17.0,0,0.0,0.0,0.0,0.0,0.0,Ianya Hutchinton,0164,02,G,28,S
 6512_03,Europa,0,A/80/S,TRAPPIST-1e,28.0,0,0.0,3527.0,1.0,2929.0,2236.0,Hekaton Goortedant,6512,03,A,80,S
 1420_01,Mars,1,E/108/S,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Wheard Shbre,1420,01,E,108,S
@@ -474,7 +474,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6035_01,Earth,0,E/386/P,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,1.0,827.0,Doria Morsentley,6035,01,E,386,P
 5808_03,Earth,0,F/1204/P,TRAPPIST-1e,53.0,0,751.0,0.0,170.72672872340425,7.0,0.0,Haryn Josey,5808,03,F,1204,P
 5885_08,Earth,0,G/954/S,TRAPPIST-1e,25.0,0,0.0,0.0,892.0,0.0,0.0,Fayene Oneiles,5885,08,G,954,S
-5474_01,Earth,1,,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Thew Strony,5474,01,B,195,B
+5474_01,Earth,1,,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Thew Strony,5474,01,A,57,B
 6937_01,Earth,1,G/1131/S,TRAPPIST-1e,8.0,0,0.0,0.0,0.0,0.0,0.0,Robyna Petton,6937,01,G,1131,S
 6971_04,Europa,1,C/225/P,55 Cancri e,17.0,0,0.0,0.0,0.0,0.0,0.0,Asteron Distured,6971,04,C,225,P
 3327_01,Earth,0,G/528/S,TRAPPIST-1e,32.0,0,0.0,0.0,0.0,0.0,772.0,Erice Noelan,3327,01,G,528,S
@@ -599,14 +599,14 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 9094_02,Earth,0,G/1465/S,TRAPPIST-1e,43.0,0,0.0,704.0,0.0,2.0,0.0,Ger Hayertez,9094,02,G,1465,S
 2736_01,Mars,0,D/81/P,TRAPPIST-1e,27.0,1,1709.0,4.0,24.0,0.0,0.0,Mark Prity,2736,01,D,81,P
 6814_01,Mars,0,E/451/S,55 Cancri e,36.0,0,1339.0,6.0,7810.0,0.0,0.0,Flark Potte,6814,01,E,451,S
-0380_01,Europa,1,,55 Cancri e,26.0,0,0.0,0.0,0.0,0.0,0.0,Zinopus Fuelddid,0380,01,T,165,B
+0380_01,Europa,1,,55 Cancri e,26.0,0,0.0,0.0,0.0,0.0,0.0,Zinopus Fuelddid,0380,01,B,162,B
 6776_01,Earth,0,F/1409/P,55 Cancri e,24.0,0,1.0,0.0,0.0,691.0,0.0,Alancy Mcgoway,6776,01,F,1409,P
 5667_01,Earth,0,G/906/P,55 Cancri e,21.0,0,0.0,496.0,0.0,3867.0,30.0,Moniey Combson,5667,01,G,906,P
 3608_03,Europa,1,D/122/P,TRAPPIST-1e,57.0,0,0.0,0.0,0.0,0.0,0.0,Skyrmak Mormonized,3608,03,D,122,P
 8983_01,Earth,0,E/576/P,TRAPPIST-1e,47.0,0,42.0,509.0,0.0,0.0,1057.0,Elene Mayder,8983,01,E,576,P
-0933_01,Europa,0,C/35/P,TRAPPIST-1e,30.0,0,14.0,12045.0,0.0,2121.0,0.0,Bryan Johnson,0933,01,C,35,P
+0933_01,Europa,0,C/35/P,TRAPPIST-1e,30.0,0,14.0,12045.0,0.0,2121.0,0.0,Ashley Green,0933,01,C,35,P
 5719_02,Earth,1,G/918/P,TRAPPIST-1e,3.0,0,0.0,0.0,0.0,0.0,0.0,Min Tranciams,5719,02,G,918,P
-9034_04,Europa,0,D/288/P,TRAPPIST-1e,60.0,0,0.0,466.7652925531915,947.0,668.0,1.0,Scott Carney,9034,04,D,288,P
+9034_04,Europa,0,D/288/P,TRAPPIST-1e,60.0,0,0.0,466.7652925531915,947.0,668.0,1.0,Joshua Wheeler,9034,04,D,288,P
 4848_01,Earth,0,F/986/P,TRAPPIST-1e,30.0,0,148.0,0.0,0.0,619.0,34.0,Nathy Griffince,4848,01,F,986,P
 7974_01,Europa,0,C/259/P,TRAPPIST-1e,27.0,0,0.0,2318.0,1127.0,2423.0,115.0,Azim Geatenth,7974,01,C,259,P
 0098_02,Earth,0,G/11/P,TRAPPIST-1e,26.0,0,0.0,2811.0,957.0,0.0,87.0,Leence Carezquez,0098,02,G,11,P
@@ -616,7 +616,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3862_06,Mars,0,F/729/S,TRAPPIST-1e,13.0,0,1008.0,667.0,8.0,0.0,306.23469727212245,Bants Cako,3862,06,F,729,S
 5960_03,Europa,1,C/222/S,55 Cancri e,25.0,0,0.0,0.0,0.0,0.0,0.0,Merabik Dister,5960,03,C,222,S
 6302_07,Earth,1,G/1015/P,TRAPPIST-1e,35.0,0,0.0,0.0,0.0,0.0,0.0,Neilda Rostarks,6302,07,G,1015,P
-2272_01,Earth,0,G/367/P,TRAPPIST-1e,3.0,0,0.0,0.0,0.0,0.0,0.0,Paul Hernandez,2272,01,G,367,P
+2272_01,Earth,0,G/367/P,TRAPPIST-1e,3.0,0,0.0,0.0,0.0,0.0,0.0,Robert Reyes,2272,01,G,367,P
 3185_01,Earth,0,F/601/S,TRAPPIST-1e,43.0,0,0.0,788.0,0.0,0.0,1191.0,Carley Gardonadox,3185,01,F,601,S
 5182_01,Earth,1,G/836/P,TRAPPIST-1e,4.0,0,0.0,0.0,0.0,0.0,0.0,Crisey Georgasey,5182,01,G,836,P
 7387_01,Europa,0,C/240/P,TRAPPIST-1e,40.0,0,0.0,3508.0,761.0,12.0,32.0,Okulas Blercat,7387,01,C,240,P
@@ -638,7 +638,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 1540_02,Europa,0,C/55/P,TRAPPIST-1e,33.0,1,0.0,7139.0,22.0,0.0,553.0,Duhratz Clumshangs,1540,02,C,55,P
 8862_02,Europa,0,C/329/S,PSO J318.5-22,11.0,1,0.0,2191.0,863.0,207.0,6262.0,Menkin Cluted,8862,02,C,329,S
 7133_01,Earth,0,F/1368/S,TRAPPIST-1e,18.0,0,457.0,0.0,11.0,335.0,0.0,Tammyl Delangleton,7133,01,F,1368,S
-6462_01,Mars,1,F/1233/S,TRAPPIST-1e,27.0,0,0.0,0.0,0.0,0.0,0.0,Lisa Martin,6462,01,F,1233,S
+6462_01,Mars,1,F/1233/S,TRAPPIST-1e,27.0,0,0.0,0.0,0.0,0.0,0.0,Joseph Smith,6462,01,F,1233,S
 5822_01,Earth,1,G/939/P,TRAPPIST-1e,12.0,0,0.0,0.0,0.0,0.0,0.0,Joandy Chapmaney,5822,01,G,939,P
 6449_01,Mars,0,E/430/S,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Gous Empie,6449,01,E,430,S
 6921_03,Europa,0,C/255/S,TRAPPIST-1e,23.0,0,69.0,6101.0,0.0,0.0,214.0,Grum Stersetery,6921,03,C,255,S
@@ -719,23 +719,23 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3561_01,Mars,1,F/738/P,TRAPPIST-1e,43.0,0,0.0,0.0,0.0,0.0,0.0,Skies Oncy,3561,01,F,738,P
 0322_01,Earth,1,G/45/S,PSO J318.5-22,13.0,0,0.0,0.0,0.0,0.0,0.0,Annya Blange,0322,01,G,45,S
 8287_01,Mars,0,E/542/S,TRAPPIST-1e,21.0,0,1242.0,0.0,654.0,0.0,0.0,Toat Nanie,8287,01,E,542,S
-4167_01,Earth,0,,PSO J318.5-22,33.0,0,0.0,440.0,0.0,0.0,334.0,Ninaha Deckerson,4167,01,F,179,B
+4167_01,Earth,0,,PSO J318.5-22,33.0,0,0.0,440.0,0.0,0.0,334.0,Ninaha Deckerson,4167,01,D,24,B
 1117_01,Earth,0,E/63/P,TRAPPIST-1e,18.0,0,855.0,0.0,51.0,0.0,0.0,Jimen Andackson,1117,01,E,63,P
 3850_05,Europa,1,C/137/S,TRAPPIST-1e,15.0,0,0.0,0.0,0.0,0.0,0.0,Thallah Unteckery,3850,05,C,137,S
 4827_01,Earth,1,G/789/S,PSO J318.5-22,30.0,0,0.0,0.0,0.0,0.0,0.0,Wandy Deckerson,4827,01,G,789,S
 8447_01,Earth,0,F/1734/P,TRAPPIST-1e,25.0,0,1.0,0.0,1.0,14.0,1491.0,Erine Joyneidez,8447,01,F,1734,P
-0301_01,Earth,1,,TRAPPIST-1e,16.0,0,0.0,0.0,0.0,0.0,0.0,Margia Wriggins,0301,01,T,57,S
+0301_01,Earth,1,,TRAPPIST-1e,16.0,0,0.0,0.0,0.0,0.0,0.0,Margia Wriggins,0301,01,B,183,S
 2187_01,Earth,0,F/437/P,TRAPPIST-1e,30.0,0,0.0,236.0,0.0,1149.0,0.0,Hary Wiggson,2187,01,F,437,P
 5181_01,Europa,True,B/175/P,TRAPPIST-1e,48.0,0,0.0,0.0,0.0,0.0,0.0,Minkark Motled,5181,01,B,175,P
 6492_01,Earth,1,G/1055/S,PSO J318.5-22,28.0,0,0.0,0.0,0.0,0.0,0.0,Dawne Bushallert,6492,01,G,1055,S
-6413_01,Europa,0,A/77/S,TRAPPIST-1e,65.0,1,0.0,1420.0,170.72672872340425,85.0,827.0,Grasath Undrude,6413,01,A,77,S
+6413_01,Europa,0,A/77/S,TRAPPIST-1e,65.0,0,0.0,1420.0,170.72672872340425,85.0,827.0,Grasath Undrude,6413,01,A,77,S
 4172_04,Mars,0,F/856/P,55 Cancri e,24.0,0,1363.0,0.0,50.0,0.0,0.0,Puffs Facle,4172,04,F,856,P
 1153_01,Earth,1,G/174/P,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Alfrey Corman,1153,01,G,174,P
 5725_01,Earth,0,F/1094/S,TRAPPIST-1e,24.0,0,156.0,0.0,364.0,489.0,383.0,Clindy Joycerton,5725,01,F,1094,S
 7793_01,Earth,0,F/1617/P,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,2141.0,Isa Anthompson,7793,01,F,1617,P
 6322_01,Earth,0,E/419/S,TRAPPIST-1e,16.0,0,0.0,68.0,1541.0,0.0,0.0,Yvonna Cooperkins,6322,01,E,419,S
 6964_01,Earth,0,F/1444/P,55 Cancri e,35.0,0,0.0,71.0,631.0,0.0,0.0,Lilasa Thonyderson,6964,01,F,1444,P
-3138_01,Earth,0,,TRAPPIST-1e,30.0,0,0.0,4.0,1604.0,678.0,1681.0,Therie Stephendsey,3138,01,C,64,S
+3138_01,Earth,0,,TRAPPIST-1e,30.0,0,0.0,4.0,1604.0,678.0,1681.0,Therie Stephendsey,3138,01,T,34,S
 6068_01,Earth,0,F/1154/S,TRAPPIST-1e,23.0,0,0.0,723.0,1.0,0.0,0.0,Lloyde Kimons,6068,01,F,1154,S
 6921_05,Europa,1,C/255/S,55 Cancri e,19.0,0,0.0,0.0,0.0,0.0,0.0,Arrain Fordulgaug,6921,05,C,255,S
 3804_01,Earth,0,F/783/P,TRAPPIST-1e,18.0,0,0.0,17.0,0.0,0.0,784.0,Vivia Harry,3804,01,F,783,P
@@ -743,12 +743,12 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6168_02,Earth,0,G/999/S,55 Cancri e,12.0,0,0.0,0.0,0.0,0.0,0.0,Glenna Gordond,6168,02,G,999,S
 6517_01,Earth,0,F/1350/P,PSO J318.5-22,32.0,0,388.0,0.0,0.0,439.0,0.0,Warry Bertiz,6517,01,F,1350,P
 6730_01,Earth,0,G/1096/S,TRAPPIST-1e,14.0,0,0.0,6.0,791.0,49.0,0.0,Dell Kerristicey,6730,01,G,1096,S
-4130_01,Mars,1,,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Forms Merte,4130,01,A,199,S
+4130_01,Mars,1,,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Forms Merte,4130,01,B,173,B
 6662_03,Earth,1,G/1087/S,55 Cancri e,0.0,0,0.0,0.0,0.0,0.0,0.0,Tonnie Blange,6662,03,G,1087,S
 4973_01,Earth,0,E/309/P,TRAPPIST-1e,43.0,0,957.0,0.0,1.0,0.0,39.0,Paulie Stephendsey,4973,01,E,309,P
 0642_01,Europa,0,C/25/S,55 Cancri e,29.0,0,0.0,3344.0,0.0,118.0,972.0,Dilatik Kiling,0642,01,C,25,S
 4424_01,Mars,0,E/287/S,TRAPPIST-1e,19.0,0,30.0,0.0,42.0,3565.0,7.0,Kohs Pien,4424,01,E,287,S
-4785_01,Europa,1,B/159/P,55 Cancri e,29.0,0,0.0,0.0,0.0,0.0,0.0,Dustin Freeman,4785,01,B,159,P
+4785_01,Europa,1,B/159/P,55 Cancri e,29.0,0,0.0,0.0,0.0,0.0,0.0,Melissa Alvarez,4785,01,B,159,P
 7542_01,Earth,0,F/1442/S,TRAPPIST-1e,35.0,0,4.0,53.0,0.0,0.0,844.0,Gabria Batestonley,7542,01,F,1442,S
 5466_04,Europa,0,B/185/P,55 Cancri e,35.0,0,0.0,4618.0,0.0,324.0,12061.0,Asterf Boltund,5466,04,B,185,P
 5726_01,Europa,1,B/192/P,55 Cancri e,27.0,0,0.0,0.0,0.0,0.0,0.0,Bottom Dindeng,5726,01,B,192,P
@@ -818,7 +818,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0537_01,Earth,0,G/83/P,TRAPPIST-1e,22.0,0,0.0,5.0,0.0,320.0,352.0,Kylen Staffersby,0537,01,G,83,P
 7072_01,Earth,0,F/1351/S,PSO J318.5-22,56.0,0,1.0,2.0,0.0,102.0,306.23469727212245,Karah Harverez,7072,01,F,1351,S
 4663_05,Earth,1,G/765/S,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Eilace Cartez,4663,05,G,765,S
-0932_01,Mars,1,,TRAPPIST-1e,29.0,0,0.0,0.0,0.0,0.0,0.0,Boats Pette,0932,01,F,153,B
+0932_01,Mars,1,,TRAPPIST-1e,29.0,0,0.0,0.0,0.0,0.0,0.0,Boats Pette,0932,01,F,94,B
 3609_04,Europa,1,C/118/P,55 Cancri e,26.0,0,0.0,0.0,0.0,0.0,0.0,Fomalik Fralledic,3609,04,C,118,P
 0984_03,Earth,0,G/150/S,TRAPPIST-1e,11.0,0,0.0,0.0,490.0,0.0,319.0,Morrie Sweekstarks,0984,03,G,150,S
 0764_01,Earth,True,G/115/S,TRAPPIST-1e,22.0,0,0.0,0.0,0.0,0.0,0.0,Danna Toddleton,0764,01,G,115,S
@@ -873,7 +873,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7585_02,Europa,0,C/281/S,TRAPPIST-1e,39.0,1,8209.0,18.0,432.0,3560.0,54.0,Azhasim Admingried,7585,02,C,281,S
 7705_01,Mars,0,F/1470/S,TRAPPIST-1e,46.0,0,5888.0,466.7652925531915,13.0,12.0,0.0,Libers Weeke,7705,01,F,1470,S
 7422_01,Earth,0,G/1204/S,TRAPPIST-1e,21.0,0,550.0,0.0,61.0,4.0,5.0,Shery Lardsonald,7422,01,G,1204,S
-8813_01,Earth,0,G/1421/S,PSO J318.5-22,41.0,0,413.0,0.0,0.0,7.0,347.0,Olivia Brown,8813,01,G,1421,S
+8813_01,Earth,0,G/1421/S,PSO J318.5-22,41.0,0,413.0,0.0,0.0,7.0,347.0,Andre Sullivan,8813,01,G,1421,S
 1905_01,Earth,0,F/364/S,55 Cancri e,40.0,0,1465.0,39.0,0.0,0.0,1225.0,Kimena Torrez,1905,01,F,364,S
 5090_05,Earth,0,E/316/P,PSO J318.5-22,32.0,0,793.0,0.0,0.0,0.0,0.0,Annya Willy,5090,05,E,316,P
 5287_01,Earth,0,G/861/S,PSO J318.5-22,42.0,0,0.0,466.7652925531915,0.0,214.0,50.0,Shanya Webstephrey,5287,01,G,861,S
@@ -883,14 +883,14 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7649_01,Earth,1,G/1241/S,TRAPPIST-1e,24.0,0,0.0,0.0,0.0,0.0,0.0,Toniel Reenon,7649,01,G,1241,S
 6283_02,Earth,0,F/1206/S,TRAPPIST-1e,33.0,0,2.0,3.0,93.0,6.0,540.0,Tracek Chanan,6283,02,F,1206,S
 0076_01,Mars,0,F/18/S,TRAPPIST-1e,27.0,0,147.0,0.0,1018.0,0.0,0.0,Conk Dal,0076,01,F,18,S
-6049_01,Earth,0,G/986/S,TRAPPIST-1e,24.0,0,178.0,0.0,235.0,0.0,396.0,Desiree Johnson,6049,01,G,986,S
+6049_01,Earth,0,G/986/S,TRAPPIST-1e,24.0,0,178.0,0.0,235.0,0.0,396.0,Cassidy Randall,6049,01,G,986,S
 2966_01,Earth,0,E/181/P,TRAPPIST-1e,21.0,0,2.0,417.0,323.0,0.0,84.0,Deaney Avisley,2966,01,E,181,P
 6006_01,Europa,0,D/190/P,55 Cancri e,45.0,1,1017.0,3863.0,0.0,601.0,3999.0,Okulam Monpreery,6006,01,D,190,P
 8117_01,Europa,1,B/319/S,TRAPPIST-1e,17.0,0,0.0,0.0,0.0,0.0,0.0,Diram Pernised,8117,01,B,319,S
 5019_01,Earth,0,F/955/S,TRAPPIST-1e,15.0,0,0.0,0.0,19.0,352.0,326.0,Olly Hebernandry,5019,01,F,955,S
 8368_01,Earth,1,G/1365/P,TRAPPIST-1e,4.0,0,0.0,0.0,0.0,0.0,0.0,Murie Dayers,8368,01,G,1365,P
 8316_01,Earth,0,F/1709/P,55 Cancri e,21.0,0,532.0,4.0,37.0,1.0,0.0,Gailia Beckerson,8316,01,F,1709,P
-6452_01,Earth,0,F/1336/P,TRAPPIST-1e,24.0,0,0.0,854.0,11.0,0.0,0.0,Brianna Garcia,6452,01,F,1336,P
+6452_01,Earth,0,F/1336/P,TRAPPIST-1e,24.0,0,0.0,854.0,11.0,0.0,0.0,Jane Warren,6452,01,F,1336,P
 3026_01,Earth,1,G/492/P,TRAPPIST-1e,22.0,0,0.0,0.0,0.0,0.0,0.0,Artis Gambs,3026,01,G,492,P
 1333_01,Earth,0,F/269/P,PSO J318.5-22,32.0,0,0.0,486.0,0.0,229.0,26.0,Elindy Fryes,1333,01,F,269,P
 1767_02,Europa,0,C/65/S,TRAPPIST-1e,50.0,0,3677.0,782.0,0.0,6.0,1168.0,Decruxa Stewder,1767,02,C,65,S
@@ -901,7 +901,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 4917_01,Europa,0,B/195/S,55 Cancri e,36.0,1,1.0,10029.0,1.0,1679.0,27.0,Brab Neceriont,4917,01,B,195,S
 2313_01,Mars,0,F/469/P,TRAPPIST-1e,29.0,0,1365.0,0.0,791.0,210.0,0.0,Lish Kart,2313,01,F,469,P
 1527_01,Europa,1,D/49/P,55 Cancri e,22.0,0,0.0,0.0,0.0,0.0,0.0,Dirius Boderbint,1527,01,D,49,P
-4061_03,Mars,1,F/766/S,TRAPPIST-1e,1.0,0,0.0,0.0,0.0,0.0,0.0,Dawn Morris,4061,03,F,766,S
+4061_03,Mars,1,F/766/S,TRAPPIST-1e,1.0,0,0.0,0.0,0.0,0.0,0.0,Arthur Mills,4061,03,F,766,S
 2720_03,Earth,1,G/439/P,TRAPPIST-1e,1.0,0,0.0,0.0,0.0,0.0,0.0,Noria Beckeey,2720,03,G,439,P
 4509_02,Mars,0,D/144/S,PSO J318.5-22,41.0,0,226.60033250207815,0.0,1127.0,8.0,0.0,Sunk Sopie,4509,02,D,144,S
 1800_05,Earth,1,G/283/S,TRAPPIST-1e,1.0,0,0.0,0.0,0.0,0.0,0.0,Wandy Goffey,1800,05,G,283,S
@@ -929,10 +929,10 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2439_01,Earth,0,F/504/P,TRAPPIST-1e,24.0,0,227.0,537.0,13.0,0.0,0.0,Ninald Bardinard,2439,01,F,504,P
 2571_01,Earth,0,G/414/P,TRAPPIST-1e,28.0,0,145.0,8.0,557.0,0.0,74.0,Janee Lamberguson,2571,01,G,414,P
 7710_01,Europa,0,B/253/P,TRAPPIST-1e,27.0,0,118.0,1769.0,4127.0,118.0,619.0,Chabih Eguing,7710,01,B,253,P
-1959_02,Europa,0,C/66/P,TRAPPIST-1e,40.0,0,0.0,382.0,0.0,1.0,3822.0,Kristine Knight,1959,02,C,66,P
+1959_02,Europa,0,C/66/P,TRAPPIST-1e,40.0,0,0.0,382.0,0.0,1.0,3822.0,Natalie Bush,1959,02,C,66,P
 9119_01,Earth,1,G/1483/P,TRAPPIST-1e,16.0,0,0.0,0.0,0.0,0.0,0.0,Grette Miltongson,9119,01,G,1483,P
 6481_01,Earth,0,G/1052/S,TRAPPIST-1e,22.0,0,89.0,0.0,795.0,0.0,3.0,Jayne Bulliamoses,6481,01,G,1052,S
-4447_01,Earth,1,,TRAPPIST-1e,54.0,0,0.0,0.0,0.0,0.0,0.0,Lyny Briggins,4447,01,D,100,B
+4447_01,Earth,1,,TRAPPIST-1e,54.0,0,0.0,0.0,0.0,0.0,0.0,Lyny Briggins,4447,01,B,158,B
 0045_02,Mars,1,F/10/P,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Mass Chmad,0045,02,F,10,P
 5138_01,Europa,0,A/47/P,55 Cancri e,40.0,0,0.0,3815.0,0.0,322.0,0.0,Brakis Shming,5138,01,A,47,P
 5326_01,Mars,1,F/1092/P,TRAPPIST-1e,28.0,0,0.0,0.0,0.0,0.0,0.0,Wales Khart,5326,01,F,1092,P
@@ -950,7 +950,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3534_01,Earth,0,F/732/P,TRAPPIST-1e,23.0,0,0.0,30.0,0.0,106.0,566.0,Melia Scottney,3534,01,F,732,P
 7437_01,Europa,1,B/279/S,55 Cancri e,45.0,0,0.0,0.0,0.0,0.0,0.0,Mesatan Disgul,7437,01,B,279,S
 7891_02,Earth,1,G/1274/S,TRAPPIST-1e,13.0,0,34.0,1.0,0.0,824.0,29.0,Rosey Duffmaney,7891,02,G,1274,S
-2616_01,Earth,0.0,F/541/P,TRAPPIST-1e,17.0,0,0.0,604.0,0.0,0.0,218.0,Gracia Gallard,2616,01,F,541,P
+2616_01,Earth,1.0,F/541/P,TRAPPIST-1e,17.0,0,0.0,604.0,0.0,0.0,218.0,Gracia Gallard,2616,01,F,541,P
 3348_01,Earth,0,E/225/S,TRAPPIST-1e,32.0,0,180.0,25.0,584.0,0.0,0.0,Julies Bradlerson,3348,01,E,225,S
 7173_01,Earth,1,G/1156/P,PSO J318.5-22,19.0,0,0.0,0.0,0.0,0.0,0.0,Cline Alldson,7173,01,G,1156,P
 0709_02,Europa,1,A/7/S,55 Cancri e,25.0,0,0.0,0.0,0.0,0.0,0.0,Thaban Missefle,0709,02,A,7,S
@@ -973,7 +973,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2385_01,Mars,0,F/461/S,TRAPPIST-1e,23.0,0,1773.0,0.0,78.0,0.0,3.0,Jacats Pité,2385,01,F,461,S
 2306_04,Europa,0,C/82/P,55 Cancri e,27.0,0,0.0,12077.0,0.0,75.0,0.0,Izarkab Ticiontral,2306,04,C,82,P
 8229_01,Earth,1,G/1336/P,TRAPPIST-1e,15.0,0,0.0,0.0,0.0,0.0,0.0,Armene Patthews,8229,01,G,1336,P
-4796_01,Mars,0,,TRAPPIST-1e,13.0,0,21.0,0.0,1564.0,0.0,1.0,Fis Cre,4796,01,E,86,B
+4796_01,Mars,0,,TRAPPIST-1e,13.0,0,21.0,0.0,1564.0,0.0,1.0,Fis Cre,4796,01,A,5,B
 7576_01,Europa,0,D/239/P,TRAPPIST-1e,23.0,0,30.0,2237.0,1.0,49.0,52.0,Mergas Alenat,7576,01,D,239,P
 4261_01,Mars,0,D/137/S,55 Cancri e,56.0,0,412.0,492.0,9.0,117.0,33.0,Vivers Fatte,4261,01,D,137,S
 8801_01,Earth,0,F/1707/S,TRAPPIST-1e,37.0,0,10.0,557.0,51.0,83.0,0.0,Justie Vincenton,8801,01,F,1707,S
@@ -998,8 +998,8 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7755_01,Earth,1,E/503/P,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Jonard Mullericer,7755,01,E,503,P
 5756_02,Earth,0,F/1194/P,TRAPPIST-1e,42.0,0,439.0,0.0,0.0,0.0,254.0,Billia Briggston,5756,02,F,1194,P
 6780_01,Europa,1,C/251/S,55 Cancri e,15.0,0,0.0,0.0,0.0,0.0,0.0,Antinon Plaricit,6780,01,C,251,S
-7472_01,Mars,1,F/1426/S,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Sarah Taylor,7472,01,F,1426,S
-9023_01,Earth,0,E/593/S,TRAPPIST-1e,18.0,0,0.0,1.0,0.0,618.0,21.0,Kimberly Walton,9023,01,E,593,S
+7472_01,Mars,1,F/1426/S,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Robert Smith,7472,01,F,1426,S
+9023_01,Earth,0,E/593/S,TRAPPIST-1e,18.0,0,0.0,1.0,0.0,618.0,21.0,Craig Osborne,9023,01,E,593,S
 0026_01,Europa,0,C/0/P,55 Cancri e,34.0,0,22.0,6073.0,0.0,1438.0,328.0,Anyoni Unconary,0026,01,C,0,P
 4909_01,Earth,0,F/997/P,55 Cancri e,59.0,0,460.0,139.0,0.0,1.0,0.0,Evane Franey,4909,01,F,997,P
 3803_01,Mars,0,F/782/P,TRAPPIST-1e,33.0,0,25.0,0.0,1376.0,604.0,0.0,Sts Welte,3803,01,F,782,P
@@ -1024,7 +1024,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 1149_05,Earth,0,G/178/S,55 Cancri e,10.0,0,0.0,0.0,0.0,0.0,0.0,Karie Quinnerettt,1149,05,G,178,S
 2798_02,Europa,1,A/23/P,55 Cancri e,38.0,0,0.0,0.0,0.0,0.0,0.0,Menchah Timleplet,2798,02,A,23,P
 0925_02,Mars,1,F/191/P,TRAPPIST-1e,11.0,0,0.0,0.0,0.0,0.0,0.0,Varkes Kraie,0925,02,F,191,P
-4974_02,Europa,1,,55 Cancri e,45.0,0,0.0,0.0,0.0,0.0,0.0,Lesat Vendeck,4974,02,T,67,B
+4974_02,Europa,1,,55 Cancri e,45.0,0,0.0,0.0,0.0,0.0,0.0,Lesat Vendeck,4974,02,E,128,S
 0975_01,Earth,0,E/56/P,55 Cancri e,32.0,0,58.0,317.0,448.0,3.0,0.0,Allena Hoppernardy,0975,01,E,56,P
 0212_02,Earth,0,F/45/P,TRAPPIST-1e,35.0,0,147.0,188.0,0.0,10.0,387.0,Shally Workmans,0212,02,F,45,P
 0113_01,Earth,0,F/23/P,TRAPPIST-1e,64.0,0,0.0,0.0,804.0,0.0,0.0,Idary Carvis,0113,01,F,23,P
@@ -1056,7 +1056,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3418_01,Mars,1,F/646/S,TRAPPIST-1e,72.0,0,0.0,0.0,0.0,0.0,0.0,Berers Meake,3418,01,F,646,S
 4961_01,Mars,0,F/942/S,TRAPPIST-1e,32.0,0,1016.0,0.0,307.0,5.0,306.23469727212245,Ane Read,4961,01,F,942,S
 5724_01,Earth,1,G/919/P,PSO J318.5-22,20.0,0,0.0,0.0,0.0,0.0,0.0,Eduard Sweenez,5724,01,G,919,P
-5941_01,Earth,0,E/386/S,TRAPPIST-1e,33.0,0,72.0,914.0,0.0,0.0,7.0,Nathaniel Todd,5941,01,E,386,S
+5941_01,Earth,0,E/386/S,TRAPPIST-1e,33.0,0,72.0,914.0,0.0,0.0,7.0,Joshua Hayes,5941,01,E,386,S
 4493_01,Earth,0,F/845/S,TRAPPIST-1e,26.0,0,42.0,65.0,895.0,407.0,0.0,Sus Coolez,4493,01,F,845,S
 8790_01,Europa,0,D/277/P,55 Cancri e,25.0,0,698.0,4978.0,0.0,146.0,0.0,Charaz Fawnsive,8790,01,D,277,P
 5145_01,Earth,1,G/841/S,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Shaele Mathison,5145,01,G,841,S
@@ -1065,7 +1065,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6748_02,Mars,0,F/1289/S,TRAPPIST-1e,7.0,0,0.0,0.0,0.0,0.0,0.0,Gra Scake,6748,02,F,1289,S
 1755_01,Earth,1,G/273/S,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Leneva Mulley,1755,01,G,273,S
 8005_03,Earth,0,F/1528/S,TRAPPIST-1e,35.0,0,676.0,0.0,0.0,0.0,40.0,Katen Olivasquez,8005,03,F,1528,S
-8860_04,Mars,0,E/567/P,TRAPPIST-1e,33.0,1,1054.0,0.0,222.0,22.0,0.0,Appers Vloaf,8860,04,E,567,P
+8860_04,Mars,0,E/567/P,TRAPPIST-1e,33.0,0,1054.0,0.0,222.0,22.0,0.0,Appers Vloaf,8860,04,E,567,P
 2505_02,Earth,0,E/149/P,TRAPPIST-1e,19.0,0,0.0,5.0,4.0,541.0,238.0,Hilley Mckinn,2505,02,E,149,P
 2591_02,Earth,0,G/413/S,TRAPPIST-1e,23.0,0,0.0,121.0,0.0,568.0,128.0,Breney Coolerson,2591,02,G,413,S
 7455_01,Europa,0,A/80/P,55 Cancri e,41.0,0,0.0,1616.0,0.0,758.0,400.0,Neshath Slavested,7455,01,A,80,P
@@ -1082,9 +1082,9 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5984_02,Mars,0,E/381/P,TRAPPIST-1e,24.0,0,555.0,0.0,618.0,0.0,0.0,Ale Kin,5984,02,E,381,P
 0201_01,Europa,1,B/3/S,TRAPPIST-1e,35.0,0,0.0,0.0,0.0,0.0,0.0,Kaffias Bacistion,0201,01,B,3,S
 5993_01,Mars,1,E/394/S,TRAPPIST-1e,27.0,0,0.0,0.0,0.0,0.0,0.0,Jetax Jaf,5993,01,E,394,S
-4397_01,Earth,1,,PSO J318.5-22,35.0,0,0.0,0.0,0.0,0.0,0.0,Meline Foledges,4397,01,B,43,S
+4397_01,Earth,1,,PSO J318.5-22,35.0,0,0.0,0.0,0.0,0.0,0.0,Meline Foledges,4397,01,E,176,B
 1626_01,Earth,0,F/324/P,TRAPPIST-1e,19.0,0,226.60033250207815,9.0,0.0,0.0,1.0,Raceky Logannon,1626,01,F,324,P
-8989_01,Europa,0,B/291/P,TRAPPIST-1e,17.0,0,0.0,366.0,23492.0,356.0,3.0,Ian Sanders,8989,01,B,291,P
+8989_01,Europa,0,B/291/P,TRAPPIST-1e,17.0,0,0.0,366.0,23492.0,356.0,3.0,Jacqueline Lopez,8989,01,B,291,P
 4498_04,Earth,0,G/734/S,TRAPPIST-1e,11.0,0,0.0,0.0,0.0,0.0,0.0,Dandy Munozanson,4498,04,G,734,S
 3531_01,Mars,0,F/731/P,55 Cancri e,28.0,0,809.0,0.0,31.0,733.0,0.0,Chtios Erflé,3531,01,F,731,P
 1285_01,Earth,0,F/258/P,55 Cancri e,36.0,0,286.0,415.0,16.0,0.0,0.0,Ricia Weaverays,1285,01,F,258,P
@@ -1105,11 +1105,11 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7885_01,Earth,1,G/1273/P,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Tancis Potters,7885,01,G,1273,P
 5758_01,Earth,1,G/934/S,TRAPPIST-1e,22.0,0,0.0,0.0,0.0,0.0,0.0,Heidie Mcguirez,5758,01,G,934,S
 0992_01,Europa,0,D/35/S,TRAPPIST-1e,49.0,0,31.0,2727.0,0.0,184.0,135.0,Zino Kiling,0992,01,D,35,S
-3283_01,Earth,0,F/619/S,TRAPPIST-1e,43.0,0,0.0,16.0,34.0,753.0,1.0,Patrick Wilson,3283,01,F,619,S
-0327_01,Earth,0,,TRAPPIST-1e,19.0,0,17.0,0.0,784.0,0.0,2.0,Jasony Ocherman,0327,01,E,91,S
+3283_01,Earth,0,F/619/S,TRAPPIST-1e,43.0,0,0.0,16.0,34.0,753.0,1.0,Michele Thompson,3283,01,F,619,S
+0327_01,Earth,0,,TRAPPIST-1e,19.0,0,17.0,0.0,784.0,0.0,2.0,Jasony Ocherman,0327,01,F,47,S
 1121_01,Earth,0,F/229/P,PSO J318.5-22,55.0,0,98.0,46.0,0.0,743.0,0.0,Lynez Burnerez,1121,01,F,229,P
 7888_01,Earth,0,E/518/S,TRAPPIST-1e,29.0,0,37.0,0.0,644.0,0.0,177.0,Erie Woodwinez,7888,01,E,518,S
-2900_01,Mars,1,,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Corse Snoff,2900,01,C,188,B
+2900_01,Mars,1,,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Corse Snoff,2900,01,C,2,S
 3469_01,Europa,1,B/109/P,TRAPPIST-1e,41.0,0,0.0,0.0,0.0,0.0,0.0,Caiamin Singmage,3469,01,B,109,P
 9074_05,Earth,1,G/1460/S,TRAPPIST-1e,2.0,0,0.0,0.0,0.0,0.0,0.0,Fayel Trerady,9074,05,G,1460,S
 8757_01,Earth,0,G/1409/S,TRAPPIST-1e,28.0,0,1.0,1484.0,210.0,0.0,5.0,Vine Danielps,8757,01,G,1409,S
@@ -1253,7 +1253,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7606_01,Mars,1,F/1453/S,TRAPPIST-1e,54.0,0,0.0,0.0,0.0,0.0,0.0,Turbix Bau,7606,01,F,1453,S
 3079_01,Earth,0,F/642/P,55 Cancri e,22.0,0,35.0,0.0,36.0,581.0,0.0,Charly Booters,3079,01,F,642,P
 5728_01,Earth,0,F/1185/P,TRAPPIST-1e,24.0,0,0.0,217.0,0.0,77.0,510.0,Jodia Wolferguson,5728,01,F,1185,P
-6668_01,Earth,0,G/1089/S,TRAPPIST-1e,68.0,0,0.0,0.0,649.0,0.0,239.0,Alex Rivera,6668,01,G,1089,S
+6668_01,Earth,0,G/1089/S,TRAPPIST-1e,68.0,0,0.0,0.0,649.0,0.0,239.0,Brianna Perkins,6668,01,G,1089,S
 2475_01,Europa,0,C/85/P,TRAPPIST-1e,33.0,0,0.0,27.0,0.0,3573.0,3643.0,Golaron Folhal,2475,01,C,85,P
 4262_02,Europa,0,C/135/P,55 Cancri e,26.0,0,1.0,1269.0,4790.0,270.0,5116.0,Weid Derterval,4262,02,C,135,P
 6721_01,Earth,True,G/1095/S,TRAPPIST-1e,23.0,0,0.0,0.0,0.0,0.0,0.0,Lan Cleminglas,6721,01,G,1095,S
@@ -1262,7 +1262,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3142_02,Mars,0,F/591/S,TRAPPIST-1e,32.0,0,1087.0,0.0,71.0,0.0,0.0,Fres Cla,3142,02,F,591,S
 5889_01,Earth,0,G/954/P,TRAPPIST-1e,48.0,0,0.0,0.0,790.0,2368.0,1292.0,Leony Perrerojass,5889,01,G,954,P
 5484_01,Mars,1,F/1050/S,55 Cancri e,45.0,0,0.0,0.0,0.0,0.0,0.0,Masal Monie,5484,01,F,1050,S
-2692_01,Earth,0,,TRAPPIST-1e,24.0,0,0.0,0.0,21.0,0.0,695.0,Samie Weberts,2692,01,C,75,B
+2692_01,Earth,0,,TRAPPIST-1e,24.0,0,0.0,0.0,21.0,0.0,695.0,Samie Weberts,2692,01,C,97,B
 2805_01,Earth,0,F/582/P,TRAPPIST-1e,19.0,0,0.0,0.0,366.0,268.0,0.0,Allena Blacks,2805,01,F,582,P
 7165_01,Mars,1,F/1377/S,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Hal Walé,7165,01,F,1377,S
 1182_01,Mars,1,F/237/P,55 Cancri e,64.0,0,0.0,0.0,0.0,0.0,0.0,Mits Pota,1182,01,F,237,P
@@ -1305,7 +1305,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8602_03,Earth,1,G/1396/P,TRAPPIST-1e,24.0,0,0.0,0.0,0.0,0.0,0.0,Elson Weissey,8602,03,G,1396,P
 5773_01,Europa,1,C/217/S,55 Cancri e,61.0,0,0.0,0.0,0.0,0.0,0.0,Bosonan Sciatberit,5773,01,C,217,S
 1156_02,Europa,1,B/47/S,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Kocha Motter,1156,02,B,47,S
-4370_01,Earth,0,,TRAPPIST-1e,21.0,0,3.0,1.0,0.0,1494.0,110.0,Estina Vandan,4370,01,C,10,S
+4370_01,Earth,0,,TRAPPIST-1e,21.0,0,3.0,1.0,0.0,1494.0,110.0,Estina Vandan,4370,01,C,106,S
 2807_01,Earth,0,E/171/P,TRAPPIST-1e,33.0,0,0.0,0.0,154.0,22.0,820.0,Rancy Vincenton,2807,01,E,171,P
 5097_03,Earth,0,F/1039/P,55 Cancri e,51.0,0,6.0,0.0,706.0,0.0,0.0,Eulahy Peterstarks,5097,03,F,1039,P
 7914_02,Earth,0,G/1278/P,TRAPPIST-1e,24.0,0,0.0,80.0,106.0,344.0,0.0,Marynk Munozaley,7914,02,G,1278,P
@@ -1344,7 +1344,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5039_02,Mars,1,F/958/S,TRAPPIST-1e,12.0,0,0.0,0.0,0.0,0.0,0.0,Hule Bate,5039,02,F,958,S
 6432_01,Europa,0,D/202/P,55 Cancri e,55.0,0,114.0,222.0,0.0,2575.0,2919.0,Asch Stradick,6432,01,D,202,P
 4748_01,Mars,0,D/149/S,TRAPPIST-1e,53.0,0,204.0,142.0,380.0,38.0,1.0,Capies Chene,4748,01,D,149,S
-4160_01,Mars,0,F/783/S,TRAPPIST-1e,27.0,1,661.0,466.7652925531915,991.0,46.0,0.0,Robin Peterson,4160,01,F,783,S
+4160_01,Mars,0,F/783/S,TRAPPIST-1e,27.0,1,661.0,466.7652925531915,991.0,46.0,0.0,Kimberly Barker,4160,01,F,783,S
 7425_01,Earth,1,G/1200/P,TRAPPIST-1e,29.0,0,0.0,0.0,0.0,0.0,0.0,Milyla Balderts,7425,01,G,1200,P
 4371_05,Europa,0,C/158/S,55 Cancri e,34.0,0,226.60033250207815,7221.0,0.0,288.0,2275.0,Spurim Tionstious,4371,05,C,158,S
 1458_01,Earth,0,G/223/S,TRAPPIST-1e,46.0,0,0.0,0.0,2020.0,323.0,0.0,Arllia Mccarveymon,1458,01,G,223,S
@@ -1369,7 +1369,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5088_01,Earth,0,F/972/S,55 Cancri e,22.0,0,0.0,0.0,0.0,1600.0,168.0,Jonard Horndley,5088,01,F,972,S
 7094_01,Europa,0,E/454/P,TRAPPIST-1e,36.0,0,10.0,2478.0,2080.0,19.0,328.0,Preo Sloweber,7094,01,E,454,P
 7388_01,Earth,1,G/1198/S,PSO J318.5-22,17.0,0,0.0,0.0,0.0,0.0,0.0,Sterry Mclardson,7388,01,G,1198,S
-3553_01,Mars,0,,TRAPPIST-1e,28.0,0,3.0,0.0,0.0,327.0,2054.0,Wafox Maie,3553,01,B,102,B
+3553_01,Mars,0,,TRAPPIST-1e,28.0,0,3.0,0.0,0.0,327.0,2054.0,Wafox Maie,3553,01,C,195,S
 7343_01,Earth,0,F/1412/S,TRAPPIST-1e,22.0,0,0.0,0.0,1.0,95.0,605.0,Tyle Mcbriddley,7343,01,F,1412,S
 8541_01,Mars,0,D/266/P,TRAPPIST-1e,45.0,1,1093.0,950.0,341.0,0.0,0.0,Squars Rekle,8541,01,D,266,P
 8580_01,Earth,0,G/1379/S,PSO J318.5-22,21.0,0,4.0,3.0,149.0,17.0,442.0,Leen Goldendrice,8580,01,G,1379,S
@@ -1424,7 +1424,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5947_01,Europa,1,E/388/S,TRAPPIST-1e,52.0,0,0.0,0.0,0.0,0.0,0.0,Kitauva Stment,5947,01,E,388,S
 8559_01,Mars,0,E/548/P,TRAPPIST-1e,27.0,1,3.0,952.0,208.0,951.0,0.0,Ecco Make,8559,01,E,548,P
 3515_02,Mars,1,F/725/P,TRAPPIST-1e,46.0,0,0.0,0.0,0.0,0.0,0.0,Crans Purte,3515,02,F,725,P
-5599_01,Europa,0,E/364/S,55 Cancri e,36.0,1,380.0,686.0,0.0,295.0,1247.0,Saxino Caming,5599,01,E,364,S
+5599_01,Europa,0,E/364/S,55 Cancri e,36.0,0,380.0,686.0,0.0,295.0,1247.0,Saxino Caming,5599,01,E,364,S
 9222_01,Mars,1,F/1784/S,TRAPPIST-1e,50.0,0,0.0,0.0,0.0,0.0,0.0,Carves Chate,9222,01,F,1784,S
 3744_01,Mars,0,E/249/S,PSO J318.5-22,34.0,1,0.0,490.0,869.0,0.0,0.0,Denuts Ropie,3744,01,E,249,S
 1147_01,Europa,1,B/42/P,TRAPPIST-1e,49.0,0,0.0,0.0,0.0,0.0,0.0,Solam Semageary,1147,01,B,42,P
@@ -1462,7 +1462,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7774_01,Mars,0,D/245/P,55 Cancri e,67.0,0,1146.0,16.0,39.0,0.0,518.0,Lar Kinad,7774,01,D,245,P
 2000_01,Europa,0,C/76/S,55 Cancri e,28.0,0,5.0,2676.0,13.0,0.0,157.0,Weia Plattering,2000,01,C,76,S
 2551_01,Earth,0,F/523/P,TRAPPIST-1e,32.0,0,238.0,156.0,3.0,2.0,324.0,Marlly Gamberson,2551,01,F,523,P
-6385_01,Mars,0,,PSO J318.5-22,21.0,0,435.0,0.0,422.0,16.0,0.0,Possh Duncy,6385,01,C,21,B
+6385_01,Mars,0,,PSO J318.5-22,21.0,0,435.0,0.0,422.0,16.0,0.0,Possh Duncy,6385,01,A,151,S
 1881_01,Earth,0,F/377/P,TRAPPIST-1e,20.0,0,2215.0,0.0,0.0,86.0,0.0,Samie Valey,1881,01,F,377,P
 7019_01,Earth,0,F/1457/P,TRAPPIST-1e,31.0,0,0.0,0.0,717.0,0.0,0.0,Fayen Nasquez,7019,01,F,1457,P
 0234_01,Earth,0,F/50/P,TRAPPIST-1e,43.0,0,226.60033250207815,888.0,0.0,0.0,0.0,Keitha Josey,0234,01,F,50,P
@@ -1514,7 +1514,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5133_01,Earth,0,G/829/P,55 Cancri e,11.0,0,0.0,0.0,846.0,0.0,0.0,Benry Litthews,5133,01,G,829,P
 8796_02,Earth,0,F/1704/S,TRAPPIST-1e,14.0,0,588.0,144.0,1.0,0.0,168.0,Hillie Jorden,8796,02,F,1704,S
 2645_01,Europa,0,C/95/S,TRAPPIST-1e,55.0,0,0.0,815.0,1558.0,3.0,1334.0,Alrais Fordulgaug,2645,01,C,95,S
-5756_04,Earth,0,F/1194/P,TRAPPIST-1e,23.0,0,0.0,0.0,0.0,0.0,0.0,Lisa Rodriguez,5756,04,F,1194,P
+5756_04,Earth,0,F/1194/P,TRAPPIST-1e,23.0,0,0.0,0.0,0.0,0.0,0.0,Jenny Velasquez,5756,04,F,1194,P
 1901_02,Europa,1,A/14/P,55 Cancri e,36.0,0,0.0,0.0,0.0,0.0,0.0,Neshath Tractive,1901,02,A,14,P
 7002_01,Earth,0,G/1141/S,TRAPPIST-1e,29.0,0,888.0,0.0,1.0,0.0,0.0,Rickie Mickersones,7002,01,G,1141,S
 8586_01,Mars,0,E/550/P,55 Cancri e,24.0,0,0.0,0.0,396.0,256.0,1482.0,Zelowl Terry,8586,01,E,550,P
@@ -1550,7 +1550,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7584_02,Europa,1,B/288/S,TRAPPIST-1e,59.0,0,0.0,0.0,0.0,0.0,0.0,Sterfik Swingse,7584,02,B,288,S
 3879_01,Mars,0,F/801/P,55 Cancri e,31.0,0,796.0,0.0,70.0,595.0,0.0,Spies Nache,3879,01,F,801,P
 1849_01,Earth,0,F/367/P,TRAPPIST-1e,25.0,0,113.0,0.0,0.0,1282.0,0.0,Antone Sellentry,1849,01,F,367,P
-6108_01,Earth,0,F/1166/S,TRAPPIST-1e,13.0,0,206.0,28.0,0.0,1.0,629.0,Breanna Wood,6108,01,F,1166,S
+6108_01,Earth,0,F/1166/S,TRAPPIST-1e,13.0,0,206.0,28.0,0.0,1.0,629.0,Karen Glenn,6108,01,F,1166,S
 0119_02,Europa,1,A/0/P,TRAPPIST-1e,13.0,0,0.0,0.0,0.0,0.0,0.0,Kleeiak Coning,0119,02,A,0,P
 7731_01,Europa,1,B/255/P,55 Cancri e,39.0,0,0.0,0.0,0.0,0.0,0.0,Keidus Suarging,7731,01,B,255,P
 7751_01,Europa,1,C/252/P,55 Cancri e,41.0,0,0.0,0.0,0.0,0.0,0.0,Mesatik Retefule,7751,01,C,252,P
@@ -1579,7 +1579,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6152_02,Europa,0,B/235/S,TRAPPIST-1e,31.0,0,0.0,53.0,0.0,2963.0,1017.0,Sadar Motled,6152,02,B,235,S
 2781_01,Earth,1,G/447/P,TRAPPIST-1e,38.0,0,0.0,0.0,0.0,0.0,0.0,Marice Williotters,2781,01,G,447,P
 8186_03,Earth,0,G/1319/S,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Glenry Estiagosen,8186,03,G,1319,S
-1095_01,Europa,1,,TRAPPIST-1e,34.0,0,0.0,0.0,0.0,0.0,0.0,Alhail Drelcate,1095,01,B,56,B
+1095_01,Europa,1,,TRAPPIST-1e,34.0,0,0.0,0.0,0.0,0.0,0.0,Alhail Drelcate,1095,01,D,3,S
 0148_01,Mars,0,F/31/P,TRAPPIST-1e,42.0,0,1072.0,0.0,10.0,0.0,76.0,Corsh Pashe,0148,01,F,31,P
 5506_01,Europa,1,D/166/S,TRAPPIST-1e,37.0,0,0.0,0.0,0.0,0.0,0.0,Phecca Speedgear,5506,01,D,166,S
 4934_01,Earth,0,F/1006/P,TRAPPIST-1e,31.0,0,210.0,20.0,0.0,1027.0,199.0,Raulia Hammonton,4934,01,F,1006,P
@@ -1604,14 +1604,14 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0848_02,Mars,1,F/175/P,TRAPPIST-1e,14.0,0,0.0,0.0,0.0,0.0,0.0,Monam Raca,0848,02,F,175,P
 8634_01,Earth,0,G/1392/S,TRAPPIST-1e,38.0,0,1739.0,0.0,0.0,83.0,0.0,Wenny Hurchez,8634,01,G,1392,S
 6299_01,Europa,0,C/192/P,55 Cancri e,46.0,0,0.0,8943.0,0.0,0.0,159.0,Merops Femoused,6299,01,C,192,P
-2215_02,Europa,0,A/27/S,TRAPPIST-1e,43.0,0,2.0,2229.0,33.0,6.0,198.0,Isaiah Haynes,2215,02,A,27,S
+2215_02,Europa,0,A/27/S,TRAPPIST-1e,43.0,0,2.0,2229.0,33.0,6.0,198.0,John Marks,2215,02,A,27,S
 4635_01,Earth,1,G/755/P,PSO J318.5-22,16.0,0,0.0,0.0,0.0,0.0,0.0,Delley Pearsalason,4635,01,G,755,P
 7518_01,Europa,1,B/246/P,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Acrabih Droning,7518,01,B,246,P
 0677_01,Earth,1,G/102/S,TRAPPIST-1e,15.0,0,0.0,0.0,0.0,0.0,0.0,Lorian Josey,0677,01,G,102,S
 8639_01,Mars,1,E/567/S,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Wifts Berle,8639,01,E,567,S
 6741_02,Earth,0,F/1286/S,PSO J318.5-22,18.0,0,103.0,0.0,181.0,1611.0,22.0,Jeandy Reyersendry,6741,02,F,1286,S
 0128_01,Mars,0,D/3/S,TRAPPIST-1e,61.0,1,2353.0,334.0,9.0,316.0,2.0,Grohs Fles,0128,01,D,3,S
-3224_01,Earth,0.0,F/607/S,TRAPPIST-1e,33.0,0,0.0,950.0,0.0,102.0,0.0,Ellie Fredersend,3224,01,F,607,S
+3224_01,Earth,1.0,F/607/S,TRAPPIST-1e,33.0,0,0.0,950.0,0.0,102.0,0.0,Ellie Fredersend,3224,01,F,607,S
 3318_01,Europa,0,B/123/S,TRAPPIST-1e,39.0,0,0.0,957.0,0.0,22.0,401.0,Acrabih Openduave,3318,01,B,123,S
 7910_01,Earth,0,F/1639/P,TRAPPIST-1e,30.0,0,4.0,637.0,0.0,0.0,3.0,Fery Rushing,7910,01,F,1639,P
 8536_01,Europa,0,E/559/S,55 Cancri e,28.0,0,0.0,101.0,0.0,0.0,12143.0,Mesatik Plattering,8536,01,E,559,S
@@ -1638,13 +1638,13 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3067_01,Earth,1,G/483/S,TRAPPIST-1e,22.0,0,0.0,0.0,0.0,0.0,0.0,France Dicksons,3067,01,G,483,S
 8458_05,Europa,0,C/319/S,TRAPPIST-1e,28.0,0,1004.0,2423.0,0.0,0.0,17.0,Hezenif Sempreate,8458,05,C,319,S
 7395_03,Europa,0,B/277/S,TRAPPIST-1e,38.0,0,4.0,5974.0,0.0,3682.0,197.0,Algeno Suasharic,7395,03,B,277,S
-6451_01,Mars,0,,TRAPPIST-1e,37.0,0,610.0,466.7652925531915,410.0,148.0,14.0,Carkes Panad,6451,01,D,2,S
+6451_01,Mars,0,,TRAPPIST-1e,37.0,0,610.0,466.7652925531915,410.0,148.0,14.0,Carkes Panad,6451,01,T,108,B
 0527_02,Mars,1,F/93/S,TRAPPIST-1e,34.0,0,0.0,0.0,0.0,0.0,0.0,Llat Stité,0527,02,F,93,S
 0531_02,Earth,1,G/82/P,55 Cancri e,33.0,0,0.0,0.0,0.0,0.0,0.0,Darley Alentonway,0531,02,G,82,P
 0714_07,Earth,1,G/109/P,55 Cancri e,0.0,0,0.0,0.0,0.0,0.0,0.0,Brene Rilley,0714,07,G,109,P
 4083_01,Europa,0,C/146/S,TRAPPIST-1e,21.0,0,0.0,6190.0,1828.0,7.0,35.0,Tauvaah Clarty,4083,01,C,146,S
 0631_01,Mars,1,F/113/S,TRAPPIST-1e,55.0,0,0.0,0.0,0.0,0.0,0.0,Croos She,0631,01,F,113,S
-2051_01,Earth,0,E/126/P,TRAPPIST-1e,20.0,0,2.0,0.0,694.0,0.0,22.0,Richard Delacruz,2051,01,E,126,P
+2051_01,Earth,0,E/126/P,TRAPPIST-1e,20.0,0,2.0,0.0,694.0,0.0,22.0,April Sanchez,2051,01,E,126,P
 6672_04,Mars,1,F/1387/P,TRAPPIST-1e,11.0,0,0.0,0.0,0.0,0.0,0.0,Coass Deva,6672,04,F,1387,P
 5755_01,Earth,0,G/933/S,TRAPPIST-1e,23.0,0,88.0,0.0,586.0,0.0,0.0,Loreen Cardner,5755,01,G,933,S
 6861_01,Earth,1,G/1114/S,PSO J318.5-22,15.0,0,0.0,0.0,0.0,0.0,0.0,Iney Lambucketty,6861,01,G,1114,S
@@ -1682,13 +1682,13 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6378_01,Earth,1,G/1034/S,PSO J318.5-22,16.0,0,0.0,0.0,0.0,0.0,0.0,Margio Foxter,6378,01,G,1034,S
 4131_01,Europa,1,C/147/S,TRAPPIST-1e,34.0,0,0.0,0.0,0.0,0.0,0.0,Achium Pokematic,4131,01,C,147,S
 0924_01,Earth,0,E/67/S,TRAPPIST-1e,33.0,0,13.0,0.0,984.0,0.0,0.0,Jona Chaellerty,0924,01,E,67,S
-6048_01,Mars,1,,TRAPPIST-1e,25.0,0,0.0,0.0,0.0,0.0,0.0,Mele Clake,6048,01,C,90,B
+6048_01,Mars,1,,TRAPPIST-1e,25.0,0,0.0,0.0,0.0,0.0,0.0,Mele Clake,6048,01,T,198,B
 6421_01,Europa,1,C/197/P,55 Cancri e,28.0,0,0.0,0.0,0.0,0.0,0.0,Azhab Redand,6421,01,C,197,P
 5876_03,Mars,1,F/1213/P,TRAPPIST-1e,22.0,0,0.0,0.0,0.0,0.0,0.0,Wal Cone,5876,03,F,1213,P
 7128_03,Europa,0,B/238/P,55 Cancri e,34.0,0,0.0,2612.0,1.0,131.0,2714.0,Polah Dightent,7128,03,B,238,P
 7187_01,Earth,1,G/1158/P,PSO J318.5-22,28.0,0,0.0,0.0,0.0,0.0,0.0,Agnesa Olshaffey,7187,01,G,1158,P
 6784_02,Earth,0,G/1102/S,TRAPPIST-1e,49.0,0,0.0,366.0,0.0,0.0,401.0,Rosey Currisones,6784,02,G,1102,S
-1891_01,Mars,1,E/142/S,TRAPPIST-1e,52.0,0,0.0,0.0,0.0,0.0,0.0,Thomas Ashley,1891,01,E,142,S
+1891_01,Mars,1,E/142/S,TRAPPIST-1e,52.0,0,0.0,0.0,0.0,0.0,0.0,Jonathan Smith,1891,01,E,142,S
 4690_02,Europa,0,B/156/P,TRAPPIST-1e,27.0,0,14327.0,1487.0,0.0,1.0,0.0,Tope Dishocatal,4690,02,B,156,P
 8217_01,Earth,0,F/1570/S,TRAPPIST-1e,49.0,0,0.0,4.0,50.0,0.0,746.0,Joanny Mcbriddley,8217,01,F,1570,S
 1941_01,Earth,0,F/370/S,TRAPPIST-1e,20.0,0,717.0,0.0,0.0,0.0,0.0,Man Hendrewsons,1941,01,F,370,S
@@ -1697,7 +1697,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0198_01,Earth,True,G/30/P,PSO J318.5-22,52.0,0,0.0,0.0,0.0,0.0,0.0,Jeroy Cookson,0198,01,G,30,P
 2238_01,Europa,1,A/28/S,55 Cancri e,25.0,0,0.0,0.0,0.0,0.0,0.0,Wasalm Droning,2238,01,A,28,S
 7016_01,Earth,1,G/1132/P,PSO J318.5-22,21.0,0,0.0,0.0,0.0,0.0,0.0,Sadine Rosalanenn,7016,01,G,1132,P
-3751_01,Earth,0,,TRAPPIST-1e,24.0,0,0.0,274.0,594.0,35.0,658.0,Ambert Ericksonga,3751,01,F,167,S
+3751_01,Earth,0,,TRAPPIST-1e,24.0,0,0.0,274.0,594.0,35.0,658.0,Ambert Ericksonga,3751,01,A,150,S
 7839_01,Earth,0,G/1259/P,TRAPPIST-1e,20.0,0,0.0,0.0,0.0,0.0,0.0,Jilla Leson,7839,01,G,1259,P
 0090_01,Earth,1,G/15/S,TRAPPIST-1e,35.0,0,0.0,0.0,0.0,0.0,0.0,Heremy Santry,0090,01,G,15,S
 0868_01,Earth,1,G/130/S,TRAPPIST-1e,37.0,0,0.0,0.0,0.0,0.0,0.0,Ianya Peckers,0868,01,G,130,S
@@ -1716,7 +1716,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8242_01,Earth,0,G/1330/S,TRAPPIST-1e,20.0,0,2.0,2.0,876.0,8.0,0.0,Melica Harmontry,8242,01,G,1330,S
 2822_05,Earth,1,G/450/S,TRAPPIST-1e,8.0,0,0.0,0.0,0.0,0.0,0.0,Melvia Harverez,2822,05,G,450,S
 5264_01,Earth,1,G/858/S,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Joyces Vinozarks,5264,01,G,858,S
-2479_01,Earth,1,,PSO J318.5-22,21.0,0,0.0,0.0,0.0,0.0,0.0,Joela Gordanieves,2479,01,A,43,B
+2479_01,Earth,1,,PSO J318.5-22,21.0,0,0.0,0.0,0.0,0.0,0.0,Joela Gordanieves,2479,01,D,21,S
 5221_01,Earth,0,F/1065/P,TRAPPIST-1e,25.0,0,0.0,528.0,8.0,153.0,0.0,Jilla Herreras,5221,01,F,1065,P
 4474_01,Earth,1,G/730/S,TRAPPIST-1e,2.0,0,0.0,0.0,0.0,0.0,0.0,Helley Tuckers,4474,01,G,730,S
 4450_01,Europa,1,C/140/P,55 Cancri e,26.0,0,0.0,0.0,0.0,0.0,0.0,Zaurah Clugete,4450,01,C,140,P
@@ -1725,7 +1725,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6829_01,Earth,1,G/1109/P,TRAPPIST-1e,2.0,0,0.0,0.0,0.0,0.0,0.0,Ine Hubbarrison,6829,01,G,1109,P
 6285_02,Europa,0,B/245/S,TRAPPIST-1e,43.0,0,2.0,5329.0,0.0,7.0,0.0,Shail Whealeed,6285,02,B,245,S
 2592_01,Mars,0,D/75/P,TRAPPIST-1e,29.0,1,803.0,0.0,0.0,58.0,0.0,Conk Flé,2592,01,D,75,P
-3818_01,Earth,0,,TRAPPIST-1e,32.0,0,0.0,600.0,80.0,0.0,18.0,Rankie Hoodgers,3818,01,F,53,S
+3818_01,Earth,0,,TRAPPIST-1e,32.0,0,0.0,600.0,80.0,0.0,18.0,Rankie Hoodgers,3818,01,B,33,B
 2347_07,Earth,0,G/377/P,TRAPPIST-1e,9.0,0,0.0,0.0,0.0,0.0,0.0,Fanna Wellierras,2347,07,G,377,P
 2787_01,Earth,0,F/535/S,55 Cancri e,21.0,0,13.0,466.7652925531915,1098.0,64.0,1.0,Stelly Salez,2787,01,F,535,S
 6779_03,Europa,1,B/258/S,TRAPPIST-1e,44.0,0,0.0,0.0,0.0,0.0,0.0,Tabanar Stioutody,6779,03,B,258,S
@@ -1812,7 +1812,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6680_01,Earth,0,G/1082/P,TRAPPIST-1e,36.0,0,226.60033250207815,361.0,512.0,34.0,0.0,Letta Puckley,6680,01,G,1082,P
 0407_01,Earth,0,G/69/P,TRAPPIST-1e,23.0,0,226.60033250207815,21.0,0.0,0.0,1699.0,Dandy Mirez,0407,01,G,69,P
 1215_01,Earth,1,G/187/S,TRAPPIST-1e,28.0,0,0.0,0.0,0.0,0.0,0.0,Kaye Huntt,1215,01,G,187,S
-6173_01,Europa,1,B/208/P,TRAPPIST-1e,23.0,0,0.0,0.0,0.0,0.0,0.0,Robert Franco,6173,01,B,208,P
+6173_01,Europa,1,B/208/P,TRAPPIST-1e,23.0,0,0.0,0.0,0.0,0.0,0.0,Scott Butler,6173,01,B,208,P
 7479_01,Mars,1,F/1429/S,TRAPPIST-1e,34.0,0,0.0,0.0,0.0,0.0,0.0,Muffs Berte,7479,01,F,1429,S
 4732_02,Europa,1,C/151/P,TRAPPIST-1e,32.0,0,0.0,0.0,0.0,0.0,0.0,Hallux Slavested,4732,02,C,151,P
 5223_02,Mars,1,F/1002/S,PSO J318.5-22,33.0,0,0.0,0.0,0.0,0.0,0.0,Goles Ble,5223,02,F,1002,S
@@ -1854,7 +1854,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5606_02,Europa,0,B/213/S,TRAPPIST-1e,31.0,0,0.0,1219.0,7.0,104.0,1082.0,Brab Dectory,5606,02,B,213,S
 3162_01,Earth,0,G/500/S,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Diandi Kellyons,3162,01,G,500,S
 6402_01,Earth,0,G/1032/P,TRAPPIST-1e,2.0,0,0.0,0.0,0.0,0.0,0.0,Ianley Knoxonway,6402,01,G,1032,P
-0173_01,Earth,1.0,E/11/S,TRAPPIST-1e,58.0,0,0.0,985.0,0.0,5.0,0.0,Hilip Grifford,0173,01,E,11,S
+0173_01,Earth,0.0,E/11/S,TRAPPIST-1e,58.0,0,0.0,985.0,0.0,5.0,0.0,Hilip Grifford,0173,01,E,11,S
 4177_02,Europa,1,B/161/S,55 Cancri e,33.0,0,0.0,0.0,0.0,0.0,0.0,Wezno Foraud,4177,02,B,161,S
 8202_05,Europa,0,C/306/S,55 Cancri e,36.0,0,0.0,8151.0,5.0,0.0,8182.0,Bottom Unkcatted,8202,05,C,306,S
 2737_02,Europa,0,C/100/S,TRAPPIST-1e,26.0,0,2381.0,1772.0,0.0,0.0,2618.0,Giedia Arterate,2737,02,C,100,S
@@ -1876,14 +1876,14 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6145_01,Europa,0.0,C/231/S,55 Cancri e,33.0,0,3478.0,10.0,0.0,105.0,2383.0,Benebah Asolipery,6145,01,C,231,S
 5874_01,Earth,1,G/953/S,PSO J318.5-22,51.0,0,0.0,0.0,0.0,0.0,0.0,Gory Simonsents,5874,01,G,953,S
 3868_03,Earth,0,G/630/S,TRAPPIST-1e,9.0,0,0.0,0.0,0.0,0.0,0.0,Joanry Braymon,3868,03,G,630,S
-3896_01,Earth,0.0,C/140/S,55 Cancri e,18.0,0,0.0,4387.0,0.0,2241.0,0.0,Ainoxa Preeldy,3896,01,C,140,S
+3896_01,Earth,1.0,C/140/S,55 Cancri e,18.0,0,0.0,4387.0,0.0,2241.0,0.0,Ainoxa Preeldy,3896,01,C,140,S
 6929_03,Earth,0,E/441/P,TRAPPIST-1e,15.0,0,9.0,776.0,4.0,0.0,2.0,Tricki Llovers,6929,03,E,441,P
 3713_03,Europa,1,C/133/S,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Gollux Trattle,3713,03,C,133,S
 0221_03,Mars,0,E/13/S,TRAPPIST-1e,33.0,0,1933.0,12.0,188.0,1.0,0.0,Jacks Reke,0221,03,E,13,S
 1199_01,Earth,0,E/73/P,TRAPPIST-1e,16.0,0,0.0,0.0,752.0,0.0,235.0,Lillen Hubbarnett,1199,01,E,73,P
 2953_01,Earth,0,E/179/P,55 Cancri e,25.0,0,0.0,641.0,0.0,2.0,0.0,Eilan Solivers,2953,01,E,179,P
 3883_02,Europa,0,B/150/S,TRAPPIST-1e,38.0,0,0.0,3060.0,0.0,4.0,2325.0,Mesarga Unreezy,3883,02,B,150,S
-0337_03,Mars,0,F/63/S,55 Cancri e,33.0,0,0.0,0.0,0.0,0.0,0.0,Amy Sampson,0337,03,F,63,S
+0337_03,Mars,0,F/63/S,55 Cancri e,33.0,0,0.0,0.0,0.0,0.0,0.0,Michael Miller,0337,03,F,63,S
 1976_03,Europa,1,B/82/S,55 Cancri e,26.0,1,0.0,0.0,0.0,0.0,0.0,Cellah Lansuffle,1976,03,B,82,S
 8512_01,Earth,0,F/1637/S,55 Cancri e,48.0,0,0.0,717.0,0.0,0.0,10.0,Verly Flyncharlan,8512,01,F,1637,S
 2126_01,Earth,0,F/415/S,TRAPPIST-1e,33.0,0,717.0,0.0,0.0,0.0,0.0,Natha Ricews,2126,01,F,415,S
@@ -1902,7 +1902,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8605_05,Europa,1,C/324/S,55 Cancri e,33.0,0,0.0,0.0,0.0,0.0,0.0,Pleion Netshaless,8605,05,C,324,S
 5059_01,Earth,0,F/1030/P,55 Cancri e,21.0,0,639.0,0.0,0.0,0.0,0.0,Nancis Ryanga,5059,01,F,1030,P
 8964_02,Mars,0,F/1734/S,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Tornes Grean,8964,02,F,1734,S
-5559_01,Earth,1,G/897/S,55 Cancri e,23.0,0,0.0,0.0,0.0,0.0,0.0,James Andrews,5559,01,G,897,S
+5559_01,Earth,1,G/897/S,55 Cancri e,23.0,0,0.0,0.0,0.0,0.0,0.0,Erica Bell,5559,01,G,897,S
 4101_01,Mars,0,F/773/S,TRAPPIST-1e,38.0,0,1100.0,43.0,163.0,3.0,0.0,Tyog Rapie,4101,01,F,773,S
 7450_01,Earth,0,G/1205/P,TRAPPIST-1e,23.0,0,509.0,0.0,193.0,0.0,2.0,Armene Sykess,7450,01,G,1205,P
 4555_01,Earth,0,G/743/S,TRAPPIST-1e,21.0,0,29.0,27.0,47.0,694.0,11.0,Claine Wiggs,4555,01,G,743,S
@@ -1959,7 +1959,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6373_01,Earth,0,F/1319/P,55 Cancri e,54.0,0,801.0,5.0,0.0,0.0,0.0,Dawne Denashipson,6373,01,F,1319,P
 1140_03,Europa,1,B/46/S,55 Cancri e,42.0,0,0.0,0.0,0.0,0.0,0.0,Wasaleh Sofraten,1140,03,B,46,S
 4042_02,Europa,1,A/46/S,55 Cancri e,33.0,0,0.0,0.0,0.0,0.0,0.0,Etair Stewder,4042,02,A,46,S
-4680_03,Mars,True,F/952/P,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Christine Hoffman,4680,03,F,952,P
+4680_03,Mars,True,F/952/P,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Lynn Meyer,4680,03,F,952,P
 5447_02,Mars,1,F/1126/P,TRAPPIST-1e,36.0,0,0.0,0.0,0.0,0.0,0.0,Poselk Coune,5447,02,F,1126,P
 7689_01,Earth,0,F/1597/P,TRAPPIST-1e,24.0,0,0.0,96.0,0.0,597.0,0.0,Erie Sextones,7689,01,F,1597,P
 7904_02,Earth,0,G/1277/P,TRAPPIST-1e,26.0,0,485.0,8.0,3958.0,0.0,0.0,Hilia Pughlinsons,7904,02,G,1277,P
@@ -1984,14 +1984,14 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7943_02,Europa,0,B/258/P,PSO J318.5-22,36.0,1,2.0,6504.0,0.0,98.0,4.0,Eleb Spedlybood,7943,02,B,258,P
 2835_01,Europa,0,A/24/P,55 Cancri e,26.0,1,0.0,186.0,170.72672872340425,548.0,5058.0,Sadirk Unaring,2835,01,A,24,P
 8157_01,Earth,0,G/1313/S,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Luisy Morelly,8157,01,G,1313,S
-4005_08,Earth,1,G/657/P,TRAPPIST-1e,8.0,0,0.0,0.0,0.0,0.0,0.0,Kimberly Perez,4005,08,G,657,P
+4005_08,Earth,1,G/657/P,TRAPPIST-1e,8.0,0,0.0,0.0,0.0,0.0,0.0,Alicia Brown,4005,08,G,657,P
 2325_01,Earth,1,G/374/S,PSO J318.5-22,22.0,0,0.0,0.0,0.0,0.0,0.0,Kimmie Hurchez,2325,01,G,374,S
 8448_01,Europa,1,B/278/P,55 Cancri e,46.0,0,0.0,0.0,0.0,0.0,0.0,Phernar Haftical,8448,01,B,278,P
 3562_02,Mars,0,D/119/P,55 Cancri e,55.0,0,14.0,0.0,0.0,3778.0,1.0,Mats Nad,3562,02,D,119,P
 5115_02,Europa,1,C/199/S,55 Cancri e,28.0,0,0.0,0.0,0.0,0.0,0.0,Megrezn Whibid,5115,02,C,199,S
 3006_01,Earth,0,G/474/S,PSO J318.5-22,19.0,0,23.0,0.0,0.0,0.0,732.0,Race Wolferguson,3006,01,G,474,S
 4383_01,Europa,0,B/169/S,TRAPPIST-1e,57.0,0,0.0,0.0,0.0,0.0,0.0,Sheratz Dingauge,4383,01,B,169,S
-7831_01,Mars,0,F/1626/P,TRAPPIST-1e,16.0,0,1095.0,0.0,54.0,0.0,0.0,Ray Gonzalez,7831,01,F,1626,P
+7831_01,Mars,0,F/1626/P,TRAPPIST-1e,16.0,0,1095.0,0.0,54.0,0.0,0.0,Aaron Skinner,7831,01,F,1626,P
 1776_01,Earth,0,G/278/S,TRAPPIST-1e,21.0,0,0.0,0.0,809.0,0.0,0.0,Lynnon Wolffy,1776,01,G,278,S
 4213_01,Earth,0,G/691/S,PSO J318.5-22,23.0,0,4.0,157.0,142.0,314.1307461692205,196.0,Fayen Morrodgers,4213,01,G,691,S
 7118_01,Earth,0,F/1475/P,PSO J318.5-22,17.0,0,0.0,1381.0,2.0,0.0,0.0,Jimmya Campson,7118,01,F,1475,P
@@ -2016,7 +2016,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3023_01,Mars,1,F/631/P,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Panter Blane,3023,01,F,631,P
 3942_01,Earth,1,G/645/S,PSO J318.5-22,20.0,0,0.0,0.0,0.0,0.0,0.0,Floyde Grahangory,3942,01,G,645,S
 3938_03,Mars,1,F/743/S,TRAPPIST-1e,12.0,0,0.0,0.0,0.0,0.0,0.0,Gut Flité,3938,03,F,743,S
-9081_04,Earth,0,G/1476/P,TRAPPIST-1e,9.0,0,0.0,0.0,0.0,0.0,0.0,Tara Pruitt,9081,04,G,1476,P
+9081_04,Earth,0,G/1476/P,TRAPPIST-1e,9.0,0,0.0,0.0,0.0,0.0,0.0,Stephanie Peterson,9081,04,G,1476,P
 4891_01,Europa,1,B/194/S,TRAPPIST-1e,22.0,0,0.0,0.0,0.0,0.0,0.0,Cella Ambleetive,4891,01,B,194,S
 2156_01,Earth,0,F/421/S,TRAPPIST-1e,49.0,0,651.0,25.0,0.0,849.0,2.0,Troya Cofferson,2156,01,F,421,S
 6241_01,Earth,0,F/1198/S,TRAPPIST-1e,33.0,0,6.0,0.0,0.0,0.0,950.0,Claine Russelloyd,6241,01,F,1198,S
@@ -2103,7 +2103,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 1976_01,Europa,0,B/82/S,55 Cancri e,23.0,0,0.0,8037.0,170.72672872340425,1.0,2.0,Sadirab Craleve,1976,01,B,82,S
 6334_05,Earth,0,E/421/S,TRAPPIST-1e,17.0,0,5.0,0.0,1317.0,287.0,0.0,Lynez Jenson,6334,05,E,421,S
 6585_02,Earth,1,F/1260/S,TRAPPIST-1e,18.0,0,289.0,1809.0,3.0,2.0,2.0,Raque Hornettoney,6585,02,F,1260,S
-7010_02,Earth,0,F/1340/S,TRAPPIST-1e,30.0,0,0.0,6.0,0.0,0.0,1435.0,Janet Hodge,7010,02,F,1340,S
+7010_02,Earth,0,F/1340/S,TRAPPIST-1e,30.0,0,0.0,6.0,0.0,0.0,1435.0,Richard Parker,7010,02,F,1340,S
 7189_01,Europa,1,C/234/P,TRAPPIST-1e,29.0,0,0.0,0.0,0.0,0.0,0.0,Auvara Cowtale,7189,01,C,234,P
 5795_01,Earth,0,F/1106/S,PSO J318.5-22,19.0,0,0.0,95.0,595.0,0.0,0.0,Evey Hodes,5795,01,F,1106,S
 1166_01,Europa,0,C/43/P,55 Cancri e,30.0,0,0.0,3564.0,926.0,1.0,1920.0,Wasath Shoeweely,1166,01,C,43,P
@@ -2130,7 +2130,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0761_01,Europa,0,C/26/P,TRAPPIST-1e,33.0,0,0.0,3879.0,0.0,48.0,67.0,Izarki Fliblerolt,0761,01,C,26,P
 8741_01,Europa,1,A/91/P,TRAPPIST-1e,14.0,0,0.0,0.0,0.0,0.0,0.0,Neutrak Alaring,8741,01,A,91,P
 4173_01,Earth,0,E/261/P,TRAPPIST-1e,27.0,0,0.0,0.0,0.0,658.0,133.0,Genee Meleon,4173,01,E,261,P
-3025_01,Earth,0,G/477/S,TRAPPIST-1e,31.0,0,2.0,788.0,0.0,128.0,9.0,Lauren Huerta,3025,01,G,477,S
+3025_01,Earth,0,G/477/S,TRAPPIST-1e,31.0,0,2.0,788.0,0.0,128.0,9.0,Matthew Gilbert,3025,01,G,477,S
 2752_03,Earth,0,E/165/P,TRAPPIST-1e,58.0,0,0.0,82.0,0.0,758.0,0.0,Thel Ballocks,2752,03,E,165,P
 4300_01,Earth,1,G/704/S,PSO J318.5-22,16.0,0,0.0,0.0,0.0,0.0,0.0,Felia Loway,4300,01,G,704,S
 0030_01,Earth,0,G/4/S,TRAPPIST-1e,32.0,0,0.0,850.0,81.0,437.0,453.0,Ginia Morsentley,0030,01,G,4,S
@@ -2154,11 +2154,11 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 4176_06,Mars,1,F/859/P,TRAPPIST-1e,13.0,0,0.0,0.0,0.0,0.0,0.0,Wafros Fla,4176,06,F,859,P
 2446_01,Earth,0,F/507/P,TRAPPIST-1e,33.0,0,0.0,0.0,661.0,0.0,94.0,Lestie Hoppernardy,2446,01,F,507,P
 5488_02,Europa,0,B/186/P,TRAPPIST-1e,15.0,0,0.0,22.0,6805.0,0.0,531.0,Acrabik Hoorherve,5488,02,B,186,P
-1478_01,Earth,0,F/289/P,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,417.0,2372.0,Anne Edwards,1478,01,F,289,P
+1478_01,Earth,0,F/289/P,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,417.0,2372.0,Christopher Duke,1478,01,F,289,P
 0773_01,Earth,0,F/143/S,TRAPPIST-1e,30.0,0,558.0,4.0,0.0,175.0,0.0,Gwendy Beston,0773,01,F,143,S
 4542_01,Europa,1,B/150/P,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Coxak Sterve,4542,01,B,150,P
 9151_01,Mars,1,F/1769/S,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Pok Min,9151,01,F,1769,S
-5970_01,Europa,1,B/229/S,55 Cancri e,40.0,0,0.0,0.0,0.0,0.0,0.0,Katherine Jones,5970,01,B,229,S
+5970_01,Europa,1,B/229/S,55 Cancri e,40.0,0,0.0,0.0,0.0,0.0,0.0,Christopher Gonzales,5970,01,B,229,S
 4128_01,Mars,0,F/846/P,TRAPPIST-1e,54.0,1,111.0,0.0,1144.0,8.0,23.0,Ors Pare,4128,01,F,846,P
 9219_02,Earth,0,F/1783/S,TRAPPIST-1e,51.0,0,6.0,0.0,0.0,0.0,1164.0,Robyna Workmanson,9219,02,F,1783,S
 6509_01,Earth,0,F/1243/S,PSO J318.5-22,23.0,0,601.0,0.0,113.0,0.0,39.0,Belix Adavisons,6509,01,F,1243,S
@@ -2210,8 +2210,8 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 4349_01,Mars,0,E/275/P,TRAPPIST-1e,55.0,0,802.0,0.0,155.0,4.0,337.0,Shams Rapie,4349,01,E,275,P
 6787_02,Earth,1,F/1411/P,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Helean Booneid,6787,02,F,1411,P
 6675_01,Earth,0,F/1388/P,TRAPPIST-1e,60.0,0,707.0,24.0,0.0,0.0,170.0,Derry Gouldensen,6675,01,F,1388,P
-1613_01,Earth,0,,55 Cancri e,16.0,0,825.0,9.0,0.0,0.0,42.0,Judya Josey,1613,01,T,119,S
-7310_01,Mars,0.0,D/229/P,TRAPPIST-1e,28.0,0,1059.0,0.0,6.0,117.0,0.0,Toale Bette,7310,01,D,229,P
+1613_01,Earth,0,,55 Cancri e,16.0,0,825.0,9.0,0.0,0.0,42.0,Judya Josey,1613,01,E,171,S
+7310_01,Mars,1.0,D/229/P,TRAPPIST-1e,28.0,0,1059.0,0.0,6.0,117.0,0.0,Toale Bette,7310,01,D,229,P
 1452_01,Europa,0,C/53/P,TRAPPIST-1e,21.0,0,5.0,251.0,10.0,26.0,3384.0,Arkar Distured,1452,01,C,53,P
 1088_01,Earth,1,G/169/S,PSO J318.5-22,20.0,0,0.0,0.0,0.0,0.0,0.0,Kayd Pottney,1088,01,G,169,S
 2773_01,Mars,0,D/94/S,TRAPPIST-1e,25.0,0,314.0,2.0,648.0,92.0,0.0,Whark Teake,2773,01,D,94,S
@@ -2220,7 +2220,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8508_02,Mars,1,F/1747/P,TRAPPIST-1e,2.0,0,0.0,0.0,0.0,0.0,0.0,Spikes Bake,8508,02,F,1747,P
 7703_01,Earth,0,G/1251/S,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Bonyan Gordanieves,7703,01,G,1251,S
 1725_01,Earth,0,F/328/S,TRAPPIST-1e,24.0,0,0.0,201.0,0.0,0.0,603.0,Breney Wheelez,1725,01,F,328,S
-4810_01,Earth,0,,PSO J318.5-22,20.0,0,30.0,4.0,0.0,321.0,451.0,Lulard Blacks,4810,01,C,149,B
+4810_01,Earth,0,,PSO J318.5-22,20.0,0,30.0,4.0,0.0,321.0,451.0,Lulard Blacks,4810,01,A,166,B
 3779_01,Earth,0,F/714/S,TRAPPIST-1e,24.0,0,1.0,677.0,13.0,10.0,0.0,Ambert Tranciams,3779,01,F,714,S
 8268_01,Europa,1,B/321/S,TRAPPIST-1e,40.0,0,0.0,0.0,0.0,0.0,0.0,Astrark Impress,8268,01,B,321,S
 3873_01,Earth,0,F/800/P,TRAPPIST-1e,29.0,0,2478.0,0.0,31.0,4.0,11.0,Violey Pearsalason,3873,01,F,800,P
@@ -2254,7 +2254,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2521_01,Mars,1,E/151/P,TRAPPIST-1e,43.0,0,0.0,0.0,0.0,0.0,0.0,Stey Cry,2521,01,E,151,P
 8027_02,Earth,0,F/1535/S,55 Cancri e,27.0,0,31.0,225.0,331.0,0.0,14.0,Wally Logannon,8027,02,F,1535,S
 3415_01,Earth,0,F/702/P,TRAPPIST-1e,39.0,0,505.0,178.0,181.0,0.0,0.0,Lilace Bakerrison,3415,01,F,702,P
-8294_01,Mars,1,E/543/S,TRAPPIST-1e,62.0,0,0.0,0.0,0.0,0.0,0.0,Morgan Lyons,8294,01,E,543,S
+8294_01,Mars,1,E/543/S,TRAPPIST-1e,62.0,0,0.0,0.0,0.0,0.0,0.0,Kelly Evans,8294,01,E,543,S
 6380_01,Earth,0,F/1322/P,TRAPPIST-1e,37.0,0,0.0,959.0,8.0,20.0,169.0,Thel Fryersonis,6380,01,F,1322,P
 1340_01,Earth,1,G/203/S,TRAPPIST-1e,23.0,0,0.0,0.0,0.0,0.0,0.0,Pamiea Harrenoldez,1340,01,G,203,S
 4728_01,Mars,0,F/889/S,TRAPPIST-1e,23.0,0,706.0,0.0,0.0,0.0,583.0,Gorice Curle,4728,01,F,889,S
@@ -2273,10 +2273,10 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5575_01,Mars,0,F/1156/P,TRAPPIST-1e,44.0,0,583.0,0.0,222.0,0.0,1560.0,Bares Nacke,5575,01,F,1156,P
 9037_01,Mars,0,F/1751/S,55 Cancri e,21.0,0,1410.0,3.0,49.0,0.0,0.0,Galowl Stike,9037,01,F,1751,S
 6128_01,Earth,1,G/992/P,TRAPPIST-1e,23.0,0,0.0,0.0,0.0,0.0,0.0,Samany Serry,6128,01,G,992,P
-4134_01,Earth,1,,TRAPPIST-1e,40.0,0,0.0,0.0,0.0,0.0,0.0,Cird Datty,4134,01,E,66,S
+4134_01,Earth,1,,TRAPPIST-1e,40.0,0,0.0,0.0,0.0,0.0,0.0,Cird Datty,4134,01,C,153,S
 6637_01,Mars,0,F/1271/S,TRAPPIST-1e,27.0,0,1228.0,0.0,0.0,0.0,0.0,Tibers Sinda,6637,01,F,1271,S
-3053_01,Europa,0,,55 Cancri e,52.0,0,0.0,2.0,0.0,10976.0,810.0,Ainor Fuelisent,3053,01,F,77,B
-0468_01,Earth,1,,TRAPPIST-1e,34.0,0,0.0,0.0,0.0,0.0,0.0,Haryn Wynneyerson,0468,01,B,105,S
+3053_01,Europa,0,,55 Cancri e,52.0,0,0.0,2.0,0.0,10976.0,810.0,Ainor Fuelisent,3053,01,C,112,B
+0468_01,Earth,1,,TRAPPIST-1e,34.0,0,0.0,0.0,0.0,0.0,0.0,Haryn Wynneyerson,0468,01,C,112,S
 6463_01,Earth,0,F/1234/S,TRAPPIST-1e,24.0,0,1256.0,2.0,8.0,1530.0,0.0,Guadae Jacobbinson,6463,01,F,1234,S
 4163_01,Earth,1,G/683/S,55 Cancri e,16.0,0,0.0,0.0,0.0,0.0,0.0,Lyne Woodwinton,4163,01,G,683,S
 1685_02,Earth,0,G/272/P,55 Cancri e,7.0,0,0.0,0.0,0.0,0.0,0.0,Vana Dillestron,1685,02,G,272,P
@@ -2329,7 +2329,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0020_04,Earth,0,E/0/S,TRAPPIST-1e,10.0,0,0.0,0.0,0.0,0.0,0.0,Breney Jacostanley,0020,04,E,0,S
 7721_01,Mars,0,D/242/P,TRAPPIST-1e,27.0,0,83.0,0.0,2621.0,5.0,0.0,Shog Khaf,7721,01,D,242,P
 1154_02,Europa,1,B/43/P,TRAPPIST-1e,32.0,0,0.0,0.0,0.0,0.0,0.0,Bahyon Ingascomet,1154,02,B,43,P
-4980_03,Earth,0,G/805/P,TRAPPIST-1e,11.0,0,0.0,0.0,0.0,0.0,0.0,Susan Brown,4980,03,G,805,P
+4980_03,Earth,0,G/805/P,TRAPPIST-1e,11.0,0,0.0,0.0,0.0,0.0,0.0,Kyle Hunt,4980,03,G,805,P
 2888_01,Mars,0,F/597/P,TRAPPIST-1e,71.0,1,901.0,0.0,1698.0,0.0,0.0,Kad Gele,2888,01,F,597,P
 7457_01,Mars,0,E/496/S,TRAPPIST-1e,71.0,0,1243.0,0.0,5.0,16.0,34.0,Seat Fine,7457,01,E,496,S
 3654_02,Earth,0,F/689/S,TRAPPIST-1e,15.0,0,0.0,398.0,0.0,467.0,0.0,Sha Coolerson,3654,02,F,689,S
@@ -2338,7 +2338,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3065_01,Europa,0,D/94/P,55 Cancri e,37.0,0,0.0,2065.0,1650.0,356.0,1.0,Solark Preeldy,3065,01,D,94,P
 2489_01,Europa,1,B/72/P,TRAPPIST-1e,27.0,0,0.0,0.0,0.0,0.0,0.0,Alraida Purellliss,2489,01,B,72,P
 6741_01,Earth,0,G/1098/S,TRAPPIST-1e,37.0,0,0.0,1190.0,4.0,455.0,71.0,Heald Reyersendry,6741,01,G,1098,S
-3476_03,Earth,0,G/571/P,55 Cancri e,0.0,0,0.0,0.0,0.0,0.0,0.0,Nicole Johnson,3476,03,G,571,P
+3476_03,Earth,0,G/571/P,55 Cancri e,0.0,0,0.0,0.0,0.0,0.0,0.0,Scott Guerrero,3476,03,G,571,P
 4437_01,Earth,1,G/725/S,TRAPPIST-1e,20.0,0,0.0,0.0,0.0,0.0,0.0,Idacey Cartz,4437,01,G,725,S
 1387_01,Mars,0,E/85/P,TRAPPIST-1e,31.0,0,1088.0,0.0,280.0,0.0,0.0,Trise Hacle,1387,01,E,85,P
 0726_01,Earth,1,G/111/P,TRAPPIST-1e,20.0,0,0.0,0.0,0.0,0.0,0.0,Verly Fitzgerson,0726,01,G,111,P
@@ -2397,7 +2397,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6360_03,Europa,1,A/75/S,TRAPPIST-1e,40.0,0,0.0,0.0,0.0,0.0,0.0,Becruxa Clumsty,6360,03,A,75,S
 0585_01,Mars,1,F/120/P,TRAPPIST-1e,48.0,0,0.0,0.0,0.0,0.0,0.0,Graven Fone,0585,01,F,120,P
 6402_05,Earth,0,G/1032/P,TRAPPIST-1e,11.0,0,0.0,0.0,0.0,0.0,0.0,Elene Knoxonway,6402,05,G,1032,P
-1287_02,Mars,1,F/259/P,55 Cancri e,4.0,0,0.0,0.0,0.0,0.0,0.0,Joseph Perez,1287,02,F,259,P
+1287_02,Mars,1,F/259/P,55 Cancri e,4.0,0,0.0,0.0,0.0,0.0,0.0,Angelica Johnson,1287,02,F,259,P
 6334_03,Earth,0,G/1028/S,55 Cancri e,12.0,0,0.0,0.0,0.0,0.0,0.0,Tonnie Simmonders,6334,03,G,1028,S
 5867_01,Earth,0,F/1212/P,TRAPPIST-1e,45.0,0,226.60033250207815,0.0,0.0,1501.0,24.0,Noria Rocknight,5867,01,F,1212,P
 1603_01,Earth,0,F/317/P,TRAPPIST-1e,42.0,0,0.0,594.0,0.0,0.0,119.0,Tyle Carreralend,1603,01,F,317,P
@@ -2428,7 +2428,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8168_06,Earth,0,G/1316/S,TRAPPIST-1e,11.0,0,0.0,858.0,2.0,314.1307461692205,0.0,Camina Carpentley,8168,06,G,1316,S
 7436_01,Earth,True,G/1202/P,TRAPPIST-1e,28.0,0,0.0,0.0,0.0,0.0,0.0,Letty Meyersones,7436,01,G,1202,P
 2340_01,Earth,0,F/454/S,PSO J318.5-22,24.0,0,0.0,0.0,648.0,0.0,0.0,Karlie Huntt,2340,01,F,454,S
-1198_01,Mars,0,,TRAPPIST-1e,28.0,0,42.0,1116.0,0.0,0.0,0.0,Rinnab Tie,1198,01,A,42,S
+1198_01,Mars,0,,TRAPPIST-1e,28.0,0,42.0,1116.0,0.0,0.0,0.0,Rinnab Tie,1198,01,B,64,S
 5346_01,Earth,0,E/334/P,TRAPPIST-1e,21.0,0,37.0,0.0,31.0,696.0,63.0,Tera Kaney,5346,01,E,334,P
 1384_02,Earth,1,G/210/S,TRAPPIST-1e,6.0,0,0.0,0.0,0.0,0.0,0.0,Berty Mayods,1384,02,G,210,S
 1723_01,Earth,0,E/128/S,TRAPPIST-1e,15.0,0,852.0,0.0,0.0,135.0,0.0,Ivaney Holcompson,1723,01,E,128,S
@@ -2447,8 +2447,8 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7014_01,Europa,0,C/257/S,55 Cancri e,25.0,0,0.0,3512.0,20.0,24.0,1459.0,Edar Speery,7014,01,C,257,S
 6369_01,Earth,0,F/1318/P,PSO J318.5-22,19.0,0,577.0,169.0,0.0,7.0,0.0,Dian Holcompson,6369,01,F,1318,P
 7902_04,Earth,0,G/1276/P,TRAPPIST-1e,23.0,0,1.0,700.0,0.0,7.0,136.0,Luison Villenson,7902,04,G,1276,P
-6675_02,Earth,0,E/427/P,PSO J318.5-22,24.0,0,61.0,0.0,0.0,0.0,1495.0,Cynthia Roth,6675,02,E,427,P
-5698_02,Earth,0,G/923/S,TRAPPIST-1e,26.0,0,178.0,0.0,3.0,0.0,704.0,Carolyn Garner,5698,02,G,923,S
+6675_02,Earth,0,E/427/P,PSO J318.5-22,24.0,0,61.0,0.0,0.0,0.0,1495.0,Brenda Haas,6675,02,E,427,P
+5698_02,Earth,0,G/923/S,TRAPPIST-1e,26.0,0,178.0,0.0,3.0,0.0,704.0,Jennifer Morgan,5698,02,G,923,S
 8373_01,Earth,0,F/1606/S,TRAPPIST-1e,22.0,0,1.0,2.0,243.0,0.0,484.0,Gillie Crosbornes,8373,01,F,1606,S
 2919_02,Mars,0,F/555/S,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Soyos Kra,2919,02,F,555,S
 2067_01,Europa,1,C/70/P,TRAPPIST-1e,30.0,0,0.0,0.0,0.0,0.0,0.0,Alatrin Sprender,2067,01,C,70,P
@@ -2513,7 +2513,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0006_01,Earth,0,F/2/S,TRAPPIST-1e,26.0,0,42.0,1539.0,3.0,0.0,0.0,Billex Jacostaffey,0006,01,F,2,S
 3223_01,Earth,0,G/523/P,TRAPPIST-1e,33.0,0,16.0,0.0,799.0,0.0,37.0,Elany Prickmantes,3223,01,G,523,P
 3613_01,Earth,0,F/748/P,TRAPPIST-1e,18.0,0,0.0,733.0,0.0,0.0,0.0,Bethew Lewintos,3613,01,F,748,P
-5091_01,Earth,0,F/973/S,55 Cancri e,18.0,0,1471.0,59.0,95.0,1109.0,330.0,Sabrina Kemp,5091,01,F,973,S
+5091_01,Earth,0,F/973/S,55 Cancri e,18.0,0,1471.0,59.0,95.0,1109.0,330.0,Gary Mejia,5091,01,F,973,S
 2082_01,Earth,0,G/335/P,TRAPPIST-1e,20.0,0,0.0,0.0,4.0,35.0,769.0,Carlie Kirks,2082,01,G,335,P
 5959_02,Europa,1,D/181/S,TRAPPIST-1e,34.0,0,0.0,0.0,0.0,0.0,0.0,Dabik Praugnox,5959,02,D,181,S
 1731_01,Earth,1,G/281/P,PSO J318.5-22,17.0,0,0.0,0.0,0.0,0.0,0.0,Alfrey Santry,1731,01,G,281,P
@@ -2537,7 +2537,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7503_01,Europa,1,B/283/S,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Achira Capplid,7503,01,B,283,S
 2846_01,Earth,1,G/452/S,TRAPPIST-1e,28.0,0,0.0,0.0,0.0,0.0,0.0,Margio Lardsonald,2846,01,G,452,S
 1193_01,Europa,1,B/50/S,TRAPPIST-1e,16.0,0,0.0,0.0,0.0,0.0,0.0,Eleonon Presstic,1193,01,B,50,S
-5897_01,Europa,True,C/221/S,55 Cancri e,25.0,0,0.0,0.0,0.0,0.0,0.0,Tammy Williams,5897,01,C,221,S
+5897_01,Europa,True,C/221/S,55 Cancri e,25.0,0,0.0,0.0,0.0,0.0,0.0,Christine Young,5897,01,C,221,S
 1942_01,Earth,0,G/312/P,TRAPPIST-1e,47.0,0,0.0,444.0,328.0,56.0,306.23469727212245,Gerly Gaineyerson,1942,01,G,312,P
 8964_01,Mars,0,F/1734/S,TRAPPIST-1e,28.0,0,1708.0,466.7652925531915,65.0,1.0,0.0,Chones Grean,8964,01,F,1734,S
 4603_01,Europa,0,C/171/S,55 Cancri e,26.0,0,0.0,3593.0,47.0,19.0,229.0,Hamakan Namsheary,4603,01,C,171,S
@@ -2559,7 +2559,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5931_01,Europa,0,A/56/P,55 Cancri e,39.0,0,0.0,0.0,0.0,1854.0,171.0,Alcoran Clugeammy,5931,01,A,56,P
 2908_01,Earth,0,G/464/S,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Nica Berreranks,2908,01,G,464,S
 7808_01,Earth,0,G/1256/P,TRAPPIST-1e,26.0,0,0.0,79.0,53.0,314.1307461692205,0.0,Arllia Sweenez,7808,01,G,1256,P
-6894_01,Mars,1,F/1319/S,TRAPPIST-1e,37.0,0,0.0,0.0,0.0,0.0,0.0,Patrick Burnett,6894,01,F,1319,S
+6894_01,Mars,1,F/1319/S,TRAPPIST-1e,37.0,0,0.0,0.0,0.0,0.0,0.0,Vincent Bailey,6894,01,F,1319,S
 8556_01,Europa,0,B/280/P,TRAPPIST-1e,18.0,0,0.0,1878.0,0.0,18572.0,10028.0,Mirfar Optionful,8556,01,B,280,P
 3438_02,Earth,0,F/707/P,55 Cancri e,24.0,0,95.0,35.0,1442.0,0.0,0.0,Dary Pottney,3438,02,F,707,P
 9244_01,Earth,1,G/1489/S,PSO J318.5-22,13.0,0,0.0,0.0,0.0,0.0,0.0,Chrisa Francock,9244,01,G,1489,S
@@ -2576,7 +2576,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 4266_01,Earth,1,G/697/S,PSO J318.5-22,18.0,0,0.0,0.0,0.0,0.0,0.0,Vin Beston,4266,01,G,697,S
 2892_05,Earth,0,G/469/P,TRAPPIST-1e,9.0,0,0.0,0.0,0.0,0.0,0.0,Wilmay Coolerson,2892,05,G,469,P
 9231_02,Mars,0,F/1888/P,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Walls Paie,9231,02,F,1888,P
-0372_01,Earth,0,F/85/P,TRAPPIST-1e,24.0,0,0.0,5.0,0.0,2766.0,0.0,Andrew Campbell,0372,01,F,85,P
+0372_01,Earth,0,F/85/P,TRAPPIST-1e,24.0,0,0.0,5.0,0.0,2766.0,0.0,Jeffrey Zamora,0372,01,F,85,P
 5742_01,Earth,0,F/1096/S,55 Cancri e,50.0,0,57.0,29.0,0.0,0.0,643.0,Ger Rigginsen,5742,01,F,1096,S
 5769_02,Europa,1,B/194/P,55 Cancri e,19.0,0,0.0,0.0,0.0,0.0,0.0,Muonon Oppont,5769,02,B,194,P
 2640_01,Earth,0,F/510/S,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,1051.0,Helean Wagnerray,2640,01,F,510,S
@@ -2584,14 +2584,14 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8637_01,Mars,1,F/1773/P,TRAPPIST-1e,28.0,0,0.0,0.0,0.0,0.0,0.0,Sinkes Spien,8637,01,F,1773,P
 8092_01,Europa,0,D/238/S,TRAPPIST-1e,31.0,0,0.0,4655.0,135.0,2075.0,402.0,Mintard Pulgaly,8092,01,D,238,S
 2877_01,Earth,0,F/592/P,TRAPPIST-1e,36.0,0,418.0,40.0,7.0,338.0,0.0,Berly Vinozarks,2877,01,F,592,P
-8219_01,Earth,1.0,G/1335/P,TRAPPIST-1e,18.0,0,3.0,0.0,3.0,1773.0,0.0,Ralda Flynnis,8219,01,G,1335,P
+8219_01,Earth,0.0,G/1335/P,TRAPPIST-1e,18.0,0,3.0,0.0,3.0,1773.0,0.0,Ralda Flynnis,8219,01,G,1335,P
 7939_01,Earth,0,G/1281/S,TRAPPIST-1e,27.0,0,0.0,593.0,0.0,259.0,0.0,Jodyn Foxter,7939,01,G,1281,S
 6751_02,Mars,1,E/446/S,TRAPPIST-1e,31.0,0,0.0,0.0,0.0,0.0,0.0,Fal Berle,6751,02,E,446,S
 7097_04,Europa,0,A/75/P,55 Cancri e,33.0,1,0.0,16.0,12.0,2349.0,12.0,Sulah Poilsive,7097,04,A,75,P
-7504_01,Earth,0,F/1552/P,TRAPPIST-1e,30.0,0,0.0,2.0,0.0,690.0,86.0,James Buck,7504,01,F,1552,P
+7504_01,Earth,0,F/1552/P,TRAPPIST-1e,30.0,0,0.0,2.0,0.0,690.0,86.0,Cindy Strong,7504,01,F,1552,P
 7437_03,Europa,1,B/279/S,TRAPPIST-1e,60.0,0,0.0,0.0,0.0,0.0,0.0,Sadalm Clumshangs,7437,03,B,279,S
 6901_01,Mars,0,F/1321/S,TRAPPIST-1e,16.0,0,501.0,974.0,1164.0,0.0,0.0,Anch Opie,6901,01,F,1321,S
-7297_01,Earth,0,G/1188/S,TRAPPIST-1e,40.0,0,678.0,0.0,229.0,0.0,0.0,Tracy Alexander,7297,01,G,1188,S
+7297_01,Earth,0,G/1188/S,TRAPPIST-1e,40.0,0,678.0,0.0,229.0,0.0,0.0,Gabrielle Miller,7297,01,G,1188,S
 0196_01,Mars,0,D/5/P,PSO J318.5-22,25.0,0,1052.0,0.0,719.0,0.0,7.0,Caper Emead,0196,01,D,5,P
 6604_01,Europa,1,C/205/P,55 Cancri e,42.0,0,0.0,0.0,0.0,0.0,0.0,Coxaron Unsive,6604,01,C,205,P
 4918_01,Earth,1,G/794/P,55 Cancri e,59.0,0,0.0,0.0,0.0,0.0,0.0,Andyn Ryanga,4918,01,G,794,P
@@ -2609,7 +2609,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3966_01,Earth,0,F/818/P,TRAPPIST-1e,49.0,0,324.0,275.0,0.0,0.0,0.0,Lillia Kerristicey,3966,01,F,818,P
 7332_01,Earth,0,E/488/S,TRAPPIST-1e,39.0,0,2.0,0.0,0.0,2.0,787.0,Violan Holliams,7332,01,E,488,S
 4371_02,Europa,0,C/158/S,55 Cancri e,39.0,0,106.0,243.0,126.0,7.0,4967.0,Taurak Shricatory,4371,02,C,158,S
-3903_03,Earth,1,G/636/P,55 Cancri e,7.0,0,0.0,0.0,0.0,0.0,0.0,Julie Lane,3903,03,G,636,P
+3903_03,Earth,1,G/636/P,55 Cancri e,7.0,0,0.0,0.0,0.0,0.0,0.0,James Nicholson,3903,03,G,636,P
 7739_01,Earth,0,F/1609/P,TRAPPIST-1e,22.0,0,60.0,48.0,0.0,0.0,500.0,Herita Brookenson,7739,01,F,1609,P
 2320_01,Earth,0,F/450/S,55 Cancri e,33.0,0,0.0,760.0,0.0,21.0,23.0,Thel Francock,2320,01,F,450,S
 1427_02,Mars,0,F/275/S,TRAPPIST-1e,67.0,0,443.0,0.0,1721.0,250.0,2.0,Hont Pead,1427,02,F,275,S
@@ -2630,7 +2630,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8973_01,Earth,1,G/1446/S,TRAPPIST-1e,13.0,0,0.0,0.0,0.0,0.0,0.0,Daisya Flynner,8973,01,G,1446,S
 8411_01,Earth,0,F/1726/P,TRAPPIST-1e,15.0,0,0.0,3137.0,0.0,0.0,0.0,Therry Parsoney,8411,01,F,1726,P
 6746_01,Earth,1,G/1092/P,TRAPPIST-1e,28.0,0,0.0,0.0,0.0,0.0,0.0,Luison Mcinton,6746,01,G,1092,P
-6447_01,Earth,1,G/1043/P,PSO J318.5-22,38.0,0,0.0,0.0,0.0,0.0,0.0,Brent Jones,6447,01,G,1043,P
+6447_01,Earth,1,G/1043/P,PSO J318.5-22,38.0,0,0.0,0.0,0.0,0.0,0.0,Sue Edwards,6447,01,G,1043,P
 6020_05,Earth,0,F/1242/P,55 Cancri e,34.0,0,0.0,968.0,273.0,314.1307461692205,283.0,Mabela Hanner,6020,05,F,1242,P
 5323_01,Mars,1,F/1091/P,TRAPPIST-1e,38.0,0,0.0,0.0,0.0,0.0,0.0,Coakey Cort,5323,01,F,1091,P
 9057_02,Europa,1,B/296/P,TRAPPIST-1e,55.0,0,0.0,0.0,0.0,0.0,0.0,Sitron Statch,9057,02,B,296,P
@@ -2648,7 +2648,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8504_02,Earth,1,G/1385/P,55 Cancri e,22.0,0,0.0,0.0,0.0,0.0,0.0,Kencey Moranthons,8504,02,G,1385,P
 1742_01,Mars,0,D/55/P,PSO J318.5-22,34.0,1,49.0,478.0,387.0,0.0,0.0,Anack Trad,1742,01,D,55,P
 2298_01,Earth,0,F/467/P,PSO J318.5-22,33.0,0,270.0,412.0,1.0,314.1307461692205,5.0,Thery Fredersend,2298,01,F,467,P
-4822_04,Mars,0,F/981/P,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Catherine Gonzalez,4822,04,F,981,P
+4822_04,Mars,0,F/981/P,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Vanessa Singh,4822,04,F,981,P
 4738_02,Mars,0,F/893/S,TRAPPIST-1e,29.0,0,574.0,0.0,4940.0,1831.0,2.0,Hocks Pread,4738,02,F,893,S
 7892_01,Mars,0,F/1636/P,TRAPPIST-1e,18.0,0,196.0,0.0,744.0,0.0,0.0,Colax Mity,7892,01,F,1636,P
 4658_01,Europa,0,D/147/S,TRAPPIST-1e,26.0,0,0.0,823.0,0.0,1821.0,1508.0,Taurah Bradiary,4658,01,D,147,S
@@ -2671,7 +2671,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0602_01,Mars,1,F/125/P,TRAPPIST-1e,24.0,0,0.0,0.0,0.0,0.0,0.0,Seats Brine,0602,01,F,125,P
 0809_04,Mars,0,F/151/S,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Wales Meake,0809,04,F,151,S
 2573_01,Europa,1,C/90/P,55 Cancri e,28.0,0,0.0,0.0,0.0,0.0,0.0,Luxinon Supriouse,2573,01,C,90,P
-1568_01,Earth,0,,TRAPPIST-1e,22.0,0,1018.0,100.0,0.0,9.0,0.0,Idace Burchrison,1568,01,B,197,B
+1568_01,Earth,0,,TRAPPIST-1e,22.0,0,1018.0,100.0,0.0,9.0,0.0,Idace Burchrison,1568,01,T,42,S
 1975_01,Earth,0,G/310/S,TRAPPIST-1e,22.0,0,0.0,0.0,0.0,10.0,761.0,Jeandy Hobbinson,1975,01,G,310,S
 8341_01,Earth,0,F/1601/S,TRAPPIST-1e,37.0,0,477.0,0.0,167.0,0.0,46.0,Etha Pughlinsons,8341,01,F,1601,S
 4552_01,Mars,0,F/937/P,TRAPPIST-1e,43.0,0,375.0,103.0,1990.0,36.0,0.0,Cinst Bake,4552,01,F,937,P
@@ -2707,7 +2707,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6744_01,Mars,0,F/1399/P,TRAPPIST-1e,21.0,0,1244.0,0.0,1119.0,0.0,3.0,Blakes Nan,6744,01,F,1399,P
 7069_03,Earth,0,G/1159/S,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Ericky Waltonnedy,7069,03,G,1159,S
 5507_01,Mars,0,E/356/S,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Blakes Saf,5507,01,E,356,S
-2497_01,Earth,0,,55 Cancri e,36.0,0,0.0,0.0,0.0,33.0,619.0,Glasey Foledges,2497,01,C,181,S
+2497_01,Earth,0,,55 Cancri e,36.0,0,0.0,0.0,0.0,33.0,619.0,Glasey Foledges,2497,01,T,83,S
 8923_01,Earth,0,G/1450/P,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Lilley Fuentryoung,8923,01,G,1450,P
 8874_01,Earth,1,G/1436/P,TRAPPIST-1e,24.0,0,0.0,0.0,0.0,0.0,0.0,Cline Popelacruz,8874,01,G,1436,P
 1152_01,Mars,0,F/218/S,TRAPPIST-1e,41.0,0,29.0,0.0,1095.0,0.0,4.0,Gral Coflé,1152,01,F,218,S
@@ -2737,10 +2737,10 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8038_02,Europa,1,C/301/S,55 Cancri e,26.0,0,0.0,0.0,0.0,0.0,0.0,Asellab Gocent,8038,02,C,301,S
 6665_03,Europa,0,B/222/P,TRAPPIST-1e,53.0,0,0.0,0.0,0.0,0.0,0.0,Tachba Disivering,6665,03,B,222,P
 8363_01,Europa,0,A/101/S,55 Cancri e,25.0,0,0.0,1673.0,0.0,642.0,612.0,Shail Crelaxle,8363,01,A,101,S
-5044_02,Earth,1,G/826/S,PSO J318.5-22,29.0,0,0.0,0.0,0.0,0.0,0.0,Linda Chapman,5044,02,G,826,S
+5044_02,Earth,1,G/826/S,PSO J318.5-22,29.0,0,0.0,0.0,0.0,0.0,0.0,Edward Ramsey,5044,02,G,826,S
 6030_05,Earth,1,G/981/S,TRAPPIST-1e,15.0,0,0.0,0.0,0.0,0.0,0.0,Mollen Ellson,6030,05,G,981,S
 4044_01,Mars,0,F/765/S,TRAPPIST-1e,32.0,0,536.0,0.0,736.0,118.0,0.0,Jackix Can,4044,01,F,765,S
-2382_01,Earth,0,F/488/P,55 Cancri e,41.0,0,0.0,33.0,0.0,1324.0,0.0,Melinda Jones,2382,01,F,488,P
+2382_01,Earth,0,F/488/P,55 Cancri e,41.0,0,0.0,33.0,0.0,1324.0,0.0,Daniel Cline,2382,01,F,488,P
 5422_01,Europa,1,D/164/S,55 Cancri e,26.0,0,0.0,0.0,0.0,0.0,0.0,Pleion Sperap,5422,01,D,164,S
 2512_01,Europa,0,C/91/S,55 Cancri e,33.0,0,0.0,8759.0,0.0,2788.0,4513.0,Sabiton Parymider,2512,01,C,91,S
 5954_01,Mars,0,E/391/S,TRAPPIST-1e,25.0,0,2093.0,0.0,6.0,0.0,0.0,Lift Port,5954,01,E,391,S
@@ -2803,7 +2803,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 4661_04,Earth,1,G/757/P,TRAPPIST-1e,9.0,0,0.0,0.0,0.0,0.0,0.0,Denne Moodman,4661,04,G,757,P
 0992_06,Europa,0,D/35/S,55 Cancri e,37.0,0,4301.0,791.0,0.0,1748.0,91.0,Weidus Kiling,0992,06,D,35,S
 3147_01,Earth,0,F/594/S,TRAPPIST-1e,21.0,0,17.0,427.0,31.0,257.0,0.0,Colle Steinardson,3147,01,F,594,S
-6406_01,Europa,1,,55 Cancri e,27.0,0,0.0,0.0,0.0,0.0,0.0,Arkeb Belstrut,6406,01,T,17,B
+6406_01,Europa,1,,55 Cancri e,27.0,0,0.0,0.0,0.0,0.0,0.0,Arkeb Belstrut,6406,01,B,9,B
 0964_02,Europa,1,B/36/P,TRAPPIST-1e,48.0,0,0.0,0.0,0.0,0.0,0.0,Weidus Platch,0964,02,B,36,P
 3488_02,Europa,0,D/110/P,TRAPPIST-1e,52.0,0,6.0,2333.0,11.0,1149.0,1.0,Naosura Hoorbaring,3488,02,D,110,P
 2506_03,Europa,0,A/19/P,55 Cancri e,23.0,0,36.0,2467.0,0.0,381.0,803.0,Alchird Apenelexy,2506,03,A,19,P
@@ -2820,13 +2820,13 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 4099_01,Earth,1,G/673/P,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Willey Fryersonis,4099,01,G,673,P
 3605_01,Earth,1,G/592/P,55 Cancri e,31.0,0,0.0,0.0,0.0,0.0,0.0,Joyces Alldson,3605,01,G,592,P
 8826_01,Europa,0,C/290/P,55 Cancri e,13.0,0,1212.0,4485.0,0.0,4016.0,57.0,Marin Hednigic,8826,01,C,290,P
-1047_01,Earth,1,G/156/P,TRAPPIST-1e,58.0,0,0.0,0.0,0.0,0.0,0.0,Stephanie Webb,1047,01,G,156,P
+1047_01,Earth,1,G/156/P,TRAPPIST-1e,58.0,0,0.0,0.0,0.0,0.0,0.0,Brittany Riggs,1047,01,G,156,P
 1946_01,Earth,0,G/313/P,TRAPPIST-1e,34.0,0,0.0,0.0,53.0,731.0,0.0,Rayley Castannison,1946,01,G,313,P
 8599_01,Earth,0,G/1383/S,55 Cancri e,14.0,0,547.0,145.0,5.0,0.0,9.0,Lynnie Scottuez,8599,01,G,1383,S
 0610_01,Earth,0,F/129/P,TRAPPIST-1e,24.0,0,0.0,466.7652925531915,229.0,502.0,5.0,Erie Potters,0610,01,F,129,P
 9059_01,Earth,0,F/1753/S,TRAPPIST-1e,16.0,0,866.0,0.0,0.0,184.0,0.0,Anda Gregordy,9059,01,F,1753,S
 5423_02,Mars,0,E/341/P,TRAPPIST-1e,28.0,0,142.0,0.0,1878.0,62.0,0.0,Cranch Prine,5423,02,E,341,P
-6194_01,Earth,0,F/1185/S,TRAPPIST-1e,15.0,0,1042.0,0.0,36.0,0.0,0.0,Walter King,6194,01,F,1185,S
+6194_01,Earth,0,F/1185/S,TRAPPIST-1e,15.0,0,1042.0,0.0,36.0,0.0,0.0,Chase Anderson,6194,01,F,1185,S
 6729_01,Europa,0,A/82/S,TRAPPIST-1e,41.0,0,0.0,371.0,0.0,1701.0,21.0,Becruxa Dedometeel,6729,01,A,82,S
 8828_01,Earth,0,F/1711/S,55 Cancri e,19.0,0,0.0,6.0,0.0,0.0,1179.0,Charly Robersondez,8828,01,F,1711,S
 9242_01,Earth,0,F/1891/P,TRAPPIST-1e,62.0,0,102.0,696.0,0.0,0.0,0.0,Dary Bakerrison,9242,01,F,1891,P
@@ -2901,7 +2901,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2598_01,Mars,0,F/535/P,TRAPPIST-1e,37.0,0,27.0,0.0,1131.0,0.0,1318.0,Babix Scake,2598,01,F,535,P
 1938_01,Earth,0,F/369/S,TRAPPIST-1e,36.0,0,0.0,0.0,1508.0,110.0,117.0,Gretty Charpelaney,1938,01,F,369,S
 8941_01,Mars,0,E/575/P,TRAPPIST-1e,26.0,1,1.0,445.0,170.0,614.0,68.0,Quits Perie,8941,01,E,575,P
-2443_01,Earth,0,D/72/P,TRAPPIST-1e,31.0,0,1458.0,421.0,76.0,0.0,0.0,Nicole King,2443,01,D,72,P
+2443_01,Earth,0,D/72/P,TRAPPIST-1e,31.0,0,1458.0,421.0,76.0,0.0,0.0,Brendan Powers,2443,01,D,72,P
 1080_01,Mars,0,F/204/S,TRAPPIST-1e,50.0,0,202.0,466.7652925531915,1108.0,0.0,0.0,Ret Parte,1080,01,F,204,S
 6563_01,Earth,0,F/1254/S,TRAPPIST-1e,21.0,0,0.0,0.0,845.0,4.0,470.0,Stenny Gainney,6563,01,F,1254,S
 1144_01,Earth,0,G/177/S,TRAPPIST-1e,12.0,0,0.0,0.0,0.0,0.0,0.0,Molley Barnolderg,1144,01,G,177,S
@@ -2934,8 +2934,8 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6792_01,Mars,0,F/1412/P,TRAPPIST-1e,41.0,0,145.0,0.0,2383.0,30.0,40.0,Razzle Reate,6792,01,F,1412,P
 0379_01,Earth,0,G/63/P,TRAPPIST-1e,31.0,0,198.0,0.0,591.0,0.0,164.0,Brita Moodson,0379,01,G,63,P
 6765_01,Mars,1,F/1295/S,TRAPPIST-1e,55.0,0,0.0,0.0,0.0,0.0,0.0,Lifes Fache,6765,01,F,1295,S
-7596_02,Europa,1,C/283/S,TRAPPIST-1e,56.0,0,0.0,0.0,0.0,0.0,0.0,Dylan Mcdaniel,7596,02,C,283,S
-4009_01,Earth,0,,55 Cancri e,51.0,0,8.0,0.0,206.0,1247.0,14.0,Luisy Belley,4009,01,D,37,B
+7596_02,Europa,1,C/283/S,TRAPPIST-1e,56.0,0,0.0,0.0,0.0,0.0,0.0,Carmen Odom,7596,02,C,283,S
+4009_01,Earth,0,,55 Cancri e,51.0,0,8.0,0.0,206.0,1247.0,14.0,Luisy Belley,4009,01,C,83,S
 6921_02,Europa,1,C/255/S,55 Cancri e,24.0,0,0.0,0.0,0.0,0.0,0.0,Eleron Fordulgaug,6921,02,C,255,S
 8522_01,Earth,0,F/1751/P,TRAPPIST-1e,27.0,0,3.0,466.7652925531915,10.0,4.0,855.0,Ianna Quinnerettt,8522,01,F,1751,P
 3462_01,Europa,1,C/115/P,TRAPPIST-1e,28.0,0,0.0,0.0,0.0,0.0,0.0,Achib Ingascomet,3462,01,C,115,P
@@ -3018,7 +3018,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0938_02,Earth,0,E/68/S,TRAPPIST-1e,30.0,0,0.0,0.0,871.0,0.0,0.0,Walles Solinez,0938,02,E,68,S
 1509_01,Mars,0,E/95/P,TRAPPIST-1e,32.0,0,1240.0,0.0,58.0,0.0,0.0,Sumpix Dal,1509,01,E,95,P
 4943_01,Mars,1,F/1009/P,TRAPPIST-1e,20.0,0,0.0,0.0,0.0,0.0,0.0,Packs Curie,4943,01,F,1009,P
-5425_01,Earth,0,F/1037/S,PSO J318.5-22,24.0,0,1.0,0.0,11.0,0.0,734.0,James Spears,5425,01,F,1037,S
+5425_01,Earth,0,F/1037/S,PSO J318.5-22,24.0,0,1.0,0.0,11.0,0.0,734.0,Michael Hayes,5425,01,F,1037,S
 8204_02,Europa,0,E/541/S,TRAPPIST-1e,30.0,0,209.0,157.0,2566.0,171.0,472.0,Terion Distured,8204,02,E,541,S
 6070_01,Mars,0,D/186/S,TRAPPIST-1e,49.0,0,2209.0,42.0,109.0,23.0,0.0,Aptal Fate,6070,01,D,186,S
 6175_01,Earth,0,G/1000/P,TRAPPIST-1e,18.0,0,628.0,0.0,0.0,31.0,150.0,Thel Pittler,6175,01,G,1000,P
@@ -3031,8 +3031,8 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 9074_01,Earth,1,G/1460/S,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Adamie Trerady,9074,01,G,1460,S
 6415_01,Mars,1,F/1225/S,TRAPPIST-1e,51.0,0,0.0,0.0,0.0,0.0,0.0,Eang Potie,6415,01,F,1225,S
 6751_01,Mars,1,F/1290/S,TRAPPIST-1e,23.0,0,0.0,0.0,0.0,0.0,0.0,Trisp Berle,6751,01,F,1290,S
-5052_02,Mars,0,F/961/S,55 Cancri e,23.0,0,228.0,1451.0,912.0,3.0,0.0,Keith Watson,5052,02,F,961,S
-3578_01,Mars,1,,55 Cancri e,23.0,0,0.0,0.0,0.0,0.0,0.0,Clers Hac,3578,01,E,20,B
+5052_02,Mars,0,F/961/S,55 Cancri e,23.0,0,228.0,1451.0,912.0,3.0,0.0,Scott Gonzalez,5052,02,F,961,S
+3578_01,Mars,1,,55 Cancri e,23.0,0,0.0,0.0,0.0,0.0,0.0,Clers Hac,3578,01,D,9,S
 7994_01,Earth,0,G/1295/P,PSO J318.5-22,25.0,0,153.0,0.0,0.0,388.0,0.0,Ivanna Stanleyd,7994,01,G,1295,P
 7290_04,Europa,0,D/227/P,TRAPPIST-1e,11.0,0,83.0,1186.0,0.0,2160.0,736.0,Altara Bruthydre,7290,04,D,227,P
 6750_01,Earth,0,G/1094/P,TRAPPIST-1e,29.0,0,0.0,95.0,424.0,1.0,364.0,Rona Goody,6750,01,G,1094,P
@@ -3063,7 +3063,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8376_01,Mars,1,F/1607/S,TRAPPIST-1e,28.0,0,0.0,0.0,0.0,0.0,0.0,Gamuls Rapie,8376,01,F,1607,S
 8298_01,Mars,1,F/1593/S,TRAPPIST-1e,12.0,0,0.0,0.0,0.0,0.0,0.0,Gal Prité,8298,01,F,1593,S
 0437_01,Earth,0,F/78/S,TRAPPIST-1e,39.0,0,382.0,0.0,22.0,467.0,0.0,Lynnee Oneiles,0437,01,F,78,S
-2144_01,Earth,1,,TRAPPIST-1e,56.0,0,0.0,0.0,0.0,0.0,0.0,Helley Philliames,2144,01,F,192,S
+2144_01,Earth,1,,TRAPPIST-1e,56.0,0,0.0,0.0,0.0,0.0,0.0,Helley Philliames,2144,01,F,119,S
 5515_01,Earth,0,F/1141/P,TRAPPIST-1e,22.0,0,758.0,0.0,46.0,0.0,0.0,Feryla Prestonard,5515,01,F,1141,P
 9081_02,Earth,0,F/1858/P,55 Cancri e,15.0,0,0.0,0.0,0.0,208.0,754.0,Willah Clemondsey,9081,02,F,1858,P
 1360_01,Earth,0,E/100/S,TRAPPIST-1e,25.0,0,0.0,997.0,0.0,0.0,0.0,Terta Blandez,1360,01,E,100,S
@@ -3085,7 +3085,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2714_01,Earth,0,F/561/P,55 Cancri e,59.0,0,269.0,1776.0,0.0,0.0,12.0,Maryn Mcintons,2714,01,F,561,P
 1287_01,Mars,1,F/259/P,TRAPPIST-1e,1.0,0,0.0,0.0,0.0,0.0,0.0,Wilves Pimne,1287,01,F,259,P
 6319_01,Earth,0,G/1019/P,TRAPPIST-1e,65.0,0,458.0,0.0,555.0,0.0,0.0,Pristy Hammonton,6319,01,G,1019,P
-5831_01,Earth,0,,55 Cancri e,9.0,0,0.0,0.0,0.0,0.0,0.0,Jacky Rosalanenn,5831,01,F,8,S
+5831_01,Earth,0,,55 Cancri e,9.0,0,0.0,0.0,0.0,0.0,0.0,Jacky Rosalanenn,5831,01,E,50,S
 8975_02,Earth,0,F/1840/P,TRAPPIST-1e,27.0,0,1.0,466.7652925531915,0.0,20.0,948.0,Inerry Goffey,8975,02,F,1840,P
 7538_01,Europa,0,A/81/P,TRAPPIST-1e,48.0,1,313.0,2864.0,0.0,0.0,12424.0,Achira Uncionted,7538,01,A,81,P
 8629_01,Earth,1,G/1391/S,TRAPPIST-1e,28.0,0,0.0,0.0,0.0,0.0,0.0,Royce Hamberterry,8629,01,G,1391,S
@@ -3103,9 +3103,9 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8759_01,Mars,0,F/1695/S,TRAPPIST-1e,25.0,0,520.0,0.0,139.0,0.0,77.0,Tart Chate,8759,01,F,1695,S
 3210_02,Europa,0,E/211/S,55 Cancri e,20.0,0,11.0,596.0,0.0,3583.0,266.0,Aldun Clugeadry,3210,02,E,211,S
 4441_01,Europa,1,B/144/P,55 Cancri e,31.0,1,0.0,0.0,0.0,0.0,0.0,Kabiton Clinarfork,4441,01,B,144,P
-3496_02,Mars,0,F/722/P,TRAPPIST-1e,27.0,0,542.0,0.0,1231.0,0.0,1.0,Jodi Solomon,3496,02,F,722,P
+3496_02,Mars,0,F/722/P,TRAPPIST-1e,27.0,0,542.0,0.0,1231.0,0.0,1.0,Kelly Parker,3496,02,F,722,P
 6309_04,Earth,0,G/1023/S,TRAPPIST-1e,1.0,0,0.0,0.0,0.0,0.0,0.0,Helly Rodricker,6309,04,G,1023,S
-9218_01,Europa,1,B/353/S,55 Cancri e,43.0,0,0.0,0.0,0.0,0.0,0.0,Lori Wagner,9218,01,B,353,S
+9218_01,Europa,1,B/353/S,55 Cancri e,43.0,0,0.0,0.0,0.0,0.0,0.0,Joel Haas,9218,01,B,353,S
 2768_03,Earth,1,G/442/S,TRAPPIST-1e,3.0,0,0.0,0.0,0.0,0.0,0.0,Doryn Cartz,2768,03,G,442,S
 3032_03,Earth,0,G/478/S,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Andie Wolfernan,3032,03,G,478,S
 7559_01,Earth,0,F/1569/P,TRAPPIST-1e,22.0,0,0.0,0.0,441.0,0.0,423.0,Stace Castannison,7559,01,F,1569,P
@@ -3128,7 +3128,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2162_01,Mars,1,F/425/S,PSO J318.5-22,27.0,0,0.0,0.0,0.0,0.0,0.0,Ral Graie,2162,01,F,425,S
 6405_03,Earth,1,G/1039/S,TRAPPIST-1e,25.0,0,0.0,0.0,0.0,0.0,0.0,Andary Toddleton,6405,03,G,1039,S
 7957_01,Earth,1,G/1285/S,PSO J318.5-22,18.0,0,0.0,0.0,0.0,0.0,0.0,Vane Balderts,7957,01,G,1285,S
-7485_01,Europa,0,,TRAPPIST-1e,26.0,0,36.0,2285.0,0.0,2287.0,159.0,Betenif Cousel,7485,01,C,60,B
+7485_01,Europa,0,,TRAPPIST-1e,26.0,0,36.0,2285.0,0.0,2287.0,159.0,Betenif Cousel,7485,01,E,53,B
 0243_01,Earth,1,G/37/S,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Lilace Cartyernan,0243,01,G,37,S
 1083_01,Mars,1,F/206/S,TRAPPIST-1e,27.0,0,0.0,0.0,0.0,0.0,0.0,Ste Sfin,1083,01,F,206,S
 2063_01,Earth,1,G/328/S,PSO J318.5-22,38.0,0,0.0,0.0,0.0,0.0,0.0,Mistie Leonaldez,2063,01,G,328,S
@@ -3171,7 +3171,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5963_01,Mars,0,F/1228/P,55 Cancri e,23.0,0,112.0,1184.0,143.0,2.0,585.0,Poloos Bane,5963,01,F,1228,P
 0480_01,Earth,0,G/74/P,TRAPPIST-1e,27.0,0,226.60033250207815,34.0,23.0,0.0,275.0,Chrisa Mcdanield,0480,01,G,74,P
 6137_01,Earth,0,G/994/S,TRAPPIST-1e,2.0,0,0.0,0.0,0.0,0.0,0.0,Camily Serry,6137,01,G,994,S
-1362_01,Earth,0,F/265/S,TRAPPIST-1e,23.0,0,0.0,1268.0,0.0,119.0,2.0,Douglas Smith,1362,01,F,265,S
+1362_01,Earth,0,F/265/S,TRAPPIST-1e,23.0,0,0.0,1268.0,0.0,119.0,2.0,James Barnes,1362,01,F,265,S
 4001_01,Earth,0,F/758/S,TRAPPIST-1e,58.0,0,0.0,0.0,970.0,0.0,0.0,Terina Lowelliott,4001,01,F,758,S
 0397_01,Mars,1,F/69/S,TRAPPIST-1e,45.0,0,0.0,0.0,0.0,0.0,0.0,Graw Mepie,0397,01,F,69,S
 5581_01,Europa,1,B/212/S,55 Cancri e,27.0,0,0.0,0.0,0.0,0.0,0.0,Alpha Frolestty,5581,01,B,212,S
@@ -3188,13 +3188,13 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 1451_01,Europa,0,C/56/S,55 Cancri e,46.0,0,202.0,484.0,0.0,3208.0,2485.0,Zinor Proorbeng,1451,01,C,56,S
 7945_01,Mars,1,F/1522/S,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Mitch Vloaf,7945,01,F,1522,S
 2646_01,Europa,0,B/80/P,55 Cancri e,33.0,0,0.0,286.0,1795.0,712.0,7041.0,Hallah Roureed,2646,01,B,80,P
-4014_02,Europa,0,B/125/P,55 Cancri e,28.0,0,0.0,3238.0,0.0,750.0,2368.0,Karen Stewart,4014,02,B,125,P
+4014_02,Europa,0,B/125/P,55 Cancri e,28.0,0,0.0,3238.0,0.0,750.0,2368.0,Timothy Johnson,4014,02,B,125,P
 2506_02,Europa,1,A/19/P,55 Cancri e,39.0,0,0.0,0.0,0.0,0.0,0.0,Mariton Apenelexy,2506,02,A,19,P
 0500_01,Mars,0,D/19/P,55 Cancri e,21.0,0,513.0,0.0,1749.0,82.0,0.0,Ots Cakie,0500,01,D,19,P
 5514_02,Earth,1,G/889/S,PSO J318.5-22,2.0,0,0.0,0.0,0.0,0.0,0.0,Shanie Monroellynn,5514,02,G,889,S
 4465_01,Europa,1,A/54/S,TRAPPIST-1e,2.0,0,0.0,0.0,0.0,0.0,0.0,Aldhib Diabysid,4465,01,A,54,S
 8026_01,Mars,1,F/1534/S,TRAPPIST-1e,29.0,0,0.0,0.0,0.0,0.0,0.0,Losp Ruité,8026,01,F,1534,S
-4359_01,Europa,0,C/137/P,TRAPPIST-1e,28.0,0,3.0,2127.0,0.0,696.0,10.0,Nathaniel Rodriguez,4359,01,C,137,P
+4359_01,Europa,0,C/137/P,TRAPPIST-1e,28.0,0,3.0,2127.0,0.0,696.0,10.0,Kimberly Hoover,4359,01,C,137,P
 1578_01,Earth,0,E/98/P,TRAPPIST-1e,22.0,0,0.0,24.0,0.0,176.0,783.0,Everly Garrincent,1578,01,E,98,P
 3952_01,Earth,0,F/746/S,TRAPPIST-1e,51.0,0,0.0,0.0,0.0,544.0,12.0,Earlie Rodricker,3952,01,F,746,S
 0313_02,Earth,1,G/50/P,55 Cancri e,54.5,0,0.0,0.0,0.0,0.0,0.0,Jona Mckinsond,0313,02,G,50,P
@@ -3223,7 +3223,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7188_01,Europa,0,C/233/P,TRAPPIST-1e,2.0,0,0.0,0.0,0.0,0.0,0.0,Muonus Imingle,7188,01,C,233,P
 5710_01,Earth,0,F/1092/S,TRAPPIST-1e,61.0,0,0.0,166.0,1080.0,0.0,16.0,Jeanie Sterson,5710,01,F,1092,S
 7460_01,Earth,0,F/1543/P,55 Cancri e,24.0,0,786.0,0.0,0.0,309.0,0.0,Leria Haydenez,7460,01,F,1543,P
-4343_01,Earth,1,G/708/S,PSO J318.5-22,13.0,0,0.0,0.0,0.0,0.0,0.0,Jesse Wheeler,4343,01,G,708,S
+4343_01,Earth,1,G/708/S,PSO J318.5-22,13.0,0,0.0,0.0,0.0,0.0,0.0,Daniel Chavez,4343,01,G,708,S
 4256_01,Earth,0,F/880/P,TRAPPIST-1e,27.0,0,6.0,0.0,0.0,768.0,1141.0,Armen Garnes,4256,01,F,880,P
 2309_01,Earth,1,G/371/P,PSO J318.5-22,5.0,0,0.0,0.0,0.0,0.0,0.0,Feryla Whitledges,2309,01,G,371,P
 0714_02,Earth,0,G/109/P,TRAPPIST-1e,1.0,0,0.0,0.0,0.0,0.0,0.0,Claine Rilley,0714,02,G,109,P
@@ -3320,7 +3320,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8910_01,Earth,0,E/585/S,TRAPPIST-1e,33.0,0,0.0,3.0,0.0,782.0,7.0,Therta Crayeson,8910,01,E,585,S
 7527_01,Earth,0,F/1561/P,TRAPPIST-1e,18.0,0,0.0,732.0,2.0,13.0,47.0,Elle Flowensley,7527,01,F,1561,P
 7894_01,Earth,0,E/519/S,55 Cancri e,29.0,0,46.0,68.0,589.0,88.0,0.0,Jenne Jacostarks,7894,01,E,519,S
-0826_01,Earth,0,,TRAPPIST-1e,27.0,0,174.0,653.0,0.0,0.0,0.0,Danna Hoopez,0826,01,B,178,S
+0826_01,Earth,0,,TRAPPIST-1e,27.0,0,174.0,653.0,0.0,0.0,0.0,Danna Hoopez,0826,01,T,4,B
 2449_02,Mars,1,E/146/P,TRAPPIST-1e,27.0,0,0.0,0.0,0.0,0.0,0.0,Tark Nacke,2449,02,E,146,P
 4371_01,Europa,0,C/158/S,TRAPPIST-1e,27.0,0,0.0,2717.0,0.0,0.0,986.0,Mesatz Shricatory,4371,01,C,158,S
 4174_01,Earth,0,F/857/P,TRAPPIST-1e,47.0,0,59.0,1.0,327.0,557.0,0.0,Coren Armstromez,4174,01,F,857,P
@@ -3336,10 +3336,10 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2863_01,Earth,0,G/466/P,TRAPPIST-1e,27.0,0,0.0,2.0,49.0,0.0,801.0,Therek Thony,2863,01,G,466,P
 2622_01,Earth,0,F/505/S,55 Cancri e,34.0,0,492.0,0.0,13.0,55.0,0.0,Tera Coley,2622,01,F,505,S
 9052_02,Earth,0,F/1752/S,55 Cancri e,33.0,0,1006.0,0.0,1357.0,45.0,6.0,Stendy Hestes,9052,02,F,1752,S
-3753_01,Earth,0,F/776/P,55 Cancri e,55.0,0,0.0,519.0,131.0,63.0,3.0,Erica Mckenzie,3753,01,F,776,P
+3753_01,Earth,0,F/776/P,55 Cancri e,55.0,0,0.0,519.0,131.0,63.0,3.0,William Lopez,3753,01,F,776,P
 1542_01,Mars,0,F/299/S,TRAPPIST-1e,13.0,0,7172.0,0.0,157.0,20.0,0.0,Tot Seche,1542,01,F,299,S
 8656_01,Europa,0,A/103/S,TRAPPIST-1e,29.0,0,0.0,4455.0,0.0,1663.0,4435.0,Antinon Imparmle,8656,01,A,103,S
-9205_02,Europa,1,B/300/P,TRAPPIST-1e,15.0,0,0.0,0.0,0.0,0.0,0.0,Jason Mcgrath,9205,02,B,300,P
+9205_02,Europa,1,B/300/P,TRAPPIST-1e,15.0,0,0.0,0.0,0.0,0.0,0.0,Nathan Krueger,9205,02,B,300,P
 6547_01,Mars,0,F/1358/P,55 Cancri e,21.0,0,861.0,0.0,310.0,0.0,0.0,Ale Pert,6547,01,F,1358,P
 6431_02,Earth,1,G/1038/P,PSO J318.5-22,20.0,0,0.0,0.0,0.0,0.0,0.0,Timyra Kramosley,6431,02,G,1038,P
 4104_01,Earth,0,G/675/P,TRAPPIST-1e,41.0,0,1025.0,0.0,0.0,0.0,0.0,Ritany Gallard,4104,01,G,675,P
@@ -3349,7 +3349,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6169_01,Earth,0,G/1000/S,TRAPPIST-1e,18.0,0,382.0,10.0,291.0,90.0,9.0,Carley Harley,6169,01,G,1000,S
 9046_01,Europa,1,C/335/S,55 Cancri e,25.0,0,0.0,0.0,0.0,0.0,0.0,Alphah Cratrave,9046,01,C,335,S
 5040_01,Europa,0,C/195/S,TRAPPIST-1e,26.0,0,0.0,21.0,10424.0,1373.0,7218.0,Enibik Dynigic,5040,01,C,195,S
-7563_01,Mars,1,F/1570/P,55 Cancri e,39.0,0,0.0,0.0,0.0,0.0,0.0,Dylan Reed,7563,01,F,1570,P
+7563_01,Mars,1,F/1570/P,55 Cancri e,39.0,0,0.0,0.0,0.0,0.0,0.0,Amy Mcdaniel,7563,01,F,1570,P
 6238_01,Mars,1,F/1196/S,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Chios Mity,6238,01,F,1196,S
 2537_01,Earth,0,E/152/P,PSO J318.5-22,23.0,0,0.0,9.0,292.0,35.0,349.0,Dwin Meltoney,2537,01,E,152,P
 5124_01,Earth,0,F/1044/P,TRAPPIST-1e,41.0,0,256.0,109.0,0.0,340.0,0.0,Kimmie Greeves,5124,01,F,1044,P
@@ -3380,7 +3380,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 1644_01,Earth,0,F/327/P,55 Cancri e,14.0,0,0.0,2.0,0.0,0.0,794.0,Lavey Waltonnedy,1644,01,F,327,P
 3280_02,Earth,0,F/684/P,55 Cancri e,32.0,0,1150.0,201.0,0.0,0.0,8.0,Lilly Ricks,3280,02,F,684,P
 8596_01,Europa,1,C/284/P,TRAPPIST-1e,44.0,0,0.0,0.0,0.0,0.0,0.0,Aldah Healted,8596,01,C,284,P
-2189_01,Earth,0.0,G/354/P,TRAPPIST-1e,34.0,0,0.0,0.0,0.0,628.0,0.0,Nelly Cruzaley,2189,01,G,354,P
+2189_01,Earth,1.0,G/354/P,TRAPPIST-1e,34.0,0,0.0,0.0,0.0,628.0,0.0,Nelly Cruzaley,2189,01,G,354,P
 0808_01,Earth,0,E/57/S,TRAPPIST-1e,31.0,0,159.0,110.0,701.0,0.0,10.0,Benew Ramoran,0808,01,E,57,S
 6034_01,Mars,0,E/385/P,PSO J318.5-22,26.0,0,2042.0,0.0,2387.0,10.0,0.0,Callix Pette,6034,01,E,385,P
 1601_01,Earth,0,G/255/P,TRAPPIST-1e,37.0,0,22.0,5.0,0.0,747.0,0.0,Elenna Mulley,1601,01,G,255,P
@@ -3400,7 +3400,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0636_02,Earth,0,F/136/P,TRAPPIST-1e,21.0,0,0.0,0.0,7.0,675.0,0.0,Loresa Santantines,0636,02,F,136,P
 0437_02,Earth,0,F/78/S,PSO J318.5-22,40.0,0,7.0,0.0,840.0,26.0,0.0,Debora Oneiles,0437,02,F,78,S
 0944_02,Earth,0,G/137/P,55 Cancri e,8.0,0,0.0,0.0,0.0,0.0,0.0,Terrie Weaverays,0944,02,G,137,P
-3836_01,Mars,0,F/723/S,TRAPPIST-1e,21.0,0,1060.0,0.0,91.0,0.0,0.0,Jennifer Berg,3836,01,F,723,S
+3836_01,Mars,0,F/723/S,TRAPPIST-1e,21.0,0,1060.0,0.0,91.0,0.0,0.0,Derek White,3836,01,F,723,S
 8728_04,Earth,0,F/1798/P,PSO J318.5-22,38.0,0,647.0,23.0,1.0,0.0,0.0,Ginald Fulloydez,8728,04,F,1798,P
 1248_01,Earth,0,F/239/S,PSO J318.5-22,27.0,0,0.0,466.7652925531915,0.0,0.0,0.0,Landa Ewiseston,1248,01,F,239,S
 5814_01,Mars,0,D/176/S,TRAPPIST-1e,17.0,0,513.0,0.0,669.0,0.0,0.0,Prabon Bine,5814,01,D,176,S
@@ -3409,9 +3409,9 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6622_01,Earth,0,G/1070/P,55 Cancri e,54.0,0,752.0,0.0,44.0,14.0,0.0,Coreen Lynnerett,6622,01,G,1070,P
 2284_01,Mars,0,F/463/P,TRAPPIST-1e,18.0,0,262.0,302.0,1127.0,4225.0,0.0,Poloos Butte,2284,01,F,463,P
 5424_01,Mars,0,F/1117/P,PSO J318.5-22,13.0,0,358.0,65.0,599.0,676.0,0.0,Chtios Dal,5424,01,F,1117,P
-0498_01,Europa,1,,55 Cancri e,27.0,0,0.0,0.0,0.0,0.0,0.0,Batomam Preent,0498,01,A,41,S
+0498_01,Europa,1,,55 Cancri e,27.0,0,0.0,0.0,0.0,0.0,0.0,Batomam Preent,0498,01,F,29,B
 7837_02,Europa,1,B/306/S,TRAPPIST-1e,35.0,0,0.0,0.0,0.0,0.0,0.0,Caphird Kiling,7837,02,B,306,S
-8514_01,Mars,0.0,F/1748/P,TRAPPIST-1e,51.0,0,870.0,28.0,278.0,154.0,1288.0,Kie Ste,8514,01,F,1748,P
+8514_01,Mars,1.0,F/1748/P,TRAPPIST-1e,51.0,0,870.0,28.0,278.0,154.0,1288.0,Kie Ste,8514,01,F,1748,P
 2087_01,Earth,0,F/408/S,TRAPPIST-1e,54.0,0,0.0,0.0,872.0,0.0,1.0,Olliey Brownings,2087,01,F,408,S
 5737_02,Europa,0,C/216/S,TRAPPIST-1e,35.0,0,0.0,7636.0,0.0,353.0,705.0,Lesaton Inicont,5737,02,C,216,S
 0714_06,Earth,1,G/109/P,55 Cancri e,1.0,0,0.0,0.0,0.0,0.0,0.0,Man Rilley,0714,06,G,109,P
@@ -3428,7 +3428,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 9021_01,Mars,0,E/577/P,TRAPPIST-1e,30.0,0,522.0,0.0,170.72672872340425,0.0,27.0,Wales Chake,9021,01,E,577,P
 8637_02,Mars,0,F/1773/P,TRAPPIST-1e,25.0,0,987.0,0.0,6221.0,141.0,0.0,Varz Spien,8637,02,F,1773,P
 2677_01,Europa,0,D/90/S,TRAPPIST-1e,51.0,0,0.0,302.0,0.0,1367.0,669.0,Eleon Scerodbox,2677,01,D,90,S
-6898_01,Europa,0,,55 Cancri e,27.0,0,146.0,3786.0,490.0,0.0,18.0,Gemmark Bootious,6898,01,F,86,S
+6898_01,Europa,0,,55 Cancri e,27.0,0,146.0,3786.0,490.0,0.0,18.0,Gemmark Bootious,6898,01,F,103,S
 3283_04,Earth,0,G/521/S,TRAPPIST-1e,38.0,0,0.0,0.0,0.0,846.0,0.0,Brank Hoopez,3283,04,G,521,S
 6120_01,Earth,0,F/1169/S,PSO J318.5-22,13.0,0,0.0,1180.0,0.0,314.1307461692205,0.0,Garlie Flynnis,6120,01,F,1169,S
 3868_07,Earth,1,G/630/S,TRAPPIST-1e,9.0,0,0.0,0.0,0.0,0.0,0.0,Hene Braymon,3868,07,G,630,S
@@ -3466,14 +3466,14 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7490_01,Earth,1,G/1217/S,TRAPPIST-1e,15.0,0,0.0,0.0,0.0,0.0,0.0,Grette Garrincent,7490,01,G,1217,S
 6541_01,Earth,0,F/1356/P,TRAPPIST-1e,21.0,0,0.0,717.0,0.0,0.0,0.0,Monah Lowelliott,6541,01,F,1356,P
 7215_01,Mars,1,F/1494/P,TRAPPIST-1e,24.0,0,0.0,0.0,0.0,0.0,0.0,Sceros Erte,7215,01,F,1494,P
-4182_02,Europa,0,A/51/S,TRAPPIST-1e,43.0,0,0.0,124.0,0.0,3975.0,186.0,Jennifer Bush,4182,02,A,51,S
+4182_02,Europa,0,A/51/S,TRAPPIST-1e,43.0,0,0.0,124.0,0.0,3975.0,186.0,Randy Vasquez,4182,02,A,51,S
 3387_01,Earth,1,G/540/S,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Eline Cainghannon,3387,01,G,540,S
 9073_01,Europa,0,A/107/S,TRAPPIST-1e,13.0,0,24.0,838.0,1069.0,1376.0,181.0,Marazha Shricatory,9073,01,A,107,S
 6133_01,Earth,1,G/993/S,PSO J318.5-22,26.0,0,0.0,0.0,0.0,0.0,0.0,Hillie Gaineyerson,6133,01,G,993,S
 4350_01,Earth,1,G/709/S,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Rence Robersondez,4350,01,G,709,S
-8375_01,Earth,0,,PSO J318.5-22,15.0,0,64.0,0.0,0.0,0.0,640.0,Carlen Valezaley,8375,01,C,44,S
+8375_01,Earth,0,,PSO J318.5-22,15.0,0,64.0,0.0,0.0,0.0,640.0,Carlen Valezaley,8375,01,B,73,S
 3475_01,Europa,1,C/126/S,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Pentard Spoilling,3475,01,C,126,S
-1956_01,Mars,0,D/68/S,TRAPPIST-1e,37.0,0,2765.0,0.0,1134.0,0.0,0.0,Emily Durham,1956,01,D,68,S
+1956_01,Mars,0,D/68/S,TRAPPIST-1e,37.0,0,2765.0,0.0,1134.0,0.0,0.0,Emily Lewis,1956,01,D,68,S
 5915_01,Earth,0,E/382/S,TRAPPIST-1e,32.0,0,0.0,0.0,39.0,0.0,749.0,Garion Mcneiley,5915,01,E,382,S
 0615_03,Earth,1,G/92/S,55 Cancri e,3.0,0,0.0,0.0,0.0,0.0,0.0,Stance Hodes,0615,03,G,92,S
 2925_02,Mars,1,F/609/P,55 Cancri e,23.0,0,0.0,0.0,0.0,0.0,0.0,Goleer Minen,2925,02,F,609,P
@@ -3561,7 +3561,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 9106_01,Earth,0,F/1761/S,TRAPPIST-1e,38.0,0,1736.0,0.0,123.0,5.0,115.0,Derry Mccarveymon,9106,01,F,1761,S
 7757_01,Europa,1,B/300/S,TRAPPIST-1e,28.0,0,0.0,0.0,0.0,0.0,0.0,Muonons Lowerrudy,7757,01,B,300,S
 4438_01,Mars,0,F/910/P,TRAPPIST-1e,36.0,0,721.0,0.0,471.0,0.0,0.0,Salros Wate,4438,01,F,910,P
-7214_01,Earth,1.0,F/1389/S,55 Cancri e,22.0,0,30.0,0.0,690.0,41.0,0.0,Sethew Garzaley,7214,01,F,1389,S
+7214_01,Earth,0.0,F/1389/S,55 Cancri e,22.0,0,30.0,0.0,690.0,41.0,0.0,Sethew Garzaley,7214,01,F,1389,S
 3301_04,Earth,0,G/525/S,TRAPPIST-1e,20.0,0,0.0,0.0,0.0,0.0,0.0,Lulah Domington,3301,04,G,525,S
 8899_01,Earth,0,G/1435/S,TRAPPIST-1e,6.0,0,0.0,0.0,0.0,0.0,0.0,Helle Bookson,8899,01,G,1435,S
 9225_01,Earth,0,F/1787/S,TRAPPIST-1e,45.0,0,1.0,197.0,0.0,660.0,15.0,Lynnon Meyersones,9225,01,F,1787,S
@@ -3572,13 +3572,13 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2655_01,Earth,1,G/422/S,TRAPPIST-1e,30.0,0,0.0,0.0,0.0,0.0,0.0,Benny Ballocks,2655,01,G,422,S
 2752_01,Earth,0,G/444/P,TRAPPIST-1e,9.0,0,0.0,0.0,0.0,0.0,0.0,Jarena Ballocks,2752,01,G,444,P
 9264_01,Europa,1,E/606/S,55 Cancri e,30.0,0,0.0,0.0,0.0,0.0,0.0,Giedir Sionerorly,9264,01,E,606,S
-8205_01,Earth,0.0,G/1331/P,TRAPPIST-1e,20.0,0,625.0,0.0,2.0,0.0,0.0,Lyde Fulloydez,8205,01,G,1331,P
+8205_01,Earth,1.0,G/1331/P,TRAPPIST-1e,20.0,0,625.0,0.0,2.0,0.0,0.0,Lyde Fulloydez,8205,01,G,1331,P
 7525_02,Europa,1,C/279/S,55 Cancri e,61.0,0,0.0,0.0,0.0,0.0,0.0,Geonev Retefule,7525,02,C,279,S
 0740_03,Europa,0,C/24/P,TRAPPIST-1e,41.0,0,3594.0,3425.0,0.0,0.0,58.0,Thab Sageng,0740,03,C,24,P
 3292_04,Europa,0,B/121/S,TRAPPIST-1e,25.0,1,0.0,0.0,0.0,0.0,0.0,Acruxon Discuous,3292,04,B,121,S
 8318_01,Mars,1,F/1711/P,TRAPPIST-1e,11.0,0,0.0,0.0,0.0,0.0,0.0,Emoles Ropie,8318,01,F,1711,P
 5535_03,Earth,0,G/893/S,55 Cancri e,4.0,0,0.0,0.0,0.0,0.0,0.0,Blanie Arner,5535,03,G,893,S
-7429_01,Mars,0,,TRAPPIST-1e,38.0,0,1126.0,0.0,23.0,34.0,0.0,Cuses Pread,7429,01,B,1,B
+7429_01,Mars,0,,TRAPPIST-1e,38.0,0,1126.0,0.0,23.0,34.0,0.0,Cuses Pread,7429,01,D,11,S
 5836_01,Europa,1,B/222/S,55 Cancri e,31.0,0,0.0,0.0,0.0,0.0,0.0,Phah Irintious,5836,01,B,222,S
 0077_01,Mars,0,F/15/P,TRAPPIST-1e,28.0,0,14.0,0.0,1295.0,0.0,0.0,Pon Blité,0077,01,F,15,P
 6366_01,Earth,0,E/424/S,PSO J318.5-22,16.0,0,0.0,0.0,99.0,314.1307461692205,774.0,Veremy Benderez,6366,01,E,424,S
@@ -3594,7 +3594,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6602_01,Earth,0,F/1265/S,TRAPPIST-1e,62.0,0,94.0,267.0,2341.0,94.0,0.0,Davis Cookson,6602,01,F,1265,S
 8752_01,Mars,0,D/272/P,TRAPPIST-1e,35.0,0,2758.0,0.0,1.0,0.0,0.0,Koops Strad,8752,01,D,272,P
 8058_01,Earth,0,F/1664/P,TRAPPIST-1e,29.0,0,12.0,2.0,0.0,432.0,1548.0,Ronard Hayertez,8058,01,F,1664,P
-7271_01,Earth,0,G/1171/P,55 Cancri e,21.0,0,61.0,201.0,222.0,161.0,60.0,Dennis Daniels,7271,01,G,1171,P
+7271_01,Earth,0,G/1171/P,55 Cancri e,21.0,0,61.0,201.0,222.0,161.0,60.0,Bradley Gonzalez,7271,01,G,1171,P
 3608_01,Europa,1,D/122/P,55 Cancri e,17.0,0,0.0,0.0,0.0,0.0,0.0,Zosmas Mormonized,3608,01,D,122,P
 5441_01,Europa,1,B/207/S,55 Cancri e,24.0,0,0.0,0.0,0.0,0.0,0.0,Raston Spoilling,5441,01,B,207,S
 4267_02,Earth,0,F/883/P,TRAPPIST-1e,32.0,0,0.0,0.0,1020.0,0.0,0.0,Glene Nichaner,4267,02,F,883,P
@@ -3618,13 +3618,13 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3761_01,Earth,0,E/222/P,55 Cancri e,45.0,0,824.0,2196.0,385.0,19.0,1113.0,Nuscham Stingive,3761,01,E,222,P
 6971_02,Europa,0,C/225/P,TRAPPIST-1e,4.0,0,0.0,0.0,0.0,0.0,0.0,Chard Distured,6971,02,C,225,P
 0657_02,Earth,0,G/97/S,TRAPPIST-1e,38.0,0,0.0,8.0,736.0,140.0,0.0,Glenna Cardner,0657,02,G,97,S
-5090_01,Earth,0,G/821/P,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Joshua Stewart,5090,01,G,821,P
+5090_01,Earth,0,G/821/P,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Brenda Carter,5090,01,G,821,P
 1324_03,Earth,1,G/199/S,TRAPPIST-1e,43.0,0,0.0,0.0,0.0,0.0,0.0,Lewise Gilleyons,1324,03,G,199,S
 6642_01,Earth,1,G/1081/S,TRAPPIST-1e,59.0,0,0.0,0.0,0.0,0.0,0.0,Andra Cohendright,6642,01,G,1081,S
 0519_01,Earth,1,G/77/S,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Ryany Farleyatton,0519,01,G,77,S
 1677_01,Earth,0,E/103/P,TRAPPIST-1e,19.0,0,5.0,87.0,0.0,0.0,306.23469727212245,Warry Robins,1677,01,E,103,P
 4981_02,Earth,0,G/814/S,PSO J318.5-22,29.0,0,0.0,0.0,0.0,0.0,0.0,Millia Connon,4981,02,G,814,S
-1545_01,Mars,0,,TRAPPIST-1e,20.0,0,206.0,0.0,629.0,67.0,523.0,Hocks Fiha,1545,01,D,63,B
+1545_01,Mars,0,,TRAPPIST-1e,20.0,0,206.0,0.0,629.0,67.0,523.0,Hocks Fiha,1545,01,F,24,S
 3287_02,Earth,0,F/621/S,TRAPPIST-1e,22.0,0,718.0,2.0,50.0,0.0,0.0,Jerrye Carlsonney,3287,02,F,621,S
 5353_02,Europa,0,B/205/S,TRAPPIST-1e,39.0,0,43.0,9365.0,144.0,0.0,118.0,Weidus Reelest,5353,02,B,205,S
 7498_03,Mars,0,F/1550/P,TRAPPIST-1e,27.0,1,30.0,0.0,910.0,0.0,0.0,Beals Cola,7498,03,F,1550,P
@@ -3656,7 +3656,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5647_02,Europa,0,C/178/P,55 Cancri e,52.0,0,0.0,1425.0,31.0,0.0,1320.0,Chabih Matoltuble,5647,02,C,178,P
 1489_01,Earth,0,G/229/S,TRAPPIST-1e,19.0,0,73.0,0.0,0.0,813.0,2.0,Katiey Gallencis,1489,01,G,229,S
 1974_01,Mars,0,D/63/P,TRAPPIST-1e,41.0,0,3702.0,0.0,1.0,0.0,18.0,Sugark Cusa,1974,01,D,63,P
-1916_02,Europa,0,D/61/P,55 Cancri e,22.0,0,1744.0,79.0,0.0,12.0,1514.0,Amy Logan,1916,02,D,61,P
+1916_02,Europa,0,D/61/P,55 Cancri e,22.0,0,1744.0,79.0,0.0,12.0,1514.0,Whitney Sims,1916,02,D,61,P
 4220_01,Earth,0,E/263/P,TRAPPIST-1e,31.0,0,553.0,224.0,9.0,1.0,0.0,Tine Acobson,4220,01,E,263,P
 1564_01,Mars,1,F/303/S,TRAPPIST-1e,23.0,0,0.0,0.0,0.0,0.0,0.0,Weers Merie,1564,01,F,303,S
 6997_02,Mars,0,F/1453/P,TRAPPIST-1e,24.0,0,2261.0,0.0,95.0,10.0,0.0,Weet Sfin,6997,02,F,1453,P
@@ -3690,7 +3690,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5814_06,Mars,0,D/176/S,TRAPPIST-1e,15.0,0,2309.0,0.0,1142.0,1.0,10.0,Feles Bine,5814,06,D,176,S
 6281_01,Earth,0,G/1015/S,TRAPPIST-1e,38.0,0,20.0,0.0,751.0,0.0,2.0,Jimen Beckeey,6281,01,G,1015,S
 5206_02,Earth,0,F/1062/P,PSO J318.5-22,60.0,0,0.0,0.0,789.0,283.0,3.0,Myrace Briggston,5206,02,F,1062,P
-4863_01,Europa,1.0,T/2/S,TRAPPIST-1e,37.0,0,1721.0,667.0,170.72672872340425,28.0,1362.0,Phacton Unsible,4863,01,T,2,S
+4863_01,Europa,0.0,T/2/S,TRAPPIST-1e,37.0,0,1721.0,667.0,170.72672872340425,28.0,1362.0,Phacton Unsible,4863,01,T,2,S
 0160_01,Earth,0,G/22/P,TRAPPIST-1e,22.0,0,4119.0,0.0,0.0,0.0,61.0,Gory Atkinney,0160,01,G,22,P
 5207_01,Earth,0,E/331/S,55 Cancri e,18.0,0,51.0,339.0,1.0,0.0,436.0,Bonyan Chanan,5207,01,E,331,S
 4693_02,Europa,1,B/186/S,55 Cancri e,65.0,0,0.0,0.0,0.0,0.0,0.0,Schird Rewmid,4693,02,B,186,S
@@ -3718,7 +3718,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3625_01,Earth,0,E/216/P,TRAPPIST-1e,37.0,0,0.0,559.0,366.0,0.0,62.0,Clarry Sterreray,3625,01,E,216,P
 3275_01,Earth,0,F/617/S,55 Cancri e,35.0,0,256.0,0.0,341.0,35.0,0.0,Darley Gibbsonton,3275,01,F,617,S
 3615_02,Earth,0,F/682/S,TRAPPIST-1e,33.0,0,2.0,753.0,5.0,0.0,0.0,Loree Greenez,3615,02,F,682,S
-4667_01,Earth,1,,TRAPPIST-1e,41.0,0,0.0,0.0,0.0,0.0,0.0,Dian Sextones,4667,01,C,53,B
+4667_01,Earth,1,,TRAPPIST-1e,41.0,0,0.0,0.0,0.0,0.0,0.0,Dian Sextones,4667,01,T,180,B
 5603_01,Earth,0,E/365/S,TRAPPIST-1e,34.0,0,170.0,1256.0,0.0,3926.0,7121.0,Kocha Cluitty,5603,01,E,365,S
 0008_03,Europa,0,B/1/P,55 Cancri e,45.0,0,39.0,7295.0,589.0,110.0,124.0,Wezena Flatic,0008,03,B,1,P
 5083_01,Earth,1,G/820/P,TRAPPIST-1e,22.0,0,0.0,0.0,0.0,0.0,0.0,Cary Pooles,5083,01,G,820,P
@@ -3737,7 +3737,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3271_02,Earth,0,G/532/P,55 Cancri e,8.0,0,0.0,0.0,0.0,0.0,0.0,Alley Micknightt,3271,02,G,532,P
 3591_01,Earth,0,E/214/P,TRAPPIST-1e,22.0,0,0.0,0.0,0.0,0.0,1609.0,Elenay Serraynardy,3591,01,E,214,P
 6446_03,Earth,1,G/1047/S,TRAPPIST-1e,1.0,0,0.0,0.0,0.0,0.0,0.0,Willip Yatters,6446,03,G,1047,S
-6609_01,Mars,1,E/420/P,TRAPPIST-1e,17.0,0,0.0,0.0,0.0,0.0,0.0,Mary Williams,6609,01,E,420,P
+6609_01,Mars,1,E/420/P,TRAPPIST-1e,17.0,0,0.0,0.0,0.0,0.0,0.0,Anna Jones,6609,01,E,420,P
 7116_01,Earth,1,G/1146/P,PSO J318.5-22,26.0,0,0.0,0.0,0.0,0.0,0.0,Allyny Burchard,7116,01,G,1146,P
 6834_01,Earth,1,G/1111/S,TRAPPIST-1e,23.0,0,0.0,0.0,0.0,0.0,0.0,Sonald Coolez,6834,01,G,1111,S
 0772_01,Europa,0,E/56/S,55 Cancri e,37.0,0,0.0,16.0,325.0,4476.0,1359.0,Minoton Hednigic,0772,01,E,56,S
@@ -3748,13 +3748,13 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 4254_03,Europa,0,B/136/P,TRAPPIST-1e,62.0,0,0.0,22.0,0.0,3314.0,22.0,Grasath Idercaling,4254,03,B,136,P
 0984_07,Earth,1,G/150/S,PSO J318.5-22,33.0,0,0.0,0.0,0.0,0.0,0.0,Shery Flemaney,0984,07,G,150,S
 8144_01,Europa,1,B/270/P,55 Cancri e,45.0,0,0.0,0.0,0.0,0.0,0.0,Graston Donotaked,8144,01,B,270,P
-7604_02,Mars,0.0,F/1579/P,TRAPPIST-1e,23.0,0,463.0,0.0,658.0,0.0,0.0,Cousk Deeke,7604,02,F,1579,P
+7604_02,Mars,1.0,F/1579/P,TRAPPIST-1e,23.0,0,463.0,0.0,658.0,0.0,0.0,Cousk Deeke,7604,02,F,1579,P
 4365_01,Earth,0,F/898/P,TRAPPIST-1e,13.0,0,552.0,247.0,0.0,4.0,0.0,Edgary Kinson,4365,01,F,898,P
 8886_02,Earth,1,G/1433/S,TRAPPIST-1e,4.0,0,0.0,0.0,0.0,0.0,0.0,Samana Mclarseney,8886,02,G,1433,S
 7620_01,Mars,0,F/1583/P,TRAPPIST-1e,17.0,0,3651.0,0.0,2228.0,38.0,0.0,Oakes Cotte,7620,01,F,1583,P
 2990_01,Earth,1,G/472/S,PSO J318.5-22,24.0,0,0.0,0.0,0.0,0.0,0.0,Gileen Vandez,2990,01,G,472,S
-1718_01,Earth,1,,TRAPPIST-1e,20.0,0,0.0,0.0,0.0,0.0,0.0,Elindy Reyervaney,1718,01,A,86,S
-7746_01,Europa,1,,55 Cancri e,33.0,0,0.0,0.0,0.0,0.0,0.0,Antinon Patoetic,7746,01,D,93,B
+1718_01,Earth,1,,TRAPPIST-1e,20.0,0,0.0,0.0,0.0,0.0,0.0,Elindy Reyervaney,1718,01,D,28,B
+7746_01,Europa,1,,55 Cancri e,33.0,0,0.0,0.0,0.0,0.0,0.0,Antinon Patoetic,7746,01,E,137,S
 0874_01,Earth,0,F/165/S,TRAPPIST-1e,19.0,0,0.0,162.0,540.0,0.0,0.0,Breney Briggston,0874,01,F,165,S
 1439_02,Mars,0,D/52/S,TRAPPIST-1e,30.0,0,806.0,100.0,9.0,314.1307461692205,47.0,Croo Lette,1439,02,D,52,S
 3992_01,Earth,0,F/756/S,PSO J318.5-22,51.0,0,0.0,0.0,10.0,1098.0,0.0,Sta Barrelliver,3992,01,F,756,S
@@ -3804,7 +3804,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 4327_01,Earth,0,F/811/S,TRAPPIST-1e,20.0,0,0.0,187.0,712.0,0.0,0.0,Dellia Douglasen,4327,01,F,811,S
 6623_01,Earth,1,B/218/P,55 Cancri e,38.0,0,0.0,0.0,0.0,0.0,0.0,Saxinon Geraing,6623,01,B,218,P
 3747_04,Europa,1,B/118/P,55 Cancri e,18.0,0,0.0,0.0,0.0,0.0,0.0,Tabiton Ambleetive,3747,04,B,118,P
-6434_01,Earth,1,G/1039/P,PSO J318.5-22,55.0,0,0.0,0.0,0.0,0.0,0.0,Marisa Sanchez,6434,01,G,1039,P
+6434_01,Earth,1,G/1039/P,PSO J318.5-22,55.0,0,0.0,0.0,0.0,0.0,0.0,Christopher Buchanan,6434,01,G,1039,P
 2652_01,Earth,0,F/513/S,TRAPPIST-1e,22.0,0,0.0,0.0,670.0,0.0,32.0,Wally Davispinoz,2652,01,F,513,S
 5591_01,Earth,0,E/363/S,55 Cancri e,14.0,0,590.0,9.0,0.0,0.0,192.0,Elene Ewiseston,5591,01,E,363,S
 4154_01,Mars,1,F/781/S,TRAPPIST-1e,23.0,0,0.0,0.0,0.0,0.0,0.0,Beant Gelte,4154,01,F,781,S
@@ -3828,14 +3828,14 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6663_02,Earth,0,F/1385/P,TRAPPIST-1e,35.0,0,90.0,0.0,655.0,43.0,16.0,Blanie Hickerson,6663,02,F,1385,P
 4185_01,Earth,0,G/688/P,TRAPPIST-1e,24.0,0,0.0,1725.0,0.0,0.0,0.0,Coreee Waderoachez,4185,01,G,688,P
 5780_02,Europa,1,B/195/P,TRAPPIST-1e,35.0,0,0.0,0.0,0.0,0.0,0.0,Hallux Ousious,5780,02,B,195,P
-8366_02,Earth,0,G/1364/P,TRAPPIST-1e,7.0,0,0.0,0.0,0.0,0.0,0.0,Daniel Smith,8366,02,G,1364,P
+8366_02,Earth,0,G/1364/P,TRAPPIST-1e,7.0,0,0.0,0.0,0.0,0.0,0.0,David James,8366,02,G,1364,P
 3489_02,Mars,1,F/719/P,TRAPPIST-1e,39.0,0,0.0,0.0,0.0,0.0,0.0,Swal Onpie,3489,02,F,719,P
 8272_01,Mars,0,F/1587/S,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Pigars Fache,8272,01,F,1587,S
 1287_03,Mars,0,F/259/P,TRAPPIST-1e,21.0,0,733.0,0.0,1084.0,1.0,43.0,Diles Pimne,1287,03,F,259,P
 4147_02,Europa,1,C/149/S,TRAPPIST-1e,45.0,0,0.0,0.0,0.0,0.0,0.0,Acrabik Lendly,4147,02,C,149,S
 8769_01,Mars,0,F/1700/S,TRAPPIST-1e,44.0,0,1.0,0.0,2080.0,11.0,0.0,Chon Ches,8769,01,F,1700,S
 4340_01,Earth,0,F/815/S,TRAPPIST-1e,22.0,0,0.0,0.0,945.0,0.0,4.0,Pamiea Georgasey,4340,01,F,815,S
-8339_02,Europa,0.0,D/246/S,TRAPPIST-1e,22.0,0,0.0,3716.0,0.0,1098.0,2065.0,Eleb Dratembid,8339,02,D,246,S
+8339_02,Europa,1.0,D/246/S,TRAPPIST-1e,22.0,0,0.0,3716.0,0.0,1098.0,2065.0,Eleb Dratembid,8339,02,D,246,S
 8360_01,Europa,1,B/326/S,TRAPPIST-1e,17.0,0,0.0,0.0,0.0,0.0,0.0,Okulas Valousead,8360,01,B,326,S
 1311_02,Mars,0,F/265/P,TRAPPIST-1e,17.0,0,948.0,47.0,292.0,0.0,0.0,Wale Make,1311,02,F,265,P
 2460_01,Earth,1,G/402/P,PSO J318.5-22,28.0,0,0.0,0.0,0.0,0.0,0.0,Man Solon,2460,01,G,402,P
@@ -3844,24 +3844,24 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 4887_01,Earth,0,F/991/P,TRAPPIST-1e,20.0,0,0.0,254.0,868.0,405.0,0.0,Debora Thomason,4887,01,F,991,P
 1100_03,Mars,0,F/226/P,TRAPPIST-1e,18.0,0,787.0,0.0,106.0,1710.0,0.0,Cireal Cuche,1100,03,F,226,P
 1306_01,Europa,0,B/56/S,TRAPPIST-1e,44.0,0,0.0,3863.0,1.0,1010.0,514.0,Zaurah Irintious,1306,01,B,56,S
-1077_01,Earth,1.0,G/162/P,TRAPPIST-1e,37.0,0,0.0,113.0,0.0,283.0,455.0,Dorene Bardinard,1077,01,G,162,P
+1077_01,Earth,0.0,G/162/P,TRAPPIST-1e,37.0,0,0.0,113.0,0.0,283.0,455.0,Dorene Bardinard,1077,01,G,162,P
 8072_01,Europa,1,D/236/S,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Mareson Prombled,8072,01,D,236,S
 5527_02,Earth,1,G/886/P,55 Cancri e,1.0,0,0.0,0.0,0.0,0.0,0.0,Bellee Dickman,5527,02,G,886,P
 4096_01,Mars,0,F/842/P,TRAPPIST-1e,46.0,0,949.0,0.0,128.0,3.0,41.0,Stote Vicke,4096,01,F,842,P
 2720_02,Earth,0,G/439/P,TRAPPIST-1e,11.0,0,0.0,0.0,0.0,0.0,0.0,Rancy Beckeey,2720,02,G,439,P
 4573_01,Earth,0,F/856/S,TRAPPIST-1e,22.0,0,686.0,45.0,16.0,7.0,4.0,Yolana Stannondez,4573,01,F,856,S
-1132_01,Earth,1,,TRAPPIST-1e,22.0,0,0.0,0.0,0.0,0.0,0.0,Kariel Benney,1132,01,T,122,B
-6628_01,Earth,0,F/1381/P,TRAPPIST-1e,29.0,0,0.0,0.0,272.0,394.0,50.0,Willie Taylor,6628,01,F,1381,P
+1132_01,Earth,1,,TRAPPIST-1e,22.0,0,0.0,0.0,0.0,0.0,0.0,Kariel Benney,1132,01,F,3,S
+6628_01,Earth,0,F/1381/P,TRAPPIST-1e,29.0,0,0.0,0.0,272.0,394.0,50.0,Jenna Davis,6628,01,F,1381,P
 7186_02,Europa,0,E/461/P,TRAPPIST-1e,32.0,0,0.0,1369.0,29.0,662.0,22.0,Alpha Mosteraked,7186,02,E,461,P
 0313_01,Earth,0,F/68/P,PSO J318.5-22,60.0,0,7.0,540.0,1.0,0.0,4.0,Briney Mckinsond,0313,01,F,68,P
 1112_01,Europa,0,B/39/P,55 Cancri e,40.0,0,0.0,4076.0,6124.0,58.0,100.0,Elebola Opshaft,1112,01,B,39,P
-1393_02,Mars,0,F/270/S,TRAPPIST-1e,19.0,0,2058.0,0.0,224.0,298.0,19.0,Nicole Wyatt,1393,02,F,270,S
+1393_02,Mars,0,F/270/S,TRAPPIST-1e,19.0,0,2058.0,0.0,224.0,298.0,19.0,Heather Evans,1393,02,F,270,S
 1027_03,Mars,0,F/211/P,TRAPPIST-1e,31.0,0,231.0,0.0,170.72672872340425,279.0,9.0,Basps Dal,1027,03,F,211,P
 2558_04,Mars,1,F/525/P,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Barave Katte,2558,04,F,525,P
 7797_01,Earth,0,E/506/P,TRAPPIST-1e,44.0,0,358.0,303.0,0.0,0.0,131.0,Paulie Powenoble,7797,01,E,506,P
 2074_02,Europa,0,D/69/S,TRAPPIST-1e,23.0,0,9.0,4081.0,0.0,0.0,16.0,Mergas Alaring,2074,02,D,69,S
 6947_02,Europa,0,B/264/S,TRAPPIST-1e,49.0,0,0.0,1757.0,0.0,797.0,567.0,Cellum Obnoble,6947,02,B,264,S
-1351_01,Earth,0,G/202/P,TRAPPIST-1e,22.0,0,0.0,0.0,0.0,0.0,0.0,Jenna Jackson,1351,01,G,202,P
+1351_01,Earth,0,G/202/P,TRAPPIST-1e,22.0,0,0.0,0.0,0.0,0.0,0.0,Paula Monroe,1351,01,G,202,P
 0644_01,Europa,1,E/38/P,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Hadlam Prucerod,0644,01,E,38,P
 7018_01,Mars,0,E/467/S,TRAPPIST-1e,30.0,0,0.0,0.0,0.0,0.0,0.0,Set Sturt,7018,01,E,467,S
 1855_02,Earth,0,E/113/P,TRAPPIST-1e,39.0,0,0.0,43.0,864.0,0.0,85.0,Mabela Jenson,1855,02,E,113,P
@@ -3894,7 +3894,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2131_01,Earth,0,E/128/P,TRAPPIST-1e,26.0,0,0.0,466.7652925531915,0.0,91.0,900.0,Terrie Mayder,2131,01,E,128,P
 2822_02,Earth,1,G/450/S,TRAPPIST-1e,5.0,0,0.0,0.0,0.0,0.0,0.0,Salley Harverez,2822,02,G,450,S
 0294_01,Europa,1,B/8/S,TRAPPIST-1e,50.0,0,0.0,0.0,0.0,0.0,0.0,Phonons Roforhauge,0294,01,B,8,S
-0657_01,Earth,0,F/117/S,TRAPPIST-1e,28.0,0,0.0,863.0,0.0,17.0,0.0,Kim Hughes,0657,01,F,117,S
+0657_01,Earth,0,F/117/S,TRAPPIST-1e,28.0,0,0.0,863.0,0.0,17.0,0.0,Amber Gomez,0657,01,F,117,S
 7175_01,Earth,0,F/1486/P,TRAPPIST-1e,18.0,0,0.0,0.0,773.0,0.0,4.0,Lulah Ramoran,7175,01,F,1486,P
 3323_01,Europa,1,C/110/P,55 Cancri e,40.0,0,0.0,0.0,0.0,0.0,0.0,Shellum Fliblerolt,3323,01,C,110,P
 3732_03,Europa,1,A/43/S,TRAPPIST-1e,31.0,0,0.0,0.0,0.0,0.0,0.0,Luxonon Scoudelle,3732,03,A,43,S
@@ -3906,10 +3906,10 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5909_01,Earth,0,F/1127/S,55 Cancri e,19.0,0,0.0,716.0,0.0,0.0,0.0,Luisy Fryan,5909,01,F,1127,S
 5930_01,Europa,1,B/227/S,55 Cancri e,24.0,0,0.0,0.0,0.0,0.0,0.0,Muonea Geakerat,5930,01,B,227,S
 2191_01,Mars,1,F/431/S,TRAPPIST-1e,48.0,0,0.0,0.0,0.0,0.0,0.0,Barkix Sidie,2191,01,F,431,S
-4637_01,Mars,0,,TRAPPIST-1e,24.0,0,672.0,0.0,501.0,0.0,306.23469727212245,Tark Ches,4637,01,A,83,S
+4637_01,Mars,0,,TRAPPIST-1e,24.0,0,672.0,0.0,501.0,0.0,306.23469727212245,Tark Ches,4637,01,A,178,S
 7666_01,Mars,1,F/1591/P,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Boos Emead,7666,01,F,1591,P
 2267_01,Mars,0,E/161/S,TRAPPIST-1e,43.0,0,2318.0,0.0,647.0,81.0,0.0,Gratsp Meake,2267,01,E,161,S
-0022_01,Mars,0,D/0/P,TRAPPIST-1e,21.0,0,980.0,2.0,69.0,0.0,0.0,Anna Davis,0022,01,D,0,P
+0022_01,Mars,0,D/0/P,TRAPPIST-1e,21.0,0,980.0,2.0,69.0,0.0,0.0,Randy Mcbride,0022,01,D,0,P
 2183_02,Mars,0,F/429/S,TRAPPIST-1e,20.0,0,938.0,59.0,31.0,12.0,0.0,Prish Ruity,2183,02,F,429,S
 4194_01,Mars,1,F/862/P,55 Cancri e,34.0,0,0.0,0.0,0.0,0.0,0.0,Oaters Kité,4194,01,F,862,P
 3188_01,Mars,1,E/209/S,55 Cancri e,31.0,0,0.0,0.0,0.0,0.0,0.0,Mass Reau,3188,01,E,209,S
@@ -3954,7 +3954,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 4561_01,Europa,0,C/168/S,55 Cancri e,45.0,0,0.0,496.0,0.0,1940.0,4195.0,Alrair Unhearfus,4561,01,C,168,S
 1460_02,Earth,1,G/230/P,PSO J318.5-22,13.0,0,0.0,0.0,0.0,0.0,0.0,Eduana Williotters,1460,02,G,230,P
 5175_01,Earth,0,G/834/P,TRAPPIST-1e,21.0,0,582.0,0.0,0.0,148.0,53.0,Andice Maystuarey,5175,01,G,834,P
-4270_01,Europa,0,,55 Cancri e,30.0,0,24.0,2558.0,98.0,0.0,5361.0,Genubia Bagetvable,4270,01,F,36,B
+4270_01,Europa,0,,55 Cancri e,30.0,0,24.0,2558.0,98.0,0.0,5361.0,Genubia Bagetvable,4270,01,F,49,S
 4662_03,Europa,0,C/148/P,TRAPPIST-1e,46.0,0,0.0,3856.0,0.0,1.0,312.0,Dyonium Ingwhed,4662,03,C,148,P
 1916_01,Europa,1,D/61/P,TRAPPIST-1e,15.0,0,0.0,0.0,0.0,0.0,0.0,Cheddin Castery,1916,01,D,61,P
 3221_01,Earth,0,G/511/S,PSO J318.5-22,19.0,0,0.0,0.0,616.0,0.0,0.0,Brinez Meadoney,3221,01,G,511,S
@@ -3970,11 +3970,11 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 9057_01,Europa,0,B/296/P,55 Cancri e,36.0,1,132.0,3479.0,0.0,3786.0,0.0,Coxan Statch,9057,01,B,296,P
 1017_01,Earth,0,F/190/S,TRAPPIST-1e,20.0,0,0.0,15.0,122.0,1125.0,0.0,Joya Blanglison,1017,01,F,190,S
 7171_01,Earth,1,G/1155/P,TRAPPIST-1e,37.0,0,0.0,0.0,0.0,0.0,0.0,Stancy Wardendez,7171,01,G,1155,P
-8043_02,Europa,0,A/97/S,TRAPPIST-1e,29.0,1,0.0,1408.0,0.0,408.0,1.0,Aldun Fanseld,8043,02,A,97,S
+8043_02,Europa,0,A/97/S,TRAPPIST-1e,29.0,0,0.0,1408.0,0.0,408.0,1.0,Aldun Fanseld,8043,02,A,97,S
 8640_01,Earth,0,F/1666/S,TRAPPIST-1e,50.0,0,133.0,0.0,525.0,0.0,31.0,Diandy Hurchrisong,8640,01,F,1666,S
 8863_01,Earth,0,E/582/S,55 Cancri e,24.0,0,0.0,784.0,5.0,0.0,1.0,Dona Greeves,8863,01,E,582,S
 0442_01,Earth,0,F/98/P,TRAPPIST-1e,35.0,0,7.0,1043.0,0.0,0.0,0.0,Elica Armstromez,0442,01,F,98,P
-2219_01,Earth,1,,55 Cancri e,18.0,0,0.0,0.0,0.0,0.0,0.0,Milda Woodwin,2219,01,F,157,B
+2219_01,Earth,1,,55 Cancri e,18.0,0,0.0,0.0,0.0,0.0,0.0,Milda Woodwin,2219,01,T,140,B
 9034_05,Europa,0,D/288/P,TRAPPIST-1e,33.0,0,0.0,1876.0,0.0,1432.0,14.0,Mothab Crakete,9034,05,D,288,P
 2114_01,Europa,1,B/87/S,55 Cancri e,40.0,0,0.0,0.0,0.0,0.0,0.0,Gollux Folhal,2114,01,B,87,S
 0179_03,Earth,0,G/26/P,TRAPPIST-1e,3.0,0,0.0,0.0,0.0,0.0,0.0,Sallyl Webstephrey,0179,03,G,26,P
@@ -3997,7 +3997,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 4944_01,Europa,0,A/60/S,55 Cancri e,33.0,0,269.0,2171.0,2.0,2.0,0.0,Hadirah Ainserfle,4944,01,A,60,S
 0690_01,Mars,1,F/122/S,TRAPPIST-1e,54.0,0,0.0,0.0,0.0,0.0,0.0,Yapich Start,0690,01,F,122,S
 2127_01,Earth,0,F/419/P,TRAPPIST-1e,19.0,0,721.0,62.0,7.0,0.0,0.0,Dorice Bailes,2127,01,F,419,P
-3938_01,Mars,1,F/743/S,TRAPPIST-1e,56.0,0,0.0,0.0,0.0,0.0,0.0,Jennifer Nelson,3938,01,F,743,S
+3938_01,Mars,1,F/743/S,TRAPPIST-1e,56.0,0,0.0,0.0,0.0,0.0,0.0,Paula Thomas,3938,01,F,743,S
 0338_01,Earth,1,G/48/S,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Ireen Guerson,0338,01,G,48,S
 2515_02,Europa,1,B/96/S,55 Cancri e,18.0,0,0.0,0.0,0.0,0.0,0.0,Keidus Forous,2515,02,B,96,S
 5112_02,Europa,1,C/198/S,55 Cancri e,25.0,0,0.0,0.0,0.0,0.0,0.0,Achiram Ainatint,5112,02,C,198,S
@@ -4007,7 +4007,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2061_01,Europa,0,D/65/P,TRAPPIST-1e,34.0,0,0.0,5063.0,0.0,56.0,327.0,Dscha Sedece,2061,01,D,65,P
 8574_03,Mars,1,F/1653/S,TRAPPIST-1e,8.0,0,0.0,0.0,0.0,0.0,0.0,Wales Rhuba,8574,03,F,1653,S
 3699_01,Europa,1,C/123/P,55 Cancri e,32.0,0,0.0,0.0,0.0,0.0,0.0,Golaron Tronsive,3699,01,C,123,P
-0788_01,Earth,0,F/166/P,55 Cancri e,16.0,0,797.0,0.0,0.0,0.0,0.0,Jason Baker,0788,01,F,166,P
+0788_01,Earth,0,F/166/P,55 Cancri e,16.0,0,797.0,0.0,0.0,0.0,0.0,Timothy Jenkins,0788,01,F,166,P
 3912_01,Earth,0,F/737/S,TRAPPIST-1e,15.0,0,309.0,28.0,496.0,20.0,49.0,Carona Cartiz,3912,01,F,737,S
 9149_02,Europa,0,B/350/S,55 Cancri e,22.0,0,0.0,36.0,1.0,3761.0,4521.0,Meron Dompreced,9149,02,B,350,S
 1345_01,Earth,0,F/260/S,TRAPPIST-1e,25.0,0,1174.0,0.0,18.0,721.0,0.0,Mistie Flowensley,1345,01,F,260,S
@@ -4017,7 +4017,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3866_01,Earth,0,F/797/P,TRAPPIST-1e,43.0,0,0.0,0.0,7.0,0.0,963.0,Lis Hendrys,3866,01,F,797,P
 2291_01,Earth,0,G/365/S,55 Cancri e,6.0,0,0.0,0.0,0.0,0.0,0.0,Patoya Pittler,2291,01,G,365,S
 5414_05,Earth,1,G/872/P,PSO J318.5-22,20.0,0,0.0,0.0,0.0,0.0,0.0,Becca Buckentry,5414,05,G,872,P
-4388_01,Europa,0,B/171/S,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Melissa Wilson,4388,01,B,171,S
+4388_01,Europa,0,B/171/S,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Michael Ruiz,4388,01,B,171,S
 5303_01,Earth,0,G/857/P,TRAPPIST-1e,9.0,0,0.0,0.0,0.0,0.0,0.0,Patoya Hoffergess,5303,01,G,857,P
 5226_01,Earth,1,G/848/S,PSO J318.5-22,24.0,0,0.0,0.0,0.0,0.0,0.0,Joyn Hahnstoneal,5226,01,G,848,S
 0551_01,Earth,0,G/80/S,TRAPPIST-1e,42.0,0,126.0,0.0,266.0,445.0,12.0,Stene Bradlerson,0551,01,G,80,S
@@ -4036,7 +4036,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8323_01,Earth,0,E/546/S,PSO J318.5-22,55.0,0,0.0,465.0,277.0,48.0,0.0,Isaacy Sawyerson,8323,01,E,546,S
 5810_01,Earth,1,G/935/P,TRAPPIST-1e,28.0,0,0.0,0.0,0.0,0.0,0.0,Valey Chapmaney,5810,01,G,935,P
 1173_01,Earth,0,G/182/S,PSO J318.5-22,24.0,0,96.0,592.0,12.0,0.0,0.0,Ryany Gallandez,1173,01,G,182,S
-8623_01,Earth,0,,TRAPPIST-1e,15.0,0,9.0,731.0,85.0,0.0,537.0,Vandy Hoffergess,8623,01,A,15,S
+8623_01,Earth,0,,TRAPPIST-1e,15.0,0,9.0,731.0,85.0,0.0,537.0,Vandy Hoffergess,8623,01,E,110,S
 6334_01,Earth,1,G/1028/S,TRAPPIST-1e,31.0,0,0.0,0.0,0.0,0.0,0.0,Shanya Jenson,6334,01,G,1028,S
 1822_01,Earth,0,G/299/P,TRAPPIST-1e,31.0,0,2.0,811.0,0.0,0.0,0.0,Charly Mirez,1822,01,G,299,P
 4179_02,Europa,1,A/50/S,TRAPPIST-1e,23.0,0,0.0,0.0,0.0,0.0,0.0,Alrais Pleele,4179,02,A,50,S
@@ -4087,19 +4087,19 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3184_02,Europa,1,B/117/S,55 Cancri e,34.0,0,0.0,0.0,0.0,0.0,0.0,Tarmus Sechausive,3184,02,B,117,S
 2626_01,Earth,0,F/543/P,TRAPPIST-1e,19.0,0,232.0,0.0,479.0,0.0,5.0,Tarah Barks,2626,01,F,543,P
 1669_03,Mars,0,F/317/S,55 Cancri e,21.0,0,1481.0,0.0,881.0,0.0,0.0,Pokix Perte,1669,03,F,317,S
-7871_01,Earth,1,,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Alendy Stannondez,7871,01,D,3,B
+7871_01,Earth,1,,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Alendy Stannondez,7871,01,C,6,B
 9211_01,Earth,0,G/1486/S,TRAPPIST-1e,60.0,0,0.0,8.0,170.72672872340425,360.0,74.0,Stendy Steelerettt,9211,01,G,1486,S
 0223_01,Earth,0,G/35/S,TRAPPIST-1e,21.0,0,0.0,2.0,665.0,0.0,9.0,Evan Sykess,0223,01,G,35,S
 0817_01,Earth,1,G/119/P,TRAPPIST-1e,20.0,0,0.0,0.0,0.0,0.0,0.0,Carona Baxters,0817,01,G,119,P
 8252_01,Earth,0,F/1699/P,55 Cancri e,29.0,0,52.0,466.7652925531915,612.0,465.0,79.0,Regana Nieldsond,8252,01,F,1699,P
-3755_02,Earth,1,G/612/P,PSO J318.5-22,8.0,0,0.0,0.0,0.0,0.0,0.0,Kerry Chapman,3755,02,G,612,P
+3755_02,Earth,1,G/612/P,PSO J318.5-22,8.0,0,0.0,0.0,0.0,0.0,0.0,Laura Kelly,3755,02,G,612,P
 7652_01,Europa,1,B/292/S,55 Cancri e,40.0,0,0.0,0.0,0.0,0.0,0.0,Coxatik Eguing,7652,01,B,292,S
 2188_01,Earth,0,F/438/P,55 Cancri e,24.0,0,0.0,421.0,0.0,207.0,63.0,Ollip Hopez,2188,01,F,438,P
 8816_02,Europa,1,B/340/S,55 Cancri e,44.0,0,0.0,0.0,0.0,0.0,0.0,Mesatik Diouselt,8816,02,B,340,S
 5790_01,Europa,0,C/218/S,TRAPPIST-1e,46.0,0,0.0,1068.0,945.0,2587.0,811.0,Markard Distured,5790,01,C,218,S
 6490_04,Europa,0,C/201/P,TRAPPIST-1e,42.0,0,0.0,1972.0,0.0,108.0,5.0,Marga Ineded,6490,04,C,201,P
 1661_02,Europa,0,A/20/S,TRAPPIST-1e,57.0,0,0.0,62.0,0.0,2136.0,178.0,Almino Earmeter,1661,02,A,20,S
-0190_01,Earth,1,G/32/S,55 Cancri e,11.0,0,0.0,0.0,0.0,0.0,0.0,Cynthia Thomas,0190,01,G,32,S
+0190_01,Earth,1,G/32/S,55 Cancri e,11.0,0,0.0,0.0,0.0,0.0,0.0,Rodney Crawford,0190,01,G,32,S
 5014_01,Mars,0,D/162/P,TRAPPIST-1e,26.0,0,1331.0,0.0,973.0,484.0,0.0,Quan Porté,5014,01,D,162,P
 3838_01,Earth,0,E/227/P,TRAPPIST-1e,21.0,0,28.0,580.0,0.0,0.0,236.0,Billya Estiagosen,3838,01,E,227,P
 7452_03,Europa,1,B/281/S,55 Cancri e,36.0,0,0.0,0.0,0.0,0.0,0.0,Aino Sloweber,7452,03,B,281,S
@@ -4137,7 +4137,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6015_01,Europa,1,B/231/S,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Sulatik Demansty,6015,01,B,231,S
 0718_01,Earth,0,E/43/P,TRAPPIST-1e,21.0,0,521.0,0.0,4.0,261.0,1.0,Alendy Mondsey,0718,01,E,43,P
 6405_04,Earth,0,G/1039/S,55 Cancri e,0.0,0,0.0,0.0,0.0,0.0,0.0,Diandy Toddleton,6405,04,G,1039,S
-1022_01,Earth,0,,TRAPPIST-1e,15.0,0,48.0,6.0,0.0,954.0,0.0,Melvia Blanglison,1022,01,E,79,S
+1022_01,Earth,0,,TRAPPIST-1e,15.0,0,48.0,6.0,0.0,954.0,0.0,Melvia Blanglison,1022,01,T,96,S
 4726_01,Europa,0,C/187/S,TRAPPIST-1e,26.0,0,0.0,1910.0,0.0,1777.0,306.23469727212245,Eltais Inghtal,4726,01,C,187,S
 8728_07,Earth,0,F/1798/P,TRAPPIST-1e,44.0,0,266.0,3.0,2.0,0.0,748.0,Delley Fulloydez,8728,07,F,1798,P
 6708_05,Europa,1,A/67/P,55 Cancri e,35.0,0,0.0,0.0,0.0,0.0,0.0,Ashird Sysilstict,6708,05,A,67,P
@@ -4152,7 +4152,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6118_02,Mars,1,E/391/P,TRAPPIST-1e,39.0,0,0.0,0.0,0.0,0.0,0.0,Tyog Pité,6118,02,E,391,P
 8053_01,Mars,0,F/1663/P,TRAPPIST-1e,29.0,0,1544.0,1.0,206.0,0.0,0.0,Spix Burie,8053,01,F,1663,P
 6932_01,Earth,0,G/1130/S,TRAPPIST-1e,20.0,0,559.0,0.0,83.0,112.0,0.0,Shaele Ewiseston,6932,01,G,1130,S
-5527_03,Earth,1,G/886/P,TRAPPIST-1e,49.0,0,0.0,0.0,0.0,0.0,0.0,Eric Brown,5527,03,G,886,P
+5527_03,Earth,1,G/886/P,TRAPPIST-1e,49.0,0,0.0,0.0,0.0,0.0,0.0,Corey James,5527,03,G,886,P
 1708_01,Earth,0,F/338/P,PSO J318.5-22,70.0,0,0.0,3.0,1.0,2.0,1290.0,Lavey Hopez,1708,01,F,338,P
 3875_01,Earth,0,E/232/P,TRAPPIST-1e,19.0,0,0.0,0.0,3.0,785.0,0.0,Teremy Garzaley,3875,01,E,232,P
 9060_01,Earth,0,F/1853/P,TRAPPIST-1e,28.0,0,0.0,8.0,338.0,135.0,390.0,Annard Charryerry,9060,01,F,1853,P
@@ -4162,8 +4162,8 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0829_01,Earth,0,F/170/P,PSO J318.5-22,21.0,0,15.0,0.0,2695.0,2.0,0.0,Myrace Carverson,0829,01,F,170,P
 0830_01,Earth,0,F/171/P,TRAPPIST-1e,31.0,0,14.0,5.0,0.0,795.0,0.0,Eilan Hinesh,0830,01,F,171,P
 8036_02,Earth,0,F/1537/S,TRAPPIST-1e,35.0,0,0.0,0.0,62.0,0.0,891.0,Brene Maldon,8036,02,F,1537,S
-1978_01,Earth,1,G/311/S,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Donald Rodriguez,1978,01,G,311,S
-2117_01,Europa,0,,TRAPPIST-1e,31.0,0,0.0,8718.0,0.0,13036.0,267.0,Azet Rocketedy,2117,01,C,91,S
+1978_01,Earth,1,G/311/S,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Ashley Booth,1978,01,G,311,S
+2117_01,Europa,0,,TRAPPIST-1e,31.0,0,0.0,8718.0,0.0,13036.0,267.0,Azet Rocketedy,2117,01,B,27,S
 3476_02,Earth,0,G/571/P,55 Cancri e,0.0,0,0.0,0.0,0.0,0.0,0.0,Carly Burksson,3476,02,G,571,P
 3868_02,Earth,0,G/630/S,TRAPPIST-1e,9.0,0,0.0,0.0,0.0,0.0,0.0,Thell Braymon,3868,02,G,630,S
 0994_02,Earth,0,F/185/S,TRAPPIST-1e,26.0,0,621.0,1.0,98.0,11.0,135.0,Dell Wartyson,0994,02,F,185,S
@@ -4171,7 +4171,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8716_01,Earth,0,F/1793/P,PSO J318.5-22,20.0,0,426.0,0.0,220.0,2.0,0.0,Rankie Graneyes,8716,01,F,1793,P
 5983_01,Mars,0,F/1233/P,TRAPPIST-1e,25.0,1,1442.0,0.0,0.0,0.0,13.0,Squars Knike,5983,01,F,1233,P
 5876_02,Mars,1,F/1213/P,55 Cancri e,35.0,0,0.0,0.0,0.0,0.0,0.0,Eloos Cone,5876,02,F,1213,P
-6419_01,Earth,1.0,E/428/S,TRAPPIST-1e,31.0,0,226.60033250207815,0.0,873.0,0.0,0.0,Estina Holcompson,6419,01,E,428,S
+6419_01,Earth,0.0,E/428/S,TRAPPIST-1e,31.0,0,226.60033250207815,0.0,873.0,0.0,0.0,Estina Holcompson,6419,01,E,428,S
 1783_01,Earth,0,G/281/S,55 Cancri e,42.0,0,28.0,0.0,0.0,0.0,591.0,Carma Garnettiz,1783,01,G,281,S
 4462_01,Earth,0,F/918/P,TRAPPIST-1e,20.0,0,399.0,77.0,311.0,0.0,16.0,Gillie Bullerson,4462,01,F,918,P
 4301_01,Europa,1,E/269/P,55 Cancri e,33.0,0,0.0,0.0,0.0,0.0,0.0,Terops Brakeded,4301,01,E,269,P
@@ -4188,7 +4188,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3332_02,Mars,1,D/107/S,TRAPPIST-1e,37.0,0,0.0,0.0,0.0,0.0,0.0,Plat Flate,3332,02,D,107,S
 3405_01,Earth,1,G/546/S,TRAPPIST-1e,38.0,0,0.0,0.0,0.0,0.0,0.0,Mathy Bakerson,3405,01,G,546,S
 5416_02,Mars,0,E/340/P,TRAPPIST-1e,30.0,0,138.0,0.0,208.0,952.0,0.0,Pos Saf,5416,02,E,340,P
-6141_02,Earth,0,F/1174/S,PSO J318.5-22,21.0,0,28.0,0.0,0.0,662.0,0.0,Jason Miller,6141,02,F,1174,S
+6141_02,Earth,0,F/1174/S,PSO J318.5-22,21.0,0,28.0,0.0,0.0,662.0,0.0,Nicholas Smith,6141,02,F,1174,S
 3444_04,Europa,0,B/131/S,TRAPPIST-1e,7.0,0,0.0,0.0,0.0,0.0,0.0,Wezena Scerodbox,3444,04,B,131,S
 7890_02,Earth,1,G/1273/S,55 Cancri e,17.0,0,0.0,0.0,0.0,0.0,0.0,Edgary Reenez,7890,02,G,1273,S
 1165_01,Europa,0,B/44/P,55 Cancri e,46.0,0,0.0,7201.0,0.0,32.0,2587.0,Azhah Heermy,1165,01,B,44,P
@@ -4235,7 +4235,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8540_01,Earth,0,F/1645/S,TRAPPIST-1e,24.0,0,686.0,0.0,13.0,0.0,0.0,Dory Sextones,8540,01,F,1645,S
 0984_08,Earth,1,G/150/S,TRAPPIST-1e,11.0,0,0.0,0.0,0.0,0.0,0.0,Alancy Flemaney,0984,08,G,150,S
 7650_04,Earth,0,F/1461/S,TRAPPIST-1e,18.0,0,711.0,12.0,0.0,83.0,0.0,Royce Potters,7650,04,F,1461,S
-1108_02,Mars,1,F/211/S,TRAPPIST-1e,5.0,0,0.0,0.0,0.0,0.0,0.0,Kevin Bennett,1108,02,F,211,S
+1108_02,Mars,1,F/211/S,TRAPPIST-1e,5.0,0,0.0,0.0,0.0,0.0,0.0,Norma Nunez,1108,02,F,211,S
 6706_01,Europa,1,B/224/P,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Asellah Dishocatal,6706,01,B,224,P
 7752_01,Earth,0,F/1480/S,PSO J318.5-22,18.0,0,0.0,0.0,0.0,746.0,1.0,Hery Berreranks,7752,01,F,1480,S
 1342_01,Earth,0,G/200/P,TRAPPIST-1e,34.0,0,0.0,118.0,5.0,0.0,761.0,Darry Mayder,1342,01,G,200,P
@@ -4246,7 +4246,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5430_01,Earth,1,G/873/P,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Inette Colomonson,5430,01,G,873,P
 2234_02,Mars,1,F/448/P,55 Cancri e,20.0,0,0.0,0.0,0.0,0.0,0.0,Resers Gread,2234,02,F,448,P
 1322_01,Earth,1,G/196/P,TRAPPIST-1e,40.0,0,0.0,0.0,0.0,0.0,0.0,Tonnie Masquez,1322,01,G,196,P
-2559_01,Europa,0,,TRAPPIST-1e,51.0,0,0.0,1949.0,0.0,2549.0,39.0,Castab Clarty,2559,01,A,2,S
+2559_01,Europa,0,,TRAPPIST-1e,51.0,0,0.0,1949.0,0.0,2549.0,39.0,Castab Clarty,2559,01,E,181,S
 0597_02,Earth,1,G/91/P,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Bertle Roachoanand,0597,02,G,91,P
 1511_03,Europa,0,B/63/S,TRAPPIST-1e,36.0,0,0.0,2345.0,0.0,1966.0,27.0,Maham Spandisket,1511,03,B,63,S
 4176_04,Mars,0,F/859/P,TRAPPIST-1e,38.0,0,490.0,663.0,358.0,855.0,0.0,Othawk Fla,4176,04,F,859,P
@@ -4278,7 +4278,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0611_01,Earth,1,G/90/S,PSO J318.5-22,31.0,0,0.0,0.0,0.0,0.0,0.0,Paulas Klinson,0611,01,G,90,S
 3576_01,Earth,0,F/742/P,TRAPPIST-1e,22.0,0,0.0,4.0,0.0,0.0,1267.0,Ela Brenney,3576,01,F,742,P
 2588_01,Earth,0,G/419/P,TRAPPIST-1e,28.0,0,4.0,166.0,743.0,0.0,0.0,Lardy Cardner,2588,01,G,419,P
-2282_01,Earth,1.0,F/461/P,TRAPPIST-1e,20.0,0,0.0,544.0,1.0,0.0,378.0,Ellena Burtiz,2282,01,F,461,P
+2282_01,Earth,0.0,F/461/P,TRAPPIST-1e,20.0,0,0.0,544.0,1.0,0.0,378.0,Ellena Burtiz,2282,01,F,461,P
 4258_02,Europa,0,A/37/P,TRAPPIST-1e,63.0,0,0.0,490.0,1.0,2882.0,18.0,Asteron Perneernal,4258,02,A,37,P
 8559_03,Mars,1,F/1758/P,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Goos Make,8559,03,F,1758,P
 4005_06,Earth,0,F/829/P,PSO J318.5-22,16.0,0,4.0,0.0,2278.0,2.0,0.0,Son River,4005,06,F,829,P
@@ -4298,7 +4298,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 4005_03,Earth,0,G/657/P,TRAPPIST-1e,4.0,0,0.0,0.0,0.0,0.0,0.0,Cliney Castannison,4005,03,G,657,P
 4567_01,Earth,0,F/939/P,TRAPPIST-1e,33.0,0,0.0,20.0,38.0,359.0,516.0,Marine Flemaney,4567,01,F,939,P
 8046_01,Earth,1,G/1300/P,PSO J318.5-22,22.0,0,0.0,0.0,0.0,0.0,0.0,Pennie Haynard,8046,01,G,1300,P
-5646_01,Mars,1,F/1079/S,55 Cancri e,39.0,0,0.0,0.0,0.0,0.0,0.0,Michael Murphy,5646,01,F,1079,S
+5646_01,Mars,1,F/1079/S,55 Cancri e,39.0,0,0.0,0.0,0.0,0.0,0.0,Robert Solis,5646,01,F,1079,S
 1827_01,Earth,0,F/352/S,55 Cancri e,24.0,0,0.0,94.0,1.0,56.0,427.0,Chrisa Norrison,1827,01,F,352,S
 2790_02,Europa,0,B/86/P,55 Cancri e,41.0,0,0.0,320.0,4333.0,1313.0,51.0,Cheliak Simous,2790,02,B,86,P
 8057_02,Europa,1,B/267/P,55 Cancri e,26.0,0,0.0,0.0,0.0,0.0,0.0,Algor Sersocatic,8057,02,B,267,P
@@ -4322,7 +4322,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8656_03,Europa,1,A/103/S,55 Cancri e,29.0,1,0.0,0.0,0.0,0.0,0.0,Eltares Imparmle,8656,03,A,103,S
 2310_02,Europa,1,D/68/P,TRAPPIST-1e,56.0,0,0.0,0.0,0.0,0.0,0.0,Geons Holiabler,2310,02,D,68,P
 2574_01,Earth,0,F/496/S,TRAPPIST-1e,42.0,0,10.0,303.0,12.0,0.0,478.0,Berta Sweeton,2574,01,F,496,S
-0355_01,Earth,1,,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Tricky Warrison,0355,01,B,49,B
+0355_01,Earth,1,,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Tricky Warrison,0355,01,A,105,S
 6734_02,Europa,1,C/249/S,55 Cancri e,14.0,0,0.0,0.0,0.0,0.0,0.0,Shail Sparsaxle,6734,02,C,249,S
 8766_01,Mars,1,F/1807/P,TRAPPIST-1e,24.0,0,0.0,0.0,0.0,0.0,0.0,Fles Mine,8766,01,F,1807,P
 3353_05,Europa,0,C/125/S,55 Cancri e,19.0,0,0.0,4494.0,0.0,11.0,3460.0,Ankaan Reming,3353,05,C,125,S
@@ -4411,7 +4411,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 1993_01,Earth,0,F/380/S,TRAPPIST-1e,31.0,0,1062.0,0.0,802.0,71.0,0.0,Lorey Fishopper,1993,01,F,380,S
 5528_01,Earth,0,F/1143/P,TRAPPIST-1e,18.0,0,0.0,288.0,35.0,0.0,435.0,Hanna Peckerson,5528,01,F,1143,P
 0008_02,Europa,1,B/1/P,TRAPPIST-1e,34.0,0,0.0,0.0,0.0,0.0,0.0,Altardr Flatic,0008,02,B,1,P
-3680_02,Europa,1,C/121/P,55 Cancri e,23.0,0,0.0,0.0,0.0,0.0,0.0,Brandon Robinson,3680,02,C,121,P
+3680_02,Europa,1,C/121/P,55 Cancri e,23.0,0,0.0,0.0,0.0,0.0,0.0,Tonya Lewis,3680,02,C,121,P
 5791_01,Earth,0,G/941/S,TRAPPIST-1e,46.0,0,183.0,7.0,637.0,182.0,5.0,Earlie Sancasey,5791,01,G,941,S
 1547_01,Earth,0,F/301/S,TRAPPIST-1e,21.0,0,163.0,0.0,661.0,32.0,0.0,Aarone Hoppers,1547,01,F,301,S
 0851_01,Earth,0,F/176/P,55 Cancri e,23.0,0,217.0,378.0,19.0,1.0,12.0,Iandy Sarios,0851,01,F,176,P
@@ -4432,7 +4432,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 4662_01,Europa,0,C/148/P,TRAPPIST-1e,32.0,0,45.0,985.0,0.0,0.0,6803.0,Dirk Uningably,4662,01,C,148,P
 6422_03,Mars,0,F/1330/P,TRAPPIST-1e,23.0,0,1233.0,0.0,527.0,0.0,0.0,Tote Peake,6422,03,F,1330,P
 0165_01,Mars,1,F/37/P,TRAPPIST-1e,35.0,0,0.0,0.0,0.0,0.0,0.0,Graven Anche,0165,01,F,37,P
-6825_02,Mars,0,F/1306/S,TRAPPIST-1e,24.0,0,3481.0,0.0,1236.0,2.0,256.0,Briana Anderson,6825,02,F,1306,S
+6825_02,Mars,0,F/1306/S,TRAPPIST-1e,24.0,0,3481.0,0.0,1236.0,2.0,256.0,Jesus George,6825,02,F,1306,S
 2173_01,Earth,1,G/352/P,PSO J318.5-22,27.0,0,0.0,0.0,0.0,0.0,0.0,Vina Landolphrey,2173,01,G,352,P
 8836_02,Earth,1,G/1430/P,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Jeron Mcinton,8836,02,G,1430,P
 1232_01,Europa,1,C/49/S,TRAPPIST-1e,36.0,0,0.0,0.0,0.0,0.0,0.0,Sarthim Geraing,1232,01,C,49,S
@@ -4446,7 +4446,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7549_01,Earth,0,E/489/P,TRAPPIST-1e,22.0,0,0.0,19.0,1468.0,2.0,119.0,Beula Beangley,7549,01,E,489,P
 4643_01,Earth,0,F/947/P,TRAPPIST-1e,36.0,0,226.60033250207815,724.0,0.0,0.0,0.0,Sandie Goodson,4643,01,F,947,P
 2597_01,Mars,1,F/500/S,TRAPPIST-1e,25.0,0,0.0,0.0,0.0,0.0,0.0,Want Jamai,2597,01,F,500,S
-1336_01,Earth,1,G/201/S,TRAPPIST-1e,17.0,0,0.0,0.0,0.0,0.0,0.0,Randy Alexander,1336,01,G,201,S
+1336_01,Earth,1,G/201/S,TRAPPIST-1e,17.0,0,0.0,0.0,0.0,0.0,0.0,Jonathan Escobar,1336,01,G,201,S
 1882_02,Europa,1,C/71/S,55 Cancri e,17.0,0,0.0,0.0,0.0,0.0,0.0,Phonons Antcal,1882,02,C,71,S
 3772_02,Earth,0,F/777/P,TRAPPIST-1e,20.0,0,0.0,466.7652925531915,422.0,0.0,0.0,Tany Castron,3772,02,F,777,P
 0298_01,Europa,1,A/3/P,55 Cancri e,57.0,0,0.0,0.0,0.0,0.0,0.0,Ashird Sorbitter,0298,01,A,3,P
@@ -4458,11 +4458,11 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2172_01,Earth,0,G/347/S,PSO J318.5-22,23.0,0,0.0,774.0,0.0,0.0,0.0,Belly Barbes,2172,01,G,347,S
 5402_01,Mars,0,F/1034/S,TRAPPIST-1e,40.0,0,1269.0,0.0,75.0,0.0,4.0,Cupers Erpie,5402,01,F,1034,S
 7717_01,Earth,0,G/1240/P,TRAPPIST-1e,64.0,0,0.0,0.0,0.0,563.0,344.0,Gerek Hultz,7717,01,G,1240,P
-0865_01,Europa,1,B/35/S,55 Cancri e,36.0,0,0.0,0.0,0.0,0.0,0.0,Shelly Buchanan,0865,01,B,35,S
+0865_01,Europa,1,B/35/S,55 Cancri e,36.0,0,0.0,0.0,0.0,0.0,0.0,Manuel Delgado,0865,01,B,35,S
 6363_01,Earth,1,G/1026/P,TRAPPIST-1e,36.0,0,0.0,0.0,0.0,0.0,0.0,Denis Gouldensen,6363,01,G,1026,P
 4069_01,Earth,0,F/768/S,55 Cancri e,24.0,0,0.0,0.0,2433.0,0.0,53.0,Hen Chenson,4069,01,F,768,S
 6067_01,Earth,0,G/984/P,TRAPPIST-1e,23.0,0,0.0,0.0,0.0,44.0,1721.0,Dellie Perkinson,6067,01,G,984,P
-9233_01,Earth,0,,TRAPPIST-1e,41.0,0,3.0,0.0,668.0,0.0,0.0,Royce Giller,9233,01,D,111,B
+9233_01,Earth,0,,TRAPPIST-1e,41.0,0,3.0,0.0,668.0,0.0,0.0,Royce Giller,9233,01,F,43,B
 7940_01,Earth,0,F/1521/S,TRAPPIST-1e,40.0,0,580.0,0.0,447.0,6.0,0.0,Camiet Hinglendez,7940,01,F,1521,S
 1923_01,Europa,0,C/65/P,TRAPPIST-1e,63.0,0,0.0,4286.0,18.0,4.0,872.0,Wasaleh Dister,1923,01,C,65,P
 8279_01,Earth,0,G/1349/P,TRAPPIST-1e,31.0,0,0.0,4334.0,55.0,56.0,306.23469727212245,Monah Villenson,8279,01,G,1349,P
@@ -4509,7 +4509,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7105_01,Earth,0,F/1473/P,55 Cancri e,20.0,0,0.0,6.0,552.0,20.0,0.0,Idarry Norrison,7105,01,F,1473,P
 7922_01,Earth,0,F/1517/S,TRAPPIST-1e,39.0,0,3030.0,79.0,0.0,0.0,0.0,Lloyde Llobsoney,7922,01,F,1517,S
 5142_03,Mars,1,F/1050/P,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Mark Cre,5142,03,F,1050,P
-0879_01,Earth,0,,TRAPPIST-1e,46.0,0,784.0,0.0,0.0,0.0,4.0,Therta Lanks,0879,01,C,82,S
+0879_01,Earth,0,,TRAPPIST-1e,46.0,0,784.0,0.0,0.0,0.0,4.0,Therta Lanks,0879,01,T,103,B
 1615_01,Earth,0,F/322/P,TRAPPIST-1e,24.0,0,0.0,0.0,6.0,685.0,0.0,Kencey Lopelases,1615,01,F,322,P
 7219_02,Europa,1,C/235/P,TRAPPIST-1e,2.0,0,0.0,0.0,0.0,0.0,0.0,Pheino Arible,7219,02,C,235,P
 3176_01,Europa,0,E/196/P,TRAPPIST-1e,77.0,0,0.0,9032.0,0.0,128.0,1464.0,Ankalik Nateansive,3176,01,E,196,P
@@ -4559,7 +4559,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8594_01,Earth,0,G/1381/S,TRAPPIST-1e,37.0,0,210.0,3.0,601.0,1.0,68.0,Heremy Clayson,8594,01,G,1381,S
 3254_01,Europa,0,C/121/S,TRAPPIST-1e,28.0,0,0.0,3315.0,0.0,594.0,85.0,Alphein Igmable,3254,01,C,121,S
 7395_01,Europa,1,B/277/S,55 Cancri e,17.0,0,0.0,0.0,0.0,0.0,0.0,Schelik Suasharic,7395,01,B,277,S
-4366_01,Earth,1.0,F/899/P,PSO J318.5-22,15.0,0,0.0,0.0,873.0,0.0,5.0,Philda Ricks,4366,01,F,899,P
+4366_01,Earth,0.0,F/899/P,PSO J318.5-22,15.0,0,0.0,0.0,873.0,0.0,5.0,Philda Ricks,4366,01,F,899,P
 3360_01,Europa,0,A/30/P,TRAPPIST-1e,52.0,1,0.0,1429.0,0.0,1371.0,488.0,Izares Brailidy,3360,01,A,30,P
 9116_01,Earth,0,F/1868/P,TRAPPIST-1e,26.0,0,0.0,466.7652925531915,0.0,1.0,48.0,Candra Franton,9116,01,F,1868,P
 2505_01,Earth,0,E/149/P,TRAPPIST-1e,19.0,0,0.0,13.0,291.0,481.0,2.0,Dia Mckinn,2505,01,E,149,P
@@ -4603,7 +4603,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2905_01,Earth,0,G/462/S,55 Cancri e,24.0,0,489.0,0.0,170.72672872340425,0.0,0.0,Lloyde Parsoney,2905,01,G,462,S
 7143_01,Mars,0,F/1372/S,TRAPPIST-1e,31.0,0,907.0,0.0,437.0,2.0,0.0,Losp Buche,7143,01,F,1372,S
 7899_03,Earth,1,G/1275/S,TRAPPIST-1e,1.0,0,0.0,0.0,0.0,0.0,0.0,Margio Boyers,7899,03,G,1275,S
-4473_01,Mars,0,F/841/S,55 Cancri e,13.0,0,2244.0,31.0,507.0,0.0,142.0,Louis Barnes,4473,01,F,841,S
+4473_01,Mars,0,F/841/S,55 Cancri e,13.0,0,2244.0,31.0,507.0,0.0,142.0,Aaron Dixon,4473,01,F,841,S
 1412_01,Earth,0,G/217/S,55 Cancri e,15.0,0,0.0,0.0,170.72672872340425,0.0,832.0,Andona Winsley,1412,01,G,217,S
 8695_01,Mars,0,F/1683/S,TRAPPIST-1e,40.0,0,76.0,0.0,1169.0,0.0,64.0,Apench Seen,8695,01,F,1683,S
 7290_05,Europa,0,D/227/P,TRAPPIST-1e,11.0,0,31.0,3585.0,31.0,1400.0,0.0,Suhaino Bruthydre,7290,05,D,227,P
@@ -4616,7 +4616,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8168_04,Earth,0,F/1561/S,TRAPPIST-1e,11.0,0,4.0,0.0,9.0,20.0,831.0,Bland Boyers,8168,04,F,1561,S
 0169_01,Earth,1,G/23/P,TRAPPIST-1e,31.0,0,0.0,0.0,0.0,0.0,0.0,Wandy Fisherry,0169,01,G,23,P
 4401_01,Earth,True,G/716/S,55 Cancri e,16.0,0,0.0,0.0,0.0,0.0,0.0,Tonyan Loverthyo,4401,01,G,716,S
-5210_01,Earth,0,F/1063/P,TRAPPIST-1e,29.0,0,0.0,43.0,693.0,0.0,0.0,Gloria Henderson,5210,01,F,1063,P
+5210_01,Earth,0,F/1063/P,TRAPPIST-1e,29.0,0,0.0,43.0,693.0,0.0,0.0,Jessica Sanchez,5210,01,F,1063,P
 8892_01,Earth,0,F/1832/P,TRAPPIST-1e,28.0,0,0.0,16.0,496.0,318.0,0.0,Shanya Ricklaney,8892,01,F,1832,P
 3615_01,Earth,0,G/583/S,55 Cancri e,10.0,0,0.0,0.0,0.0,0.0,0.0,Kurta Greenez,3615,01,G,583,S
 5111_03,Europa,0,B/171/P,TRAPPIST-1e,32.0,0,0.0,419.0,0.0,1984.0,521.0,Mino Unkcatted,5111,03,B,171,P
@@ -4646,7 +4646,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8265_01,Earth,1,G/1344/P,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Curtle Winsley,8265,01,G,1344,P
 2223_01,Earth,0,G/358/S,TRAPPIST-1e,33.0,0,0.0,86.0,0.0,252.0,570.0,Glena Vanglis,2223,01,G,358,S
 4332_01,Earth,1,G/707/S,55 Cancri e,17.0,0,0.0,0.0,0.0,0.0,0.0,Tammyl Dukertyler,4332,01,G,707,S
-7949_01,Earth,0.0,G/1283/S,TRAPPIST-1e,47.0,0,0.0,14.0,0.0,2330.0,0.0,Armen Barkeretton,7949,01,G,1283,S
+7949_01,Earth,1.0,G/1283/S,TRAPPIST-1e,47.0,0,0.0,14.0,0.0,2330.0,0.0,Armen Barkeretton,7949,01,G,1283,S
 1717_01,Earth,0,E/105/P,TRAPPIST-1e,40.0,0,813.0,0.0,473.0,236.0,0.0,Alicey Franankson,1717,01,E,105,P
 4992_01,Earth,0,F/1018/P,PSO J318.5-22,22.0,0,479.0,34.0,0.0,29.0,4.0,Dandra Sextones,4992,01,F,1018,P
 5863_01,Earth,0,G/950/P,55 Cancri e,0.0,0,0.0,0.0,0.0,0.0,0.0,Lawren Loverthyo,5863,01,G,950,P
@@ -4707,7 +4707,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 1651_01,Earth,1,G/266/P,PSO J318.5-22,43.0,0,0.0,0.0,0.0,0.0,0.0,Camina Wonglasquez,1651,01,G,266,P
 8796_07,Earth,0,F/1704/S,TRAPPIST-1e,34.0,0,14.0,748.0,0.0,41.0,0.0,Stene Bakerson,8796,07,F,1704,S
 3439_01,Europa,1,B/130/S,TRAPPIST-1e,28.0,0,0.0,0.0,0.0,0.0,0.0,Alarmus Modent,3439,01,B,130,S
-4864_01,Earth,0,G/784/P,55 Cancri e,24.0,0,0.0,0.0,0.0,734.0,21.0,Stephen Peterson,4864,01,G,784,P
+4864_01,Earth,0,G/784/P,55 Cancri e,24.0,0,0.0,0.0,0.0,734.0,21.0,Frank Gomez,4864,01,G,784,P
 5127_02,Earth,0,F/983/S,TRAPPIST-1e,16.0,0,43.0,0.0,0.0,1893.0,119.0,Faithy Yanton,5127,02,F,983,S
 8977_01,Mars,0,D/272/S,55 Cancri e,51.0,0,324.0,0.0,563.0,119.0,0.0,Herk Graie,8977,01,D,272,S
 7646_03,Europa,0,C/285/S,55 Cancri e,24.0,0,145.0,4224.0,0.0,5.0,61.0,Alwaide Sometery,7646,03,C,285,S
@@ -4733,13 +4733,13 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6489_01,Earth,1,G/1049/P,TRAPPIST-1e,16.0,0,0.0,0.0,0.0,0.0,0.0,Elsane Balley,6489,01,G,1049,P
 6443_04,Earth,1,G/1046/S,TRAPPIST-1e,1.0,0,0.0,0.0,0.0,0.0,0.0,Allene Cartyernan,6443,04,G,1046,S
 1005_01,Earth,0,G/156/S,TRAPPIST-1e,20.0,0,0.0,0.0,4.0,9.0,773.0,Coreee Juartis,1005,01,G,156,S
-0875_01,Earth,0,G/131/S,TRAPPIST-1e,38.0,0,0.0,0.0,0.0,0.0,0.0,Michael Vazquez,0875,01,G,131,S
+0875_01,Earth,0,G/131/S,TRAPPIST-1e,38.0,0,0.0,0.0,0.0,0.0,0.0,Stephanie Brown,0875,01,G,131,S
 7280_01,Mars,0,F/1508/P,TRAPPIST-1e,34.0,0,5959.0,0.0,3.0,0.0,0.0,Pix Stike,7280,01,F,1508,P
 5347_01,Europa,0,C/169/P,TRAPPIST-1e,18.0,0,0.0,3770.0,0.0,287.0,3491.0,Anton Caljoiry,5347,01,C,169,P
 6977_01,Earth,1,G/1137/S,PSO J318.5-22,20.0,0,0.0,0.0,0.0,0.0,0.0,Rankie Burker,6977,01,G,1137,S
 4557_01,Earth,0,E/286/P,TRAPPIST-1e,17.0,0,0.0,656.0,295.0,0.0,35.0,Dwin Mirez,4557,01,E,286,P
 0189_01,Earth,0,E/8/P,55 Cancri e,49.0,0,84.0,3.0,401.0,202.0,98.0,Helly Booters,0189,01,E,8,P
-5977_02,Europa,0,B/230/S,55 Cancri e,57.0,0,200.0,9.0,0.0,314.1307461692205,24133.0,Mary Graham,5977,02,B,230,S
+5977_02,Europa,0,B/230/S,55 Cancri e,57.0,0,200.0,9.0,0.0,314.1307461692205,24133.0,Preston Rhodes,5977,02,B,230,S
 4838_01,Earth,0,F/913/S,TRAPPIST-1e,52.0,0,1.0,13.0,3.0,0.0,700.0,Andine Mcphernard,4838,01,F,913,S
 4253_01,Earth,0,G/696/P,TRAPPIST-1e,30.0,0,488.0,0.0,242.0,0.0,79.0,Ivanne Gallandez,4253,01,G,696,P
 2724_01,Mars,1,F/564/P,55 Cancri e,17.0,0,0.0,0.0,0.0,0.0,0.0,Swack Merte,2724,01,F,564,P
@@ -4749,10 +4749,10 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8581_01,Europa,1,C/323/S,TRAPPIST-1e,25.0,1,0.0,0.0,0.0,0.0,0.0,Kitauva Fawnsive,8581,01,C,323,S
 5552_03,Mars,0,F/1150/P,TRAPPIST-1e,60.0,0,51.0,10.0,754.0,1412.0,137.0,Chonk Potie,5552,03,F,1150,P
 8822_01,Europa,0,A/92/P,55 Cancri e,25.0,0,0.0,145.0,1359.0,492.0,205.0,Taram Spopting,8822,01,A,92,P
-5751_01,Earth,0,G/924/P,PSO J318.5-22,24.0,0,160.0,20.0,39.0,552.0,1.0,Johnathan Mcmahon,5751,01,G,924,P
+5751_01,Earth,0,G/924/P,PSO J318.5-22,24.0,0,160.0,20.0,39.0,552.0,1.0,Stacey Shaffer,5751,01,G,924,P
 8138_01,Earth,1,G/1315/P,55 Cancri e,20.0,0,0.0,0.0,0.0,0.0,0.0,Nica Whitneyes,8138,01,G,1315,P
 3948_01,Earth,0,F/814/P,TRAPPIST-1e,18.0,0,325.0,0.0,477.0,50.0,5.0,Erick Castron,3948,01,F,814,P
-7711_01,Earth,0.0,D/241/P,TRAPPIST-1e,24.0,0,0.0,82.0,0.0,1624.0,77.0,Jihoton Muspereed,7711,01,D,241,P
+7711_01,Earth,1.0,D/241/P,TRAPPIST-1e,24.0,0,0.0,82.0,0.0,1624.0,77.0,Jihoton Muspereed,7711,01,D,241,P
 7092_01,Earth,0,F/1470/P,TRAPPIST-1e,24.0,0,61.0,397.0,185.0,1.0,0.0,Sall Gaineyerson,7092,01,F,1470,P
 3546_01,Earth,0,F/672/S,TRAPPIST-1e,36.0,0,0.0,10.0,0.0,0.0,306.23469727212245,Alendy Llonovancis,3546,01,F,672,S
 3556_01,Earth,1,G/572/S,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Natha Clinantones,3556,01,G,572,S
@@ -4825,7 +4825,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5529_01,Europa,0,C/174/P,55 Cancri e,39.0,0,5645.0,132.0,0.0,1.0,1814.0,Sabi Unfile,5529,01,C,174,P
 8735_01,Earth,0,F/1799/P,TRAPPIST-1e,20.0,0,227.0,0.0,1.0,0.0,707.0,Glasey Ryanglasey,8735,01,F,1799,P
 0378_06,Europa,0,B/11/S,TRAPPIST-1e,33.0,0,0.0,2491.0,6.0,1173.0,1059.0,Sollum Pirejus,0378,06,B,11,S
-3976_01,Europa,0,,TRAPPIST-1e,29.0,0,0.0,7164.0,0.0,58.0,1.0,Thab Patoetic,3976,01,C,137,S
+3976_01,Europa,0,,TRAPPIST-1e,29.0,0,0.0,7164.0,0.0,58.0,1.0,Thab Patoetic,3976,01,C,197,S
 4511_02,Europa,1,B/178/S,55 Cancri e,48.0,0,0.0,0.0,0.0,0.0,0.0,Atrino Crueld,4511,02,B,178,S
 0714_05,Earth,1,G/109/P,PSO J318.5-22,25.0,0,0.0,0.0,0.0,0.0,0.0,Jeanny Rilley,0714,05,G,109,P
 3702_01,Mars,1,E/220/P,TRAPPIST-1e,32.0,0,0.0,0.0,0.0,0.0,0.0,Tors Ramad,3702,01,E,220,P
@@ -4840,7 +4840,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5447_01,Mars,1,F/1126/P,55 Cancri e,17.0,0,0.0,0.0,0.0,0.0,0.0,Sug Dutty,5447,01,F,1126,P
 8609_01,Earth,0,E/564/S,TRAPPIST-1e,27.0,0,0.0,0.0,2.0,994.0,0.0,Bara Cochrisons,8609,01,E,564,S
 8849_01,Earth,1,G/1427/S,55 Cancri e,27.0,0,0.0,0.0,0.0,0.0,0.0,Valex Chanash,8849,01,G,1427,S
-8613_01,Earth,0,G/1388/S,TRAPPIST-1e,10.0,0,0.0,0.0,0.0,0.0,0.0,Richard Smith,8613,01,G,1388,S
+8613_01,Earth,0,G/1388/S,TRAPPIST-1e,10.0,0,0.0,0.0,0.0,0.0,0.0,Amanda Williams,8613,01,G,1388,S
 5639_01,Earth,0,G/913/S,TRAPPIST-1e,22.0,0,19.0,9.0,0.0,0.0,594.0,Bel Ewins,5639,01,G,913,S
 6328_03,Earth,0,F/1309/P,TRAPPIST-1e,53.0,0,627.0,32.0,0.0,0.0,37.0,Marice Hoppers,6328,03,F,1309,P
 3848_01,Earth,0,F/795/P,TRAPPIST-1e,24.0,0,4.0,314.0,0.0,0.0,428.0,Warry Jacostaney,3848,01,F,795,P
@@ -4855,7 +4855,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5303_03,Earth,0,G/857/P,TRAPPIST-1e,3.0,0,0.0,0.0,0.0,0.0,0.0,Jimmyn Lambleyoun,5303,03,G,857,P
 1015_01,Earth,0,F/189/S,TRAPPIST-1e,44.0,0,0.0,131.0,267.0,554.0,0.0,Wilmay Antoshipson,1015,01,F,189,S
 5383_01,Earth,0,F/1105/P,55 Cancri e,23.0,0,253.0,0.0,1175.0,3.0,306.23469727212245,Kyley Foxter,5383,01,F,1105,P
-7162_01,Earth,1.0,F/1485/P,TRAPPIST-1e,65.0,0,43.0,21.0,22.0,50.0,731.0,Bland Pernard,7162,01,F,1485,P
+7162_01,Earth,0.0,F/1485/P,TRAPPIST-1e,65.0,0,43.0,21.0,22.0,50.0,731.0,Bland Pernard,7162,01,F,1485,P
 3868_04,Earth,0,G/630/S,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Harrie Braymon,3868,04,G,630,S
 6850_03,Earth,0,E/436/P,TRAPPIST-1e,52.0,0,2.0,46.0,800.0,0.0,773.0,Brancy Wolferton,6850,03,E,436,P
 8842_01,Europa,0,D/267/S,TRAPPIST-1e,24.0,0,3.0,2910.0,0.0,112.0,36.0,Hekaron Amspring,8842,01,D,267,S
@@ -4888,11 +4888,11 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3282_01,Europa,1,B/120/S,55 Cancri e,43.0,0,0.0,0.0,0.0,0.0,0.0,Nasl Prighty,3282,01,B,120,S
 1286_01,Mars,1,F/248/S,TRAPPIST-1e,10.0,0,0.0,0.0,0.0,0.0,0.0,Jackix Fache,1286,01,F,248,S
 6924_01,Earth,0,G/1127/S,TRAPPIST-1e,37.0,0,0.0,0.0,0.0,0.0,0.0,Lilasa Solon,6924,01,G,1127,S
-1745_01,Europa,0,E/130/S,TRAPPIST-1e,28.0,0,0.0,1310.0,0.0,221.0,6064.0,Tamara Fuentes,1745,01,E,130,S
+1745_01,Europa,0,E/130/S,TRAPPIST-1e,28.0,0,0.0,1310.0,0.0,221.0,6064.0,Stacy Weaver,1745,01,E,130,S
 3681_02,Europa,0,B/144/S,TRAPPIST-1e,21.0,0,4.0,466.7652925531915,137.0,1640.0,455.0,Giedir Irived,3681,02,B,144,S
 3741_01,Europa,1,B/117/P,TRAPPIST-1e,29.0,0,0.0,0.0,0.0,0.0,0.0,Tabik Pulgaly,3741,01,B,117,P
 8203_01,Europa,0,C/307/S,55 Cancri e,23.0,0,0.0,395.0,0.0,6.0,306.23469727212245,Altan Pernised,8203,01,C,307,S
-3091_01,Europa,0,,TRAPPIST-1e,14.0,0,0.0,946.0,0.0,7860.0,384.0,Kitakan Wingcoling,3091,01,T,115,S
+3091_01,Europa,0,,TRAPPIST-1e,14.0,0,0.0,946.0,0.0,7860.0,384.0,Kitakan Wingcoling,3091,01,B,95,B
 1906_01,Earth,1,G/299/S,TRAPPIST-1e,14.0,0,0.0,0.0,0.0,0.0,0.0,Claura Booneid,1906,01,G,299,S
 5888_02,Mars,0,F/1218/P,TRAPPIST-1e,35.0,0,750.0,0.0,0.0,0.0,1065.0,Wifel Blate,5888,02,F,1218,P
 7340_01,Europa,0,E/475/P,TRAPPIST-1e,60.0,0,0.0,307.0,0.0,484.0,1967.0,Giedion Blanspe,7340,01,E,475,P
@@ -4907,8 +4907,8 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3713_02,Europa,1,C/133/S,55 Cancri e,39.0,0,0.0,0.0,0.0,0.0,0.0,Zosmark Trattle,3713,02,C,133,S
 0633_01,Mars,0,D/25/P,PSO J318.5-22,31.0,1,629.0,0.0,0.0,150.0,0.0,Cakes Gread,0633,01,D,25,P
 3300_01,Mars,1,F/688/P,TRAPPIST-1e,38.0,0,0.0,0.0,0.0,0.0,0.0,Fis Fla,3300,01,F,688,P
-8487_01,Europa,1.0,C/282/P,55 Cancri e,32.0,1,65.0,466.7652925531915,0.0,88.0,9811.0,Kajamak Boderbint,8487,01,C,282,P
-0136_01,Earth,0,G/23/S,PSO J318.5-22,47.0,0,97.0,418.0,126.0,25.0,55.0,Jennifer Williams,0136,01,G,23,S
+8487_01,Europa,0.0,C/282/P,55 Cancri e,32.0,1,65.0,466.7652925531915,0.0,88.0,9811.0,Kajamak Boderbint,8487,01,C,282,P
+0136_01,Earth,0,G/23/S,PSO J318.5-22,47.0,0,97.0,418.0,126.0,25.0,55.0,Theresa York,0136,01,G,23,S
 6320_01,Mars,0,E/418/S,TRAPPIST-1e,53.0,0,78.0,85.0,859.0,0.0,0.0,Guink Ste,6320,01,E,418,S
 4159_01,Earth,0,F/782/S,TRAPPIST-1e,15.0,0,226.60033250207815,2.0,15.0,5.0,842.0,Hilley Harperez,4159,01,F,782,S
 3184_01,Europa,0,B/117/S,55 Cancri e,10.0,0,0.0,0.0,0.0,0.0,0.0,Arkard Sechausive,3184,01,B,117,S
@@ -4924,7 +4924,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7608_01,Mars,1,F/1454/S,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Bun Ica,7608,01,F,1454,S
 1046_01,Earth,0,F/196/S,TRAPPIST-1e,16.0,0,507.0,0.0,0.0,0.0,306.23469727212245,Wena Beachez,1046,01,F,196,S
 3523_01,Earth,1,F/664/S,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Frohs Tité,3523,01,F,664,S
-9246_01,Earth,True,G/1490/S,TRAPPIST-1e,32.0,0,0.0,0.0,0.0,0.0,0.0,Mary Bailey,9246,01,G,1490,S
+9246_01,Earth,True,G/1490/S,TRAPPIST-1e,32.0,0,0.0,0.0,0.0,0.0,0.0,Cindy Hendricks,9246,01,G,1490,S
 2345_01,Earth,1,G/378/S,PSO J318.5-22,53.0,0,0.0,0.0,0.0,0.0,0.0,Evane Brightez,2345,01,G,378,S
 2431_01,Earth,0,F/498/P,TRAPPIST-1e,13.0,0,0.0,2.0,0.0,566.0,208.0,Candy Josesh,2431,01,F,498,P
 2619_01,Earth,0,F/504/S,55 Cancri e,17.0,0,2000.0,0.0,0.0,0.0,0.0,Elaney Chanan,2619,01,F,504,S
@@ -4939,13 +4939,13 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3163_01,Mars,0,F/656/P,TRAPPIST-1e,13.0,0,1007.0,0.0,142.0,295.0,0.0,Crin Vlart,3163,01,F,656,P
 6321_02,Europa,0,C/194/P,TRAPPIST-1e,11.0,0,0.0,1234.0,0.0,1956.0,0.0,Azhat Pusive,6321,02,C,194,P
 3569_01,Mars,1,F/741/P,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Prah Bine,3569,01,F,741,P
-4386_01,Europa,0,B/170/S,TRAPPIST-1e,54.0,0,0.0,0.0,0.0,0.0,0.0,Marilyn Montes,4386,01,B,170,S
+4386_01,Europa,0,B/170/S,TRAPPIST-1e,54.0,0,0.0,0.0,0.0,0.0,0.0,Susan Nelson,4386,01,B,170,S
 8736_01,Mars,1,F/1800/P,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Meal Pota,8736,01,F,1800,P
 2270_01,Mars,0,F/459/P,TRAPPIST-1e,46.0,0,171.0,0.0,1257.0,5.0,0.0,Spuffs Fla,2270,01,F,459,P
 7972_02,Europa,0,B/260/P,TRAPPIST-1e,35.0,0,226.60033250207815,246.0,25.0,42.0,3730.0,Atinon Cattyried,7972,02,B,260,P
 1961_01,Earth,0,G/315/P,TRAPPIST-1e,35.0,0,302.0,6.0,0.0,6.0,613.0,Kayne Giller,1961,01,G,315,P
-0833_01,Europa,1,,55 Cancri e,36.0,0,0.0,0.0,0.0,0.0,0.0,Tarmus Poicaptic,0833,01,E,172,S
-7983_01,Europa,1,,TRAPPIST-1e,53.0,0,0.0,0.0,0.0,0.0,0.0,Alderak Wassird,7983,01,T,85,B
+0833_01,Europa,1,,55 Cancri e,36.0,0,0.0,0.0,0.0,0.0,0.0,Tarmus Poicaptic,0833,01,T,2,B
+7983_01,Europa,1,,TRAPPIST-1e,53.0,0,0.0,0.0,0.0,0.0,0.0,Alderak Wassird,7983,01,D,10,B
 2091_01,Earth,0,F/414/P,TRAPPIST-1e,33.0,0,356.0,466.7652925531915,0.0,245.0,0.0,Arlie Woodwinez,2091,01,F,414,P
 7306_01,Earth,0,E/471/P,55 Cancri e,26.0,0,1.0,0.0,0.0,0.0,718.0,Toniel Stroyledgez,7306,01,E,471,P
 2865_02,Mars,0,D/88/P,TRAPPIST-1e,53.0,0,520.0,0.0,442.0,0.0,0.0,Hammet Corie,2865,02,D,88,P
@@ -4995,7 +4995,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6091_01,Earth,1,G/988/P,TRAPPIST-1e,28.0,0,0.0,0.0,0.0,0.0,0.0,Gera Lynnerett,6091,01,G,988,P
 7670_01,Mars,1,F/1465/S,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Oats Meau,7670,01,F,1465,S
 5928_01,Earth,0,E/377/P,TRAPPIST-1e,20.0,0,149.0,25.0,559.0,21.0,33.0,Becca Slates,5928,01,E,377,P
-7069_01,Earth,0,E/472/S,TRAPPIST-1e,22.0,0,0.0,125.0,0.0,663.0,0.0,Samantha Stanley,7069,01,E,472,S
+7069_01,Earth,0,E/472/S,TRAPPIST-1e,22.0,0,0.0,125.0,0.0,663.0,0.0,Duane Cole,7069,01,E,472,S
 1283_01,Earth,0,G/194/S,TRAPPIST-1e,19.0,0,6.0,466.7652925531915,1.0,714.0,0.0,Enrie Burchanez,1283,01,G,194,S
 6899_01,Europa,0,A/73/P,TRAPPIST-1e,59.0,0,0.0,0.0,0.0,0.0,0.0,Anyonon Coweboded,6899,01,A,73,P
 2810_01,Earth,1,G/454/P,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Oraine Jorden,2810,01,G,454,P
@@ -5028,14 +5028,14 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 1985_01,Mars,1,F/394/P,55 Cancri e,19.0,0,0.0,0.0,0.0,0.0,0.0,Apuffs Facle,1985,01,F,394,P
 2523_01,Europa,1,B/73/P,55 Cancri e,23.0,0,0.0,0.0,0.0,0.0,0.0,Minopus Oilpfulle,2523,01,B,73,P
 2627_01,Earth,0,F/544/P,PSO J318.5-22,40.0,0,0.0,228.0,5.0,454.0,1.0,Idave Kerristicey,2627,01,F,544,P
-2291_03,Earth,0,F/445/S,55 Cancri e,46.0,0,426.0,37.0,0.0,0.0,568.0,Barbara Dixon,2291,03,F,445,S
+2291_03,Earth,0,F/445/S,55 Cancri e,46.0,0,426.0,37.0,0.0,0.0,568.0,Jennifer Gamble,2291,03,F,445,S
 1141_01,Earth,1,G/176/S,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Kerrie Simstravery,1141,01,G,176,S
 6215_02,Europa,0,B/239/S,55 Cancri e,37.0,0,0.0,90.0,0.0,3282.0,11.0,Suhelik Sterly,6215,02,B,239,S
 0629_01,Earth,0,G/96/P,TRAPPIST-1e,38.0,0,0.0,0.0,0.0,1018.0,0.0,Rickie Portananney,0629,01,G,96,P
 4498_07,Earth,0,G/734/S,TRAPPIST-1e,39.0,0,0.0,2.0,0.0,69.0,836.0,Dary Mallerez,4498,07,G,734,S
 2806_01,Mars,0,D/95/S,TRAPPIST-1e,28.0,0,948.0,0.0,64.0,170.0,0.0,Boon Gene,2806,01,D,95,S
 8098_02,Europa,0,B/269/P,55 Cancri e,44.0,0,9.0,2311.0,0.0,633.0,1.0,Quarkib Mosteraked,8098,02,B,269,P
-0082_03,Mars,0,F/16/P,TRAPPIST-1e,8.0,0,0.0,0.0,0.0,0.0,0.0,Vanessa Evans,0082,03,F,16,P
+0082_03,Mars,0,F/16/P,TRAPPIST-1e,8.0,0,0.0,0.0,0.0,0.0,0.0,Rachel Rich,0082,03,F,16,P
 8066_01,Mars,1,F/1544/S,TRAPPIST-1e,23.0,0,0.0,0.0,0.0,0.0,0.0,Cinch Min,8066,01,F,1544,S
 3131_03,Earth,1,G/492/S,TRAPPIST-1e,4.0,0,0.0,0.0,0.0,0.0,0.0,Jamela Griffy,3131,03,G,492,S
 6487_01,Earth,0,F/1343/P,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,22.0,1030.0,Marlie Solon,6487,01,F,1343,P
@@ -5061,7 +5061,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3787_01,Mars,1,F/716/S,TRAPPIST-1e,55.0,0,0.0,0.0,0.0,0.0,0.0,Sugard Prie,3787,01,F,716,S
 0412_01,Europa,0,C/11/P,TRAPPIST-1e,60.0,0,0.0,7255.0,5952.0,1537.0,0.0,Baton Quelfly,0412,01,C,11,P
 2044_01,Earth,0,F/396/S,TRAPPIST-1e,27.0,0,0.0,0.0,634.0,1.0,23.0,Breney Conleydenan,2044,01,F,396,S
-4708_01,Mars,0,E/304/S,TRAPPIST-1e,26.0,0,0.0,25.0,13.0,11.0,998.0,Jorge Martin,4708,01,E,304,S
+4708_01,Mars,0,E/304/S,TRAPPIST-1e,26.0,0,0.0,25.0,13.0,11.0,998.0,Troy Mcbride,4708,01,E,304,S
 8442_01,Mars,0,E/540/P,TRAPPIST-1e,32.0,0,857.0,158.0,0.0,33.0,0.0,Dakes Fatte,8442,01,E,540,P
 9220_01,Earth,0,G/1496/P,TRAPPIST-1e,25.0,0,2.0,45.0,45.0,0.0,815.0,Branca Meyerthy,9220,01,G,1496,P
 4302_01,Earth,1,G/706/P,55 Cancri e,6.0,0,0.0,0.0,0.0,0.0,0.0,Sethew Chaellerty,4302,01,G,706,P
@@ -5084,7 +5084,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3994_01,Europa,1,B/152/S,TRAPPIST-1e,29.0,0,0.0,0.0,0.0,0.0,0.0,Challa Unretereng,3994,01,B,152,S
 5644_01,Mars,0,F/1169/P,TRAPPIST-1e,28.0,0,1909.0,0.0,0.0,0.0,6.0,Gut Hake,5644,01,F,1169,P
 2205_01,Earth,0,E/157/S,TRAPPIST-1e,31.0,0,0.0,0.0,187.0,602.0,0.0,Brance Vandan,2205,01,E,157,S
-9230_01,Europa,0,C/342/S,TRAPPIST-1e,36.0,1,0.0,5600.0,715.0,2868.0,971.0,Robert Bowers,9230,01,C,342,S
+9230_01,Europa,0,C/342/S,TRAPPIST-1e,36.0,1,0.0,5600.0,715.0,2868.0,971.0,Kim Mcpherson,9230,01,C,342,S
 2379_01,Earth,0,F/487/P,TRAPPIST-1e,35.0,0,194.0,0.0,678.0,0.0,0.0,Monard Grifford,2379,01,F,487,P
 1772_01,Mars,0,F/348/P,TRAPPIST-1e,30.0,0,1220.0,0.0,49.0,39.0,0.0,Cheats Butty,1772,01,F,348,P
 6388_01,Earth,0,G/1029/P,TRAPPIST-1e,24.0,0,0.0,0.0,0.0,0.0,826.0,Herry Peckerson,6388,01,G,1029,P
@@ -5092,18 +5092,18 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8628_01,Earth,0,F/1664/S,PSO J318.5-22,49.0,0,0.0,18.0,0.0,0.0,686.0,Enry Johnsondez,8628,01,F,1664,S
 2183_01,Mars,0,F/429/S,PSO J318.5-22,46.0,0,607.0,0.0,41.0,334.0,251.0,Cheeet Ruity,2183,01,F,429,S
 5109_01,Earth,0,G/835/S,PSO J318.5-22,47.0,0,83.0,1.0,0.0,654.0,3.0,Hilia Joycerton,5109,01,G,835,S
-0971_01,Earth,1,G/143/P,TRAPPIST-1e,64.0,0,0.0,0.0,0.0,0.0,0.0,Lori Watson,0971,01,G,143,P
+0971_01,Earth,1,G/143/P,TRAPPIST-1e,64.0,0,0.0,0.0,0.0,0.0,0.0,Michael Jones,0971,01,G,143,P
 4006_01,Earth,1,G/660/S,55 Cancri e,14.0,0,0.0,0.0,0.0,0.0,0.0,Hilly Wolfaddox,4006,01,G,660,S
 6762_01,Earth,0,F/1293/S,55 Cancri e,54.0,0,0.0,704.0,0.0,0.0,0.0,Monard Jenkinnedy,6762,01,F,1293,S
 2164_01,Europa,1,B/63/P,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Coxaton Queldry,2164,01,B,63,P
 7430_01,Earth,0,G/1205/S,PSO J318.5-22,24.0,0,549.0,3.0,201.0,0.0,0.0,Isa Vantonson,7430,01,G,1205,S
 8199_01,Earth,0,G/1329/P,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Patha Drakeekss,8199,01,G,1329,P
 4506_01,Mars,0,E/294/S,TRAPPIST-1e,19.0,0,160.0,0.0,889.0,0.0,0.0,Bees Kashe,4506,01,E,294,S
-2055_03,Earth,1,G/330/P,TRAPPIST-1e,25.0,0,0.0,0.0,0.0,0.0,0.0,Ruth Anderson,2055,03,G,330,P
+2055_03,Earth,1,G/330/P,TRAPPIST-1e,25.0,0,0.0,0.0,0.0,0.0,0.0,Hannah Valentine,2055,03,G,330,P
 1957_01,Earth,1,G/309/S,TRAPPIST-1e,25.0,0,0.0,0.0,0.0,0.0,0.0,Patoya Maynardner,1957,01,G,309,S
 1668_01,Earth,0,F/316/S,TRAPPIST-1e,22.0,0,2.0,0.0,6.0,101.0,536.0,Millia Watsongley,1668,01,F,316,S
 4690_01,Europa,1,B/156/P,TRAPPIST-1e,35.0,0,0.0,0.0,0.0,0.0,0.0,Mediah Dishocatal,4690,01,B,156,P
-5065_02,Europa,0,E/326/S,55 Cancri e,26.0,0,606.0,1080.0,0.0,2011.0,0.0,Kevin Holloway,5065,02,E,326,S
+5065_02,Europa,0,E/326/S,55 Cancri e,26.0,0,606.0,1080.0,0.0,2011.0,0.0,Kimberly Ward,5065,02,E,326,S
 6593_01,Earth,0,F/1370/P,PSO J318.5-22,33.0,0,0.0,67.0,661.0,0.0,0.0,Keitha Matts,6593,01,F,1370,P
 8574_05,Mars,1,F/1653/S,55 Cancri e,29.0,0,0.0,0.0,0.0,0.0,0.0,Eerch Welte,8574,05,F,1653,S
 4958_01,Earth,0,G/810/S,TRAPPIST-1e,32.0,0,0.0,235.0,0.0,474.0,0.0,Ivanna Flemaney,4958,01,G,810,S
@@ -5123,7 +5123,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5922_01,Earth,0,G/960/P,TRAPPIST-1e,32.0,0,0.0,0.0,0.0,0.0,0.0,Elia Bairdyork,5922,01,G,960,P
 7687_01,Earth,0,F/1596/P,PSO J318.5-22,20.0,0,0.0,0.0,8.0,1.0,1175.0,Dwin Hortez,7687,01,F,1596,P
 5880_01,Earth,1,G/953/P,TRAPPIST-1e,11.0,0,0.0,0.0,0.0,0.0,0.0,Leneva Pooley,5880,01,G,953,P
-2970_01,Earth,0,,TRAPPIST-1e,33.0,0,740.0,82.0,6.0,314.1307461692205,1.0,Dwin Adkinson,2970,01,C,154,B
+2970_01,Earth,0,,TRAPPIST-1e,33.0,0,740.0,82.0,6.0,314.1307461692205,1.0,Dwin Adkinson,2970,01,C,166,B
 0910_01,Earth,1,G/137/S,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Violey Burryerson,0910,01,G,137,S
 4569_02,Europa,0.0,B/151/P,55 Cancri e,37.0,0,0.0,2235.0,7.0,4098.0,89.0,Aldah Honchoe,4569,02,B,151,P
 5927_01,Europa,0,B/201/P,55 Cancri e,24.0,0,0.0,2421.0,0.0,725.0,2300.0,Duhrak Sysilstict,5927,01,B,201,P
@@ -5153,7 +5153,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8489_01,Earth,1,G/1383/P,PSO J318.5-22,22.0,0,0.0,0.0,0.0,0.0,0.0,Elicey Danielps,8489,01,G,1383,P
 1228_01,Mars,1,E/89/S,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Snich Purle,1228,01,E,89,S
 3100_03,Earth,1,G/485/S,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Gordo Farmonrada,3100,03,G,485,S
-4003_01,Earth,0,F/827/P,TRAPPIST-1e,22.0,0,1417.0,0.0,0.0,0.0,0.0,Cindy Shannon,4003,01,F,827,P
+4003_01,Earth,0,F/827/P,TRAPPIST-1e,22.0,0,1417.0,0.0,0.0,0.0,0.0,Erica Parsons,4003,01,F,827,P
 8845_02,Earth,0,E/566/P,TRAPPIST-1e,23.0,0,0.0,1204.0,40.0,0.0,375.0,Paulah Coolez,8845,02,E,566,P
 2578_01,Earth,0,F/498/S,TRAPPIST-1e,18.0,0,1153.0,0.0,0.0,1409.0,195.0,Made Nasquez,2578,01,F,498,S
 3774_03,Earth,0,F/778/P,TRAPPIST-1e,35.0,0,227.0,117.0,394.0,9.0,56.0,Dorah Willy,3774,03,F,778,P
@@ -5171,7 +5171,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3713_01,Europa,1,C/133/S,TRAPPIST-1e,56.0,0,0.0,0.0,0.0,0.0,0.0,Alraida Trattle,3713,01,C,133,S
 4071_02,Europa,1,B/127/P,55 Cancri e,22.0,0,0.0,0.0,0.0,0.0,0.0,Tachir Watuald,4071,02,B,127,P
 6431_03,Earth,0,G/1038/P,55 Cancri e,27.0,0,30.0,0.0,763.0,0.0,57.0,Adriet Kramosley,6431,03,G,1038,P
-8940_01,Earth,0,E/587/S,TRAPPIST-1e,24.0,0,771.0,0.0,22.0,0.0,0.0,James Owens,8940,01,E,587,S
+8940_01,Earth,0,E/587/S,TRAPPIST-1e,24.0,0,771.0,0.0,22.0,0.0,0.0,Andrea Cabrera,8940,01,E,587,S
 2546_01,Earth,0,F/491/S,TRAPPIST-1e,36.0,0,548.0,179.0,24.0,0.0,77.0,Etha Shawatson,2546,01,F,491,S
 2111_01,Mars,0,F/417/P,TRAPPIST-1e,24.0,0,600.0,593.0,1404.0,0.0,1.0,Beals Blan,2111,01,F,417,P
 3773_03,Earth,0,F/711/S,PSO J318.5-22,23.0,0,0.0,552.0,44.0,0.0,661.0,Wena Prestonard,3773,03,F,711,S
@@ -5222,7 +5222,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7289_01,Europa,0,A/78/P,55 Cancri e,52.0,0,360.0,1314.0,8.0,641.0,66.0,Naschab Purellliss,7289,01,A,78,P
 8509_01,Earth,0,G/1364/S,TRAPPIST-1e,43.0,0,21.0,0.0,863.0,0.0,0.0,Lillia Kaufmaneyes,8509,01,G,1364,S
 8190_01,Europa,1,B/320/S,55 Cancri e,43.0,0,0.0,0.0,0.0,0.0,0.0,Izaron Ingalt,8190,01,B,320,S
-3598_01,Earth,0,,55 Cancri e,19.0,0,616.0,0.0,46.0,0.0,14.0,Dony Olivasquez,3598,01,T,134,S
+3598_01,Earth,0,,55 Cancri e,19.0,0,616.0,0.0,46.0,0.0,14.0,Dony Olivasquez,3598,01,F,28,B
 8728_01,Earth,0,F/1798/P,TRAPPIST-1e,32.0,0,258.0,500.0,3.0,15.0,128.0,Justie Fulloydez,8728,01,F,1798,P
 6218_01,Earth,0,F/1188/S,55 Cancri e,18.0,0,425.0,779.0,0.0,0.0,74.0,Hanry Villenson,6218,01,F,1188,S
 6865_01,Europa,0,D/208/S,TRAPPIST-1e,27.0,1,69.0,2878.0,0.0,4232.0,3798.0,Thabih Peducting,6865,01,D,208,S
@@ -5274,7 +5274,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 1865_02,Earth,0,G/292/S,TRAPPIST-1e,1.0,0,0.0,0.0,0.0,0.0,0.0,Dandra Roses,1865,02,G,292,S
 5543_01,Europa,1,C/175/P,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Hekaton Platch,5543,01,C,175,P
 2102_01,Europa,0,C/79/S,TRAPPIST-1e,30.0,0,63.0,9314.0,249.0,2624.0,4538.0,Giedia Seadler,2102,01,C,79,S
-8470_01,Europa,0.0,C/281/P,55 Cancri e,31.0,1,8243.0,280.0,0.0,3220.0,2285.0,Brafirk Aloubtled,8470,01,C,281,P
+8470_01,Europa,1.0,C/281/P,55 Cancri e,31.0,1,8243.0,280.0,0.0,3220.0,2285.0,Brafirk Aloubtled,8470,01,C,281,P
 3361_02,Mars,1,F/635/S,TRAPPIST-1e,9.0,0,0.0,0.0,0.0,0.0,0.0,Bet Sinda,3361,02,F,635,S
 2572_01,Europa,1,C/93/S,55 Cancri e,21.0,0,0.0,0.0,0.0,0.0,0.0,Sheratz Suptibler,2572,01,C,93,S
 0560_02,Earth,0,G/81/S,PSO J318.5-22,12.0,0,0.0,0.0,0.0,0.0,0.0,Tonyn Hortez,0560,02,G,81,S
@@ -5292,7 +5292,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8091_01,Earth,0,F/1672/P,TRAPPIST-1e,29.0,0,18.0,7.0,0.0,0.0,779.0,Mela Bushallert,8091,01,F,1672,P
 3363_03,Earth,0,G/550/P,PSO J318.5-22,5.0,0,0.0,0.0,0.0,0.0,0.0,Stelly Leeves,3363,03,G,550,P
 7156_04,Mars,0,E/475/S,TRAPPIST-1e,11.0,0,0.0,0.0,0.0,0.0,0.0,Mele Ramad,7156,04,E,475,S
-4441_02,Europa,1,B/144/P,TRAPPIST-1e,39.0,0,0.0,0.0,0.0,0.0,0.0,Tracie Johnson,4441,02,B,144,P
+4441_02,Europa,1,B/144/P,TRAPPIST-1e,39.0,0,0.0,0.0,0.0,0.0,0.0,Heather Smith,4441,02,B,144,P
 2104_01,Earth,0,F/414/S,TRAPPIST-1e,29.0,0,776.0,0.0,4.0,0.0,23.0,Sonard Bootez,2104,01,F,414,S
 0701_01,Europa,1,D/25/S,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Menkibi Voliat,0701,01,D,25,S
 4469_01,Europa,1,B/146/P,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Dabik Brakeded,4469,01,B,146,P
@@ -5300,7 +5300,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8451_01,Mars,0,F/1625/S,55 Cancri e,31.0,0,1997.0,0.0,0.0,0.0,0.0,Ale Start,8451,01,F,1625,S
 2013_01,Earth,0,F/398/P,TRAPPIST-1e,17.0,0,0.0,0.0,0.0,0.0,804.0,Emmax Water,2013,01,F,398,P
 3504_01,Earth,1,G/575/P,TRAPPIST-1e,27.0,0,0.0,0.0,0.0,0.0,0.0,Nicey Mcleandez,3504,01,G,575,P
-0310_01,Europa,0,,TRAPPIST-1e,67.0,0,226.60033250207815,230.0,0.0,4476.0,241.0,Naviton Coudered,0310,01,E,106,B
+0310_01,Europa,0,,TRAPPIST-1e,67.0,0,226.60033250207815,230.0,0.0,4476.0,241.0,Naviton Coudered,0310,01,F,69,B
 1829_02,Europa,0,D/56/P,TRAPPIST-1e,30.0,0,1.0,6398.0,0.0,2.0,295.0,Propsh Clumshangs,1829,02,D,56,P
 3195_04,Earth,0,G/505/S,PSO J318.5-22,11.0,0,0.0,0.0,0.0,0.0,0.0,Ralda Litthews,3195,04,G,505,S
 4733_01,Earth,0,E/294/P,TRAPPIST-1e,20.0,0,962.0,0.0,4581.0,105.0,0.0,Sonald Corman,4733,01,E,294,P
@@ -5384,7 +5384,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 1148_06,Europa,1,C/42/P,TRAPPIST-1e,11.0,0,0.0,0.0,0.0,0.0,0.0,Batares Clugete,1148,06,C,42,P
 2123_01,Earth,1,G/342/P,PSO J318.5-22,23.0,0,0.0,0.0,0.0,0.0,0.0,Dianya Johnsondez,2123,01,G,342,P
 4645_01,Europa,0,B/184/S,TRAPPIST-1e,48.0,0,0.0,9633.0,0.0,1.0,2.0,Aton Bacistion,4645,01,B,184,S
-7995_01,Europa,1,,TRAPPIST-1e,36.0,0,0.0,0.0,0.0,0.0,0.0,Grum Stiviorad,7995,01,B,21,S
+7995_01,Europa,1,,TRAPPIST-1e,36.0,0,0.0,0.0,0.0,0.0,0.0,Grum Stiviorad,7995,01,C,96,B
 4223_02,Mars,0,E/275/S,55 Cancri e,24.0,0,469.0,0.0,170.72672872340425,196.0,0.0,Dous Grean,4223,02,E,275,S
 0809_03,Mars,0,F/151/S,TRAPPIST-1e,42.0,0,836.0,0.0,51.0,304.0,0.0,Smal Meake,0809,03,F,151,S
 2311_01,Earth,0,G/372/P,TRAPPIST-1e,33.0,0,0.0,763.0,1.0,66.0,84.0,Elsane Cabrewsond,2311,01,G,372,P
@@ -5452,7 +5452,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2347_05,Earth,1,G/377/P,55 Cancri e,15.0,0,0.0,0.0,0.0,0.0,0.0,Lewise Wellierras,2347,05,G,377,P
 3384_03,Earth,1,G/554/P,55 Cancri e,20.0,0,0.0,0.0,0.0,0.0,0.0,Lyney Pettyreeman,3384,03,G,554,P
 4752_01,Mars,0,F/964/P,PSO J318.5-22,56.0,0,233.0,0.0,1356.0,0.0,171.0,Terek Knike,4752,01,F,964,P
-1952_01,Earth,0,E/121/P,TRAPPIST-1e,23.0,0,382.0,0.0,398.0,8.0,0.0,Dylan Hamilton,1952,01,E,121,P
+1952_01,Earth,0,E/121/P,TRAPPIST-1e,23.0,0,382.0,0.0,398.0,8.0,0.0,Daniel Roy,1952,01,E,121,P
 1083_03,Mars,0,F/206/S,TRAPPIST-1e,18.0,0,556.0,0.0,0.0,852.0,6.0,Hion Sfin,1083,03,F,206,S
 7790_01,Mars,1,F/1490/S,TRAPPIST-1e,29.0,0,0.0,0.0,0.0,0.0,0.0,Pold Casty,7790,01,F,1490,S
 5472_01,Earth,0,F/1047/S,PSO J318.5-22,37.0,0,0.0,0.0,559.0,11.0,0.0,Jacque Andley,5472,01,F,1047,S
@@ -5510,14 +5510,14 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 3060_01,Mars,0,F/581/S,TRAPPIST-1e,13.0,0,760.0,2.0,2.0,314.1307461692205,0.0,Rowl Chman,3060,01,F,581,S
 3003_01,Europa,1,C/114/S,TRAPPIST-1e,45.0,0,0.0,0.0,0.0,0.0,0.0,Ankaan String,3003,01,C,114,S
 1425_03,Earth,1,G/220/P,TRAPPIST-1e,4.0,0,0.0,0.0,0.0,0.0,0.0,Maryne Adavisons,1425,03,G,220,P
-5480_01,Europa,0,,TRAPPIST-1e,37.0,0,31.0,9307.0,0.0,904.0,11213.0,Avijava Ellcefulve,5480,01,B,49,S
+5480_01,Europa,0,,TRAPPIST-1e,37.0,0,31.0,9307.0,0.0,904.0,11213.0,Avijava Ellcefulve,5480,01,T,88,B
 7584_01,Europa,1,B/288/S,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,0.0,0.0,Arrain Swingse,7584,01,B,288,S
 9072_03,Mars,0,F/1758/S,TRAPPIST-1e,23.0,0,455.0,10.0,591.0,232.0,0.0,Stoate Creke,9072,03,F,1758,S
 0504_05,Europa,1,B/19/S,55 Cancri e,18.0,0,0.0,0.0,0.0,0.0,0.0,Azharga Unpasine,0504,05,B,19,S
 2893_01,Earth,0,G/470/P,55 Cancri e,27.0,0,688.0,307.0,779.0,0.0,19.0,Verek Beasleyes,2893,01,G,470,P
 3577_01,Mars,0,F/743/P,TRAPPIST-1e,26.0,0,1178.0,7.0,0.0,7.0,0.0,Pot Apie,3577,01,F,743,P
 8611_01,Earth,0,F/1766/P,55 Cancri e,24.0,0,2.0,644.0,0.0,0.0,0.0,Rice Mejiaddox,8611,01,F,1766,P
-3911_03,Earth,1,G/640/S,PSO J318.5-22,18.0,0,0.0,0.0,0.0,0.0,0.0,Tammy Fox,3911,03,G,640,S
+3911_03,Earth,1,G/640/S,PSO J318.5-22,18.0,0,0.0,0.0,0.0,0.0,0.0,Christopher Hampton,3911,03,G,640,S
 1462_01,Earth,1,G/231/P,TRAPPIST-1e,30.0,0,0.0,0.0,0.0,0.0,0.0,Timmie Webstes,1462,01,G,231,P
 3854_01,Earth,1,G/632/P,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Racey Carsoning,3854,01,G,632,P
 8760_01,Earth,0,F/1696/S,TRAPPIST-1e,22.0,0,804.0,0.0,0.0,0.0,0.0,Tance Alvasquez,8760,01,F,1696,S
@@ -5560,7 +5560,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6851_01,Earth,0,E/456/S,TRAPPIST-1e,22.0,0,0.0,752.0,18.0,0.0,18.0,Glorey Bookerson,6851,01,E,456,S
 2134_01,Mars,0,F/422/P,TRAPPIST-1e,20.0,0,1146.0,0.0,0.0,0.0,3.0,Mes Pimne,2134,01,F,422,P
 6896_01,Mars,0,E/459/S,TRAPPIST-1e,33.0,0,473.0,0.0,575.0,0.0,0.0,Stote Khake,6896,01,E,459,S
-3315_01,Earth,0.0,F/627/S,TRAPPIST-1e,15.0,0,10.0,0.0,99.0,314.1307461692205,2031.0,Troy Ramirez,3315,01,F,627,S
+3315_01,Earth,0.0,F/627/S,TRAPPIST-1e,15.0,0,10.0,0.0,99.0,314.1307461692205,2031.0,Kathleen Brown,3315,01,F,627,S
 2092_03,Mars,0,D/70/S,TRAPPIST-1e,13.0,1,6726.0,0.0,1605.0,1266.0,0.0,Cray Stpie,2092,03,D,70,S
 1453_02,Earth,0,G/229/P,TRAPPIST-1e,63.0,0,3.0,801.0,0.0,0.0,5.0,Annon Thorney,1453,02,G,229,P
 0964_01,Europa,1,B/36/P,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Alderak Platch,0964,01,B,36,P
@@ -5575,11 +5575,11 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5065_01,Europa,1,E/326/S,55 Cancri e,29.0,0,0.0,0.0,0.0,0.0,0.0,Asellan Crueld,5065,01,E,326,S
 4543_01,Mars,0,F/936/P,PSO J318.5-22,20.0,1,14.0,0.0,59.0,1777.0,0.0,Quakes Winie,4543,01,F,936,P
 3778_01,Earth,0,F/713/S,TRAPPIST-1e,48.0,0,0.0,21.0,0.0,0.0,786.0,Geneen Morrencis,3778,01,F,713,S
-7801_01,Earth,0,,55 Cancri e,21.0,0,1720.0,2337.0,0.0,1.0,335.0,Eliana Coopezmaney,7801,01,T,196,B
+7801_01,Earth,0,,55 Cancri e,21.0,0,1720.0,2337.0,0.0,1.0,335.0,Eliana Coopezmaney,7801,01,A,28,S
 4410_01,Earth,0,G/720/S,TRAPPIST-1e,23.0,0,27.0,0.0,32.0,725.0,0.0,Deandy Wolffy,4410,01,G,720,S
 3868_06,Earth,1,G/630/S,TRAPPIST-1e,42.0,0,0.0,0.0,0.0,0.0,0.0,Line Braymon,3868,06,G,630,S
 9164_01,Mars,0,E/602/S,TRAPPIST-1e,20.0,0,574.0,1.0,792.0,11.0,0.0,Tundsh Gread,9164,01,E,602,S
-0753_03,Europa,1,,55 Cancri e,42.0,0,0.0,0.0,0.0,0.0,0.0,Matan Ennalve,0753,03,F,3,S
+0753_03,Europa,1,,55 Cancri e,42.0,0,0.0,0.0,0.0,0.0,0.0,Matan Ennalve,0753,03,E,112,S
 4466_01,Europa,0,A/40/P,55 Cancri e,31.0,1,0.0,2461.0,0.0,51.0,2141.0,Ainkard Crakete,4466,01,A,40,P
 2373_01,Europa,0,D/81/S,TRAPPIST-1e,36.0,0,0.0,4756.0,0.0,7818.0,96.0,Bens Aneetle,2373,01,D,81,S
 5661_01,Earth,0,E/355/P,PSO J318.5-22,43.0,0,635.0,53.0,0.0,3.0,0.0,Elany Ellahan,5661,01,E,355,P
@@ -5612,8 +5612,8 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 8573_02,Earth,1,G/1378/S,TRAPPIST-1e,18.0,0,0.0,0.0,0.0,0.0,0.0,Toniel Mirezavis,8573,02,G,1378,S
 4613_01,Europa,1,B/152/P,TRAPPIST-1e,40.0,0,0.0,0.0,0.0,0.0,0.0,Tabdhib Inghtal,4613,01,B,152,P
 5702_01,Earth,1,G/912/P,55 Cancri e,28.0,0,0.0,0.0,0.0,0.0,0.0,Katiey Estron,5702,01,G,912,P
-7843_01,Mars,1,,TRAPPIST-1e,75.0,0,0.0,0.0,0.0,0.0,0.0,Weet Petie,7843,01,B,158,B
-5048_01,Earth,0,,TRAPPIST-1e,38.0,0,0.0,0.0,0.0,0.0,0.0,Lerion Moodson,5048,01,T,22,B
+7843_01,Mars,1,,TRAPPIST-1e,75.0,0,0.0,0.0,0.0,0.0,0.0,Weet Petie,7843,01,E,139,B
+5048_01,Earth,0,,TRAPPIST-1e,38.0,0,0.0,0.0,0.0,0.0,0.0,Lerion Moodson,5048,01,B,43,S
 6905_02,Earth,0,E/460/S,TRAPPIST-1e,15.0,0,0.0,0.0,0.0,938.0,44.0,Lilasa Acobson,6905,02,E,460,S
 5663_01,Europa,0,A/71/S,TRAPPIST-1e,33.0,0,0.0,1513.0,5.0,63.0,144.0,Alsuud Ressing,5663,01,A,71,S
 5512_02,Europa,0,B/211/S,55 Cancri e,33.0,0,0.0,8162.0,1044.0,699.0,46.0,Sadaron Chsere,5512,02,B,211,S
@@ -5688,7 +5688,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2941_01,Earth,0,G/477/P,TRAPPIST-1e,16.0,0,24.0,0.0,13.0,717.0,0.0,Coreee Beasleyes,2941,01,G,477,P
 5401_01,Earth,0,G/869/P,TRAPPIST-1e,44.0,0,0.0,0.0,5.0,30.0,777.0,Shalle Savaraldez,5401,01,G,869,P
 4259_01,Mars,1,F/796/S,TRAPPIST-1e,41.0,0,0.0,0.0,0.0,0.0,0.0,Rispid Raste,4259,01,F,796,S
-2599_01,Earth,1,,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Hery Bardinard,2599,01,E,67,B
+2599_01,Earth,1,,TRAPPIST-1e,21.0,0,0.0,0.0,0.0,0.0,0.0,Hery Bardinard,2599,01,E,35,S
 7219_04,Europa,0,C/235/P,TRAPPIST-1e,24.0,0,0.0,2921.0,5.0,795.0,3155.0,Atinon Arible,7219,04,C,235,P
 1796_01,Europa,1,C/67/S,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Alcyon Hariourcal,1796,01,C,67,S
 0915_01,Earth,0,G/138/S,TRAPPIST-1e,20.0,0,157.0,0.0,0.0,544.0,3.0,Jerrye Leodger,0915,01,G,138,S
@@ -5741,7 +5741,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 9046_02,Europa,0,C/335/S,TRAPPIST-1e,25.0,0,6899.0,265.0,0.0,2234.0,2090.0,Quarke Cratrave,9046,02,C,335,S
 0663_01,Earth,0,F/140/P,TRAPPIST-1e,44.0,0,86.0,525.0,16.0,49.0,39.0,Jeroy Buckentry,0663,01,F,140,P
 4746_01,Earth,0,G/775/S,TRAPPIST-1e,33.0,0,282.0,8.0,337.0,0.0,0.0,Eristy Joynewtonks,4746,01,G,775,S
-7182_01,Earth,0,,TRAPPIST-1e,46.0,0,438.0,283.0,944.0,0.0,355.0,Jacki Ricews,7182,01,E,127,B
+7182_01,Earth,0,,TRAPPIST-1e,46.0,0,438.0,283.0,944.0,0.0,355.0,Jacki Ricews,7182,01,B,189,B
 8544_01,Earth,0,F/1647/S,TRAPPIST-1e,15.0,0,114.0,161.0,22.0,419.0,0.0,Yolana Booters,8544,01,F,1647,S
 7534_01,Earth,0,F/1439/S,PSO J318.5-22,40.0,0,420.0,0.0,345.0,1.0,0.0,Maen Dickley,7534,01,F,1439,S
 7396_03,Europa,1,C/271/S,PSO J318.5-22,35.0,0,0.0,0.0,0.0,0.0,0.0,Elerops Monsintic,7396,03,C,271,S
@@ -5810,21 +5810,21 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 9259_01,Earth,0.0,F/1893/P,TRAPPIST-1e,44.0,0,1030.0,1015.0,0.0,11.0,306.23469727212245,Annah Gilleyons,9259,01,F,1893,P
 6444_02,Earth,1,G/1041/P,TRAPPIST-1e,0.0,0,0.0,0.0,0.0,0.0,0.0,Elicey Domington,6444,02,G,1041,P
 3218_02,Earth,0,F/606/S,55 Cancri e,58.0,0,52.0,0.0,5.0,517.0,0.0,Lonna Bardinard,3218,02,F,606,S
-1041_01,Europa,1,,TRAPPIST-1e,46.0,0,0.0,0.0,0.0,0.0,0.0,Algrafi Heedry,1041,01,F,41,B
+1041_01,Europa,1,,TRAPPIST-1e,46.0,0,0.0,0.0,0.0,0.0,0.0,Algrafi Heedry,1041,01,D,10,S
 0212_01,Earth,0,E/9/P,TRAPPIST-1e,13.0,0,192.0,0.0,0.0,51.0,739.0,Inen Workmans,0212,01,E,9,P
-5436_01,Earth,0,,TRAPPIST-1e,30.0,0,0.0,0.0,0.0,2.0,827.0,Idace Gilleranks,5436,01,A,114,S
-0732_01,Earth,0,,TRAPPIST-1e,19.0,0,0.0,714.0,2.0,0.0,0.0,Jilla Bairdford,0732,01,F,20,B
+5436_01,Earth,0,,TRAPPIST-1e,30.0,0,0.0,0.0,0.0,2.0,827.0,Idace Gilleranks,5436,01,C,180,B
+0732_01,Earth,0,,TRAPPIST-1e,19.0,0,0.0,714.0,2.0,0.0,0.0,Jilla Bairdford,0732,01,T,40,S
 9061_01,Mars,0,D/276/S,TRAPPIST-1e,26.0,0,887.0,6.0,15.0,148.0,0.0,Chars Flate,9061,01,D,276,S
 0635_02,Earth,0,E/43/S,TRAPPIST-1e,37.0,0,614.0,0.0,50.0,11.0,319.0,Millia Powery,0635,02,E,43,S
 0334_01,Mars,0,F/62/S,TRAPPIST-1e,29.0,0,5715.0,2.0,211.0,1476.0,0.0,Unfly Mushe,0334,01,F,62,S
 3688_01,Mars,0,F/697/S,55 Cancri e,2.0,0,0.0,0.0,0.0,0.0,0.0,Tark Onbre,3688,01,F,697,S
 9085_03,Europa,1,A/95/P,TRAPPIST-1e,57.0,0,0.0,0.0,0.0,0.0,0.0,Atrix Hometerval,9085,03,A,95,P
-1134_01,Europa,1,,55 Cancri e,13.0,0,0.0,0.0,0.0,0.0,0.0,Hadyon Sobvisted,1134,01,E,180,B
+1134_01,Europa,1,,55 Cancri e,13.0,0,0.0,0.0,0.0,0.0,0.0,Hadyon Sobvisted,1134,01,D,185,S
 3710_03,Earth,1,G/601/P,55 Cancri e,5.0,0,0.0,0.0,0.0,0.0,0.0,Rossie Loverceson,3710,03,G,601,P
 1144_03,Earth,0,G/177/S,TRAPPIST-1e,55.0,0,412.0,97.0,3.0,0.0,306.23469727212245,Landa Barnolderg,1144,03,G,177,S
 2361_01,Earth,1,G/380/P,PSO J318.5-22,3.0,0,0.0,0.0,0.0,0.0,0.0,Teryla Belley,2361,01,G,380,P
 7853_01,Mars,0,F/1502/S,TRAPPIST-1e,42.0,0,1227.0,773.0,14.0,0.0,0.0,Gran Chpie,7853,01,F,1502,S
-8772_01,Europa,1,B/339/S,55 Cancri e,15.0,0,0.0,0.0,0.0,0.0,0.0,Scott Richards,8772,01,B,339,S
+8772_01,Europa,1,B/339/S,55 Cancri e,15.0,0,0.0,0.0,0.0,0.0,0.0,Amber Montoya,8772,01,B,339,S
 8200_01,Earth,1,G/1330/P,PSO J318.5-22,22.0,0,0.0,0.0,0.0,0.0,0.0,Wen Wheelez,8200,01,G,1330,P
 4942_02,Earth,1,G/806/S,TRAPPIST-1e,36.0,0,0.0,0.0,0.0,0.0,0.0,Coreee Reenon,4942,02,G,806,S
 8202_04,Europa,0,C/306/S,TRAPPIST-1e,39.0,0,19.0,3603.0,0.0,421.0,517.0,Nasliak Unkcatted,8202,04,C,306,S
@@ -5858,7 +5858,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5303_05,Earth,0,G/857/P,55 Cancri e,7.0,0,0.0,0.0,0.0,0.0,0.0,Ronia Lambleyoun,5303,05,G,857,P
 3210_01,Europa,0,E/211/S,55 Cancri e,17.0,0,454.0,19.0,0.0,314.1307461692205,3219.0,Charda Heeroling,3210,01,E,211,S
 2356_01,Mars,0,D/80/S,TRAPPIST-1e,45.0,1,773.0,82.0,0.0,6.0,0.0,Koat Peane,2356,01,D,80,S
-0105_01,Earth,1.0,F/21/P,TRAPPIST-1e,27.0,0,0.0,0.0,570.0,2.0,131.0,Carry Cleachrand,0105,01,F,21,P
+0105_01,Earth,0.0,F/21/P,TRAPPIST-1e,27.0,0,0.0,0.0,570.0,2.0,131.0,Carry Cleachrand,0105,01,F,21,P
 9140_01,Earth,1,G/1488/P,PSO J318.5-22,19.0,0,0.0,0.0,0.0,0.0,0.0,Eleaha Klindsayer,9140,01,G,1488,P
 2743_01,Earth,0,F/528/S,TRAPPIST-1e,15.0,0,746.0,0.0,2.0,0.0,11.0,Nelle Gregordy,2743,01,F,528,S
 9020_01,Earth,0,F/1747/S,PSO J318.5-22,18.0,0,0.0,0.0,0.0,391.0,283.0,Billia Pottonalden,9020,01,F,1747,S
@@ -5874,7 +5874,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7905_03,Europa,0,C/296/S,55 Cancri e,26.0,1,1432.0,1283.0,0.0,178.0,5034.0,Meram Axlentindy,7905,03,C,296,S
 7639_01,Europa,1,B/290/S,55 Cancri e,44.0,0,0.0,0.0,0.0,0.0,0.0,Wimps Invebodene,7639,01,B,290,S
 3353_02,Europa,1,C/125/S,55 Cancri e,13.0,0,0.0,0.0,0.0,0.0,0.0,Bellah Reming,3353,02,C,125,S
-4840_01,Earth,1,F/915/S,TRAPPIST-1e,36.0,0,0.0,0.0,0.0,0.0,0.0,Joshua Brady,4840,01,F,915,S
+4840_01,Earth,1,F/915/S,TRAPPIST-1e,36.0,0,0.0,0.0,0.0,0.0,0.0,Patrick Nunez,4840,01,F,915,S
 5793_01,Europa,1,E/375/S,55 Cancri e,59.0,0,0.0,0.0,0.0,0.0,0.0,Dhenah Gloyanthy,5793,01,E,375,S
 2195_01,Earth,0,F/440/P,TRAPPIST-1e,27.0,0,0.0,280.0,119.0,646.0,5.0,Naomie Coleyanglas,2195,01,F,440,P
 9081_05,Earth,0,F/1858/P,TRAPPIST-1e,48.0,0,0.0,586.0,784.0,4.0,21.0,Haryn Clemondsey,9081,05,F,1858,P
@@ -5889,7 +5889,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 2560_03,Earth,0,G/412/P,TRAPPIST-1e,2.0,0,0.0,0.0,0.0,0.0,0.0,Ireene Loway,2560,03,G,412,P
 7061_01,Earth,0,G/1156/S,TRAPPIST-1e,16.0,0,4.0,1666.0,0.0,35.0,40.0,Celina Kellson,7061,01,G,1156,S
 6105_01,Europa,0,E/401/S,TRAPPIST-1e,58.0,0,0.0,1012.0,0.0,1120.0,20.0,Gatrix Hontichre,6105,01,E,401,S
-2092_04,Mars,0,F/410/S,TRAPPIST-1e,26.0,0,1751.0,0.0,0.0,0.0,0.0,Beth Miller,2092,04,F,410,S
+2092_04,Mars,0,F/410/S,TRAPPIST-1e,26.0,0,1751.0,0.0,0.0,0.0,0.0,John Parsons,2092,04,F,410,S
 3218_03,Earth,0,G/510/S,TRAPPIST-1e,1.0,0,0.0,0.0,0.0,0.0,0.0,Wena Bardinard,3218,03,G,510,S
 1971_01,Earth,0,F/375/S,PSO J318.5-22,54.0,0,3.0,0.0,56.0,633.0,0.0,Megany Irwinson,1971,01,F,375,S
 1847_01,Earth,0,G/290/S,TRAPPIST-1e,65.0,0,5.0,317.0,170.72672872340425,0.0,123.0,Jaimez Tuckers,1847,01,G,290,S
@@ -5900,7 +5900,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 7565_03,Europa,0,B/247/P,55 Cancri e,25.0,0,0.0,772.0,0.0,125.0,5913.0,Matark Praded,7565,03,B,247,P
 3032_01,Earth,0,G/478/S,TRAPPIST-1e,11.0,0,0.0,0.0,0.0,0.0,0.0,Raque Wolfernan,3032,01,G,478,S
 0688_01,Mars,0,E/48/S,TRAPPIST-1e,34.0,0,1973.0,0.0,97.0,41.0,3.0,Goos Erpie,0688,01,E,48,S
-2697_01,Mars,0,D/91/S,TRAPPIST-1e,27.0,1,1893.0,487.0,4.0,0.0,0.0,Pank Pimne,2697,01,D,91,S
+2697_01,Mars,0,D/91/S,TRAPPIST-1e,27.0,0,1893.0,487.0,4.0,0.0,0.0,Pank Pimne,2697,01,D,91,S
 4562_01,Europa,1,B/180/S,TRAPPIST-1e,31.0,0,0.0,0.0,0.0,0.0,0.0,Shaton Reedall,4562,01,B,180,S
 6656_01,Europa,1,B/221/P,TRAPPIST-1e,34.0,0,0.0,0.0,0.0,0.0,0.0,Naviton Suarging,6656,01,B,221,P
 2065_01,Earth,0,F/410/P,TRAPPIST-1e,13.0,0,12.0,0.0,0.0,0.0,1963.0,Lavey Jeffey,2065,01,F,410,P
@@ -5936,7 +5936,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 6949_01,Earth,0,E/464/S,55 Cancri e,25.0,0,0.0,12.0,851.0,19.0,103.0,Lolas Dillestron,6949,01,E,464,S
 1976_07,Europa,1,B/82/S,TRAPPIST-1e,25.0,0,0.0,0.0,0.0,0.0,0.0,Alaslon Craleve,1976,07,B,82,S
 5583_01,Europa,0,D/170/S,TRAPPIST-1e,52.0,0,5.0,3514.0,31.0,601.0,13.0,Taura Inghtal,5583,01,D,170,S
-4020_01,Europa,0,B/126/P,55 Cancri e,37.0,0,6498.0,1470.0,0.0,416.0,4174.0,John Goodman,4020,01,B,126,P
+4020_01,Europa,0,B/126/P,55 Cancri e,37.0,0,6498.0,1470.0,0.0,416.0,4174.0,Billy Wheeler,4020,01,B,126,P
 3550_02,Earth,1,G/570/S,PSO J318.5-22,5.0,0,0.0,0.0,0.0,0.0,0.0,Jaye Delazarson,3550,02,G,570,S
 1588_01,Europa,1,E/99/P,TRAPPIST-1e,25.0,0,0.0,0.0,0.0,0.0,0.0,Errima Fullous,1588,01,E,99,P
 8554_01,Earth,0,E/547/P,PSO J318.5-22,58.0,0,487.0,0.0,195.0,0.0,7.0,Britta Valezaley,8554,01,E,547,P
@@ -6019,18 +6019,18 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0940_01,Earth,0,G/136/P,TRAPPIST-1e,38.0,0,55.0,741.0,0.0,0.0,13.0,Armen Byerton,0940,01,G,136,P
 9107_01,Earth,1,G/1467/S,TRAPPIST-1e,36.0,0,0.0,0.0,0.0,0.0,0.0,Eriky Callowery,9107,01,G,1467,S
 8457_01,Earth,0,F/1627/S,TRAPPIST-1e,23.0,0,29.0,0.0,170.72672872340425,332.0,270.0,Erie Lopelases,8457,01,F,1627,S
-7258_01,Earth,0,F/1502/P,TRAPPIST-1e,43.0,0,473.0,1390.0,0.0,0.0,0.0,William Knight,7258,01,F,1502,P
+7258_01,Earth,0,F/1502/P,TRAPPIST-1e,43.0,0,473.0,1390.0,0.0,0.0,0.0,Robin Gibson,7258,01,F,1502,P
 8427_01,Earth,1,G/1376/P,PSO J318.5-22,17.0,0,0.0,0.0,0.0,0.0,0.0,Nice Sosanturney,8427,01,G,1376,P
 6798_01,Earth,0,F/1414/P,TRAPPIST-1e,40.0,0,3.0,0.0,61.0,0.0,742.0,Therly Jacostarks,6798,01,F,1414,P
 8395_01,Europa,0,D/260/P,TRAPPIST-1e,32.0,0,0.0,13.0,0.0,2148.0,319.0,Keidus Coniple,8395,01,D,260,P
 1084_01,Earth,0,F/207/S,TRAPPIST-1e,31.0,0,0.0,1.0,0.0,16.0,843.0,Kylen Holcompson,1084,01,F,207,S
-8147_02,Earth,1,,TRAPPIST-1e,2.0,0,0.0,0.0,0.0,0.0,0.0,Mabley Pittler,8147,02,A,34,B
+8147_02,Earth,1,,TRAPPIST-1e,2.0,0,0.0,0.0,0.0,0.0,0.0,Mabley Pittler,8147,02,D,184,B
 1057_01,Europa,1,C/39/P,55 Cancri e,20.0,0,0.0,0.0,0.0,0.0,0.0,Cherkar Braned,1057,01,C,39,P
 4577_01,Mars,0.0,F/858/S,TRAPPIST-1e,17.0,0,250.0,0.0,2179.0,0.0,0.0,Oss Kha,4577,01,F,858,S
 0183_01,Earth,0,F/36/S,TRAPPIST-1e,37.0,0,17.0,146.0,426.0,0.0,232.0,Stany Weaves,0183,01,F,36,S
 6028_02,Europa,0,A/57/P,TRAPPIST-1e,32.0,1,0.0,792.0,0.0,1.0,1335.0,Cherkab Preeldy,6028,02,A,57,P
 7274_01,Earth,0,F/1506/P,TRAPPIST-1e,13.0,0,305.0,582.0,12.0,19.0,0.0,Loria Woodwinton,7274,01,F,1506,P
-8548_01,Earth,0,F/1755/P,TRAPPIST-1e,21.0,0,129.0,106.0,280.0,183.0,18.0,Jessica Savage,8548,01,F,1755,P
+8548_01,Earth,0,F/1755/P,TRAPPIST-1e,21.0,0,129.0,106.0,280.0,183.0,18.0,Steven Burns,8548,01,F,1755,P
 4113_01,Europa,1,B/129/P,55 Cancri e,16.0,0,0.0,0.0,0.0,0.0,0.0,Taraid Bradiary,4113,01,B,129,P
 1086_04,Earth,0,E/61/P,TRAPPIST-1e,19.0,0,0.0,0.0,0.0,641.0,0.0,Almary Willangsey,1086,04,E,61,P
 3317_01,Earth,0,G/540/P,TRAPPIST-1e,27.0,0,0.0,0.0,0.0,0.0,1765.0,Pamont Scottney,3317,01,G,540,P
@@ -6044,19 +6044,19 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 5855_01,Earth,0,F/1209/P,TRAPPIST-1e,64.0,0,0.0,623.0,1827.0,0.0,0.0,Hanna Horndley,5855,01,F,1209,P
 6594_01,Earth,1,G/1067/P,55 Cancri e,34.0,0,0.0,0.0,0.0,0.0,0.0,Jord Schmondez,6594,01,G,1067,P
 7499_01,Earth,0,F/1551/P,55 Cancri e,20.0,0,30.0,132.0,1121.0,0.0,0.0,Enrie Hayder,7499,01,F,1551,P
-2796_01,Earth,0,F/536/S,55 Cancri e,17.0,0,0.0,0.0,0.0,863.0,0.0,Valerie Schaefer,2796,01,F,536,S
+2796_01,Earth,0,F/536/S,55 Cancri e,17.0,0,0.0,0.0,0.0,863.0,0.0,Matthew Raymond,2796,01,F,536,S
 8035_01,Mars,1,F/1536/S,TRAPPIST-1e,35.0,0,0.0,0.0,0.0,0.0,0.0,Walmon Staf,8035,01,F,1536,S
 9008_02,Earth,1,F/1745/S,TRAPPIST-1e,25.0,0,0.0,0.0,0.0,0.0,0.0,Regory Herreras,9008,02,F,1745,S
 5757_01,Earth,0,F/1195/P,TRAPPIST-1e,23.0,0,0.0,0.0,0.0,558.0,1.0,Dianya Salin,5757,01,F,1195,P
 4172_02,Mars,0,F/856/P,TRAPPIST-1e,58.0,0,12.0,0.0,186.0,2436.0,4.0,Cinkes Flell,4172,02,F,856,P
-3821_01,Earth,0,,PSO J318.5-22,33.0,0,0.0,2.0,0.0,0.0,867.0,Violan Mcphernard,3821,01,D,171,S
+3821_01,Earth,0,,PSO J318.5-22,33.0,0,0.0,2.0,0.0,0.0,867.0,Violan Mcphernard,3821,01,E,100,B
 1622_01,Mars,1,F/323/P,TRAPPIST-1e,35.0,0,0.0,0.0,0.0,0.0,0.0,Jayrin Sau,1622,01,F,323,P
 1347_01,Earth,0,F/271/P,TRAPPIST-1e,67.0,0,0.0,761.0,0.0,1.0,0.0,Karah Horners,1347,01,F,271,P
 8254_01,Mars,1,F/1700/P,TRAPPIST-1e,33.0,0,0.0,0.0,0.0,0.0,0.0,Cocowl Cone,8254,01,F,1700,P
 2029_01,Earth,0,F/400/P,55 Cancri e,43.0,0,0.0,6.0,730.0,1.0,0.0,Lyne Camerrison,2029,01,F,400,P
 4965_01,Earth,1.0,E/308/P,TRAPPIST-1e,21.0,0,457.0,79.0,1134.0,0.0,0.0,Calvia Corman,4965,01,E,308,P
 3255_01,Earth,1,G/517/S,PSO J318.5-22,20.0,0,0.0,0.0,0.0,0.0,0.0,Fayel Morandry,3255,01,G,517,S
-2935_01,Europa,0,T/2/P,TRAPPIST-1e,33.0,0,0.0,28.0,0.0,6841.0,543.0,Ryan Johnson,2935,01,T,2,P
+2935_01,Europa,0,T/2/P,TRAPPIST-1e,33.0,0,0.0,28.0,0.0,6841.0,543.0,Brittany Garcia,2935,01,T,2,P
 0211_03,Mars,0,F/44/P,TRAPPIST-1e,17.0,0,848.0,0.0,307.0,182.0,0.0,Picers Date,0211,03,F,44,P
 2949_01,Earth,1,G/482/P,TRAPPIST-1e,22.0,0,0.0,0.0,0.0,0.0,0.0,Florey Boltertley,2949,01,G,482,P
 2193_01,Earth,0,F/439/P,PSO J318.5-22,25.0,0,0.0,0.0,619.0,0.0,70.0,Karlen Singtons,2193,01,F,439,P
@@ -6080,7 +6080,7 @@ PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt
 0504_01,Europa,1,B/19/S,55 Cancri e,18.0,0,0.0,0.0,0.0,0.0,0.0,Thabius Unpasine,0504,01,B,19,S
 6633_01,Europa,0,B/255/S,TRAPPIST-1e,26.0,0,0.0,0.0,0.0,0.0,0.0,Nunkib Motive,6633,01,B,255,S
 6076_01,Earth,0.0,G/988/S,TRAPPIST-1e,18.0,0,14.0,2.0,144.0,610.0,0.0,Therry Cames,6076,01,G,988,S
-5537_01,Mars,0,F/1063/S,TRAPPIST-1e,50.0,1,690.0,0.0,30.0,762.0,428.0,Herms Bancy,5537,01,F,1063,S
+5537_01,Mars,0,F/1063/S,TRAPPIST-1e,50.0,0,690.0,0.0,30.0,762.0,428.0,Herms Bancy,5537,01,F,1063,S
 5756_06,Earth,0,F/1194/P,PSO J318.5-22,22.0,0,158.0,0.0,476.0,0.0,26.0,Karena Briggston,5756,06,F,1194,P
 0925_01,Mars,0,F/191/P,TRAPPIST-1e,34.0,0,379.0,0.0,1626.0,0.0,0.0,Skix Kraie,0925,01,F,191,P
 7775_01,Europa,0,C/253/P,55 Cancri e,28.0,0,7.0,489.0,0.0,4.0,6027.0,Alraium Disivering,7775,01,C,253,P
